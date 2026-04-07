@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="images/ml_banner.png" width="800">
+  <img src="images/ai_tools.png" width="800">
 </div>
 
 
