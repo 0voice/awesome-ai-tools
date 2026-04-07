@@ -1,13 +1,12 @@
 # awesome-ai-tools
-> A curated list of awesome AI tools, resources and libraries to boost your productivity. 🚀  
-
-精选的 AI 工具合集，收录开发者、内容创作者和办公人群高频使用的 AI 工具、资源与库，涵盖 大模型应用、开发工具、办公自动化、数据处理、视觉生成 等方向。
-
 
 <div align="center">
   <img src="images/ai_tools.png" width="800">
 </div>
 
+> A curated list of awesome AI tools, resources and libraries to boost your productivity. 🚀  
+
+精选的 AI 工具合集，收录开发者、内容创作者和办公人群高频使用的 AI 工具、资源与库，涵盖 大模型应用、开发工具、办公自动化、数据处理、视觉生成 等方向。
 
 - 💡 **分类清晰**：按场景 / 技术栈整理，新手也能快速上手
 
