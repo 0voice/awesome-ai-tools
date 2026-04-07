@@ -1,12 +1,17 @@
-# awesome-ai-tools
+<h1 align="center"> 🔥 2026年1000+ai工具合集  </h1>
+<p align="center">
+  💼 精选的 AI 工具合集，收录开发者、内容创作者和办公人群高频使用的 AI 工具、资源与库，涵盖 大模型应用、开发工具、办公自动化、数据处理、视觉生成 等方向。
+</p>
+<p align="center">
+  🚀 持续更新中 
+</p>
 
 <div align="center">
   <img src="images/ai_tools.png" width="800">
 </div>
 
-> A curated list of awesome AI tools, resources and libraries to boost your productivity. 🚀  
-
-精选的 AI 工具合集，收录开发者、内容创作者和办公人群高频使用的 AI 工具、资源与库，涵盖 大模型应用、开发工具、办公自动化、数据处理、视觉生成 等方向。
+> A curated list of awesome AI tools, resources and libraries to boost your productivity. 🚀
+> 
 
 - 💡 **分类清晰**：按场景 / 技术栈整理，新手也能快速上手
 
@@ -50,23 +55,27 @@
 
 ## 🚀 快速导航
 
-- [📄 文档生成与编辑](#文档生成与编辑)
+- [ 文本创作类](#文本创作类)
 
-- [📊 数据处理与分析](#数据处理与分析)
+- [ 图像设计类](#图像设计类)
 
-- [🎨 PPT与可视化设计](#PPT与可视化设计)
+- [ 音视频类](#音视频类)
 
-- [📧 邮件与沟通自动化](#邮件与沟通自动化)
+- [ 办公效率类](#办公效率类)
 
-- [🔍 OCR与截图识别](#OCR与截图识别)
+- [ 编程开发类](#编程开发类)
 
-- [⚙️ 其他办公辅助](#其他办公辅助)
+- [ 学习教育类](#学习教育类)
+- [ 营销电商类](#营销电商类)
+- [ 生活实用类](#生活实用类)
+- [ 专业行业类](#专业行业类)
+- [ 聚合导航类](#聚合导航类)
 
-- [🛠️ 使用指南](#使用指南)
+- [ 使用指南](#使用指南)
 
-- [🤝 贡献指南](#贡献指南)
+- [ 贡献指南](#贡献指南)
 
-- [❌ 避坑提醒](#避坑提醒)
+- [ 避坑提醒](#避坑提醒)
 
 ## 🌟 为什么选这个合集？
 
@@ -82,213 +91,459 @@
 
 ## 📁 工具分类 
 
-### 📄 文档生成与编辑
+##  文本创作类
 
-覆盖周报、论文、文案、简历生成，以及文档润色、翻译、格式转换，解决办公中“写得慢、改得多”的痛点。
-
-|工具名称|核心功能|免费额度|上手难度|适用人群|官方链接|
-|---|---|---|---|---|---|
-|WPS AI|文档生成、润色、翻译、格式转换，适配WPS全生态，无需切换软件|每日免费10次生成，基础润色免费|★☆☆☆☆|所有职场人、学生|[点击进入](https://ai.wps.cn/)|
-|Notion AI|笔记生成、大纲梳理、文案润色，支持Markdown格式，适配Notion编辑器|免费版可使用基础功能，高级功能需付费|★☆☆☆☆|笔记党、内容创作者、职场人|[点击进入](https://www.notion.so/ai)|
-|秘塔写作猫|论文润色、语法纠错、文案优化，支持中英文，适配学术/职场文案|每日免费5000字润色，生成功能免费10次/天|★☆☆☆☆|学生、文案、科研人员|[点击进入](https://xiezuomao.com/)|
-|Copy\.ai|营销文案、周报、简历生成，支持多语言，可自定义语气和风格|免费版每月10000字，无功能限制|★☆☆☆☆|营销人员、职场人、自媒体|[点击进入](https://www.copy.ai/)|
-|SmallPDF AI|PDF转Word/Excel、PDF编辑、OCR识别，AI辅助提取PDF关键信息|每日免费2次转换，基础编辑免费|★☆☆☆☆|所有职场人、学生|[点击进入](https://smallpdf.com/ai)|
-|README\-AI|自动生成专业 README，支持多 LLM、自定义模板、多语言|开源免费，可接自有 LLM 密钥|★★☆☆☆|开发者、开源维护者|[点击进入](https://github.com/eli64s/readme-ai)|
-|AI Document Creator|仓库级文档生成，文件 / 目录 / 索引三级结构，PR 自动更新|25 万终身 token，月免费额度|★★☆☆☆|团队、GitHub 协作项目|[点击进入](https://github.com/apps/ai-document-creator)|
-|Docify\-AI|生成 README、docstring、API、Dockerfile、CI 配置，支持 Gemini/OpenAI|开源免费，可接免费 LLM 额度|★★☆☆☆|Python 开发者、ML 项目|[点击进入](https://github.com/shiwangupadhyay/docify-project)|
-|Zread CLI|代码转文档，命令行一键生成 README、结构说明|开源免费，调用 LLM 按官方计费|★★☆☆☆|终端爱好者、快速文档|[点击进入](https://github.com/codegeex/zread_cli)|
-|aidocs\-cli|基于 Claude Code 的文档生成，支持 mkdocs 主题|开源免费，需 Claude API 密钥|★★☆☆☆|前端 / 全栈、文档站点|[点击进入](https://github.com/BinarCode/aidocs-cli)|
-|autodocs|AI 驱动的文档生成与更新，支持多语言|开源免费，需 LLM API|★★★☆☆|自动化文档团队|[点击进入](https://github.com/skoppisetty/autodocs)|
-|DeepWiki|GitHub 仓库转交互式维基，对话式 AI 问答、依赖图|公共仓库完全免费，无需注册|★☆☆☆☆|学习者、开源贡献者|[点击进入](https://deepwiki.ai)|
-|Mintlify|AI 原生文档平台，从 OpenAPI 生成 API 文档，Web 编辑器|免费版含基础功能，付费版高级|★★☆☆☆|开发者、技术文档团队|[点击进入](https://github.com/mintlify/mintlify)|
-|GitBook AI|结构化文档生成，协作编辑、版本管理、GitHub 集成|免费版有限，付费版无限|★★☆☆☆|团队知识库、产品文档|[点击进入](https://github.com/GitbookIO/gitbook)|
-|La Suite Docs|开源协作文档编辑器，AI 改写 / 总结 / 翻译，自托管|开源免费，可自托管|★★★☆☆|隐私敏感团队、企业|[点击进入](https://github.com/suitenumerique/docs)|
-|AiEditor|富文本编辑器，AI 续写 / 翻译 / 校对，多框架集成|开源版 LGPL，商业版付费|★★☆☆☆|前端开发者、内容平台|[点击进入](https://github.com/aieditor-team/aieditor)|
-|Allein|本地 AI 编辑器，上下文补全、语法修正，离线可用|开源免费，本地运行 LLM|★★★☆☆|隐私优先开发者|[点击进入](https://github.com/szilarddoro/allein)|
-|UAI Editor|现代 UI 富文本编辑器，AI 辅助编辑，多框架支持|开源免费，商业版付费|★★☆☆☆|多行业文档管理|[点击进入](https://github.com/uai-team/uai-editor)|
-|DOCX Editor \(React\)|客户端 DOCX 编辑，修订、评论、插件系统|开源免费，非服务器依赖|★★★☆☆|React 开发者、文档工具集成|[点击进入](https://github.com/eigenpal/docx-editor)|
-|GitMCP|GitHub 结构化知识库，消除 AI 幻觉，精准文档检索|开源免费，云端 / 自托管|★☆☆☆☆|开发者、AI 编码协作|[点击进入](https://github.com/idosal/git-mcp)|
-|ReadMeX|GitHub 项目自动生成 README，中英文、智能内容|免费版基础生成，付费高级|★☆☆☆☆|GitHub 项目快速文档|[点击进入](https://www.readmex.ai)|
-|MiniMax Office Skills|生成 / 编辑 Word/Excel/PPT/PDF，高保真格式，MIT 开源|免费开源，商用免费|★★☆☆☆|办公自动化、文档生产|[点击进入](https://github.com/MiniMax-AI/skills)|
-|OpenCLI|AI 原生 CLI，文档 / 网站 / 应用终端操作|开源免费，零 LLM 成本|★★★☆☆|终端开发者、AI Agent|[点击进入](https://github.com/OpenCLI-dev/OpenCLI)|
-|Gemini CLI|终端 AI Agent，文件操作、Shell 命令、1M 上下文|免费调用额度，开源 Apache2\.0|★★★☆☆|终端爱好者、开发者|[点击进入](https://github.com/google/gemini-cli)|
-|localGPT|本地文档问答，隐私保护，混合检索引擎|开源免费，本地部署|★★★☆☆|隐私优先、企业文档|[点击进入](https://github.com/PromtEngineer/localGPT)|
-|Typora \+ AI 插件|所见即所得 Markdown，AI 生成 / 润色 / 翻译|编辑器付费，插件按需|★★☆☆☆|技术写作、Markdown 用户|[点击进入](https://typora.io/)|
-|Obsidian AI 插件|本地知识库，AI 总结、关联生成、双向链接|插件付费，Obsidian 基础免费|★★★☆☆|知识管理、笔记用户|[点击进入](https://obsidian.md/)|
-|VS Code AI 插件集 \(Copilot/Codeium\)|编辑器内文档生成、注释、代码转文档|Copilot 付费，Codeium 免费|★★☆☆☆|开发者、VS Code 用户|[点击进入](https://github.com/github/copilot)|
-|Codeium|免费代码补全与文档生成，多编辑器支持|完全免费无限制|★★☆☆☆|预算有限开发者、学生|[点击进入](https://github.com/Exafunction/codeium)|
-|ChatGPT CLI|终端调用 ChatGPT，文档生成、编辑、查询|按 OpenAI 官方计费|★★★☆☆|终端爱好者、开发者|[点击进入](https://github.com/marcoluzi/chatgpt-cli)|
-|Claude Code|代码理解与文档生成，长上下文、精准输出|按 Anthropic 官方计费|★★☆☆☆|高质量文档需求者|[点击进入](https://www.anthropic.com/claude)|
-|Cursor|基于 LLM 的代码编辑器，文档生成、重构、注释|免费版有限，付费版无限|★★☆☆☆|开发者、代码文档一体化|[点击进入](https://github.com/getcursor/cursor)|
-|ChatPDF|PDF 文档问答、总结、翻译，AI 辅助编辑|免费版有限，付费版无限|★☆☆☆☆|PDF 文档处理、快速阅读|[点击进入](https://github.com/chatpdf/chatpdf)|
-|Docx\.js \+ AI|客户端 Word 文档处理，AI 生成 / 编辑|开源免费，AI 服务按需|★★★☆☆|文档工具开发者|[点击进入](https://github.com/mwilliamson/docx.js)|
-|Markdown AI Editor|轻量 Markdown 编辑器，AI 生成、实时预览|开源免费，可接自有 LLM|★★☆☆☆|快速 Markdown 写作|[点击进入](https://github.com/joemccann/markdown-ai-editor)|
-|DocsGPT|文档问答、自动生成技术文档、支持自托管|开源免费，在线版有限免费|★★☆☆☆|技术团队、开源项目|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Farc53%2FDocsGPT\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|LlamaIndex Docs|文档智能索引、总结、生成，支持多格式导入|开源免费，API 按需付费|★★★☆☆|开发者、数据工程师|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Frun\-llama%2Fllama\_index\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|LangChain Document AI|文档加载、分割、总结、生成、多模型编排|开源免费，商用需注意协议|★★★☆☆|开发者、AI 应用搭建者|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Flangchain\-ai%2Flangchain\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|DocuAsk|PDF/Word 对话式问答、内容提取、自动摘要|基础功能免费，高级付费|★☆☆☆☆|学生、办公人员|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2FDocuAsk%2FDocuAsk\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|AI Writer GitHub Action|自动为 GitHub 项目生成 README、更新文档|完全免费开源|★★★☆☆|GitHub 开发者、CI/CD 团队|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fmarketplace%2Factions%2Fai\-readme\-generator\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|MarkDocs AI|Markdown 智能编辑、续写、润色、格式优化|开源免费，可本地部署|★★☆☆☆|博客作者、技术写手|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fmarkdocs\-ai%2Fmarkdocs\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Paperpal|学术论文 AI 润色、语法纠错、结构优化|免费版有限字数，学术常用|★★☆☆☆|研究生、科研人员|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fpaperpal\.com\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Writefull|学术写作、语法校对、句式改写、文献辅助|基础免费，高级版付费|★☆☆☆☆|留学生、科研工作者|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwritefull\.com\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Notion AI|笔记 / 文档 / 知识库生成、续写、总结、翻译|免费额度有限，付费解锁|★☆☆☆☆|个人笔记、团队协作者|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwww\.notion\.so%2Fproduct%2Fai\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|WPS AI|Word/PPT/PDF 生成、润色、总结、公式排版|每日免费字数，会员无限|★☆☆☆☆|国内办公用户、学生|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fai\.wps\.cn\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|豆包文档助手|文档生成、总结、改写、排版、长文处理|日常使用基本免费|★☆☆☆☆|普通用户、办公人群|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwww\.doubao\.com\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|秘塔写作猫|文本校对、改写、润色、公文 / 论文优化|免费版够用，高级付费|★☆☆☆☆|文案、办公、学生|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fxiezuocat\.com\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|QuillBot|英文句子改写、润色、总结、语法修正|免费版有限制，付费全功能|★☆☆☆☆|英文写作、留学生|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fquillbot\.com\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Grammarly|英文语法纠错、语气调整、文本润色|免费版基础纠错|★☆☆☆☆|英文邮件、论文写作者|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwww\.grammarly\.com\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|ChatDOC|PDF / 扫描件对话、提取表格、自动总结|每日免费页数|★☆☆☆☆|文献阅读、资料整理|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fchatdoc\.com\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Unstructured IO|多格式文档解析、清洗、结构化、AI 预处理|开源免费，Apache 协议|★★★☆☆|数据处理、文档工程师|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2FUnstructured\-IO%2Funstructured\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|TldrThis|文章、论文、视频字幕快速 AI 总结|每日免费次数，付费无限|★☆☆☆☆|速读、信息筛选人群|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Ftldrthis\.com\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Type AI|在线编辑器 \+ AI 续写、润色、大纲生成|基础免费，高级功能付费|★☆☆☆☆|自媒体、文案、写手|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Ftypeai\.app\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|DocuSketch AI|文档结构生成、内容大纲、章节自动填充|免费试用，商业付费|★★☆☆☆|产品文档、技术写手|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2FDocuSketch\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Pandoc AI|文档格式转换 \+ AI 内容优化、批量处理|开源免费，AI 需自行接入|★★★☆☆|技术写作、格式强迫症|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fjgm%2Fpandoc\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-
-
-### 📊 数据处理与分析
-
-无需复杂代码，AI自动处理Excel/CSV数据、生成图表、做数据可视化，适合非技术人群快速完成数据任务。
+写作、文案、润色改写、摘要总结、翻译、论文辅助、小说 / 剧本、公文 / 邮件
 
 |工具名称|核心功能|免费额度|上手难度|适用人群|官方链接|
 |---|---|---|---|---|---|
-|Excel AI 助手（微软）|Excel内置AI，自动生成公式、清洗数据、制作图表，用自然语言下达指令即可|Office 365用户免费使用，基础功能无限制|★☆☆☆☆|财务、运营、行政、所有用Excel的人|[点击进入](https://www.microsoft.com/zh-cn/microsoft-365/excel)|
-|Tableau AI|数据可视化、自动生成分析报告，支持拖拽操作，无需代码，快速呈现数据洞察|免费试用14天，基础版免费（功能有限）|★★☆☆☆|运营、数据分析师、市场人员|[点击进入](https://www.tableau.com/ai)|
-|MonkeyLearn|文本数据分类、情感分析、关键词提取，支持Excel/CSV批量导入处理|免费版每月处理1000条数据，基础模型免费|★★☆☆☆|运营、市场、科研人员|[点击进入](https://monkeylearn.com/)|
-|DataCamp AI Assistant|AI辅助写SQL、Python代码，数据清洗、分析，适合新手学习和快速处理数据|免费版可使用基础功能，高级功能需付费|★★★☆☆|新手数据分析师、学生|[点击进入](https://www.datacamp.com/ai-assistant)|
-|Polars|高性能 DataFrame，10–100 倍于 Pandas，低内存，支持大文件|开源免费，商用友好|★★☆☆☆|数据分析师、Python 开发者、大文件处理|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fpola\-rs%2Fpolars\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|DuckDB|嵌入式 OLAP 数据库，本地 / 文件 SQL 分析，列式存储|开源免费，完全本地可用|★★☆☆☆|数据分析师、数据工程师、本地分析|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fduckdb%2Fduckdb\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|MindsDB|数据库内 AI 分析与预测，SQL\+ML，多数据源连接|开源免费，社区版够用|★★★☆☆|数据工程师、分析师、AI \+ 数据库开发者|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fmindsdb%2Fmindsdb\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Pandas AI|Pandas 增强，自然语言操作，自动清洗 / 可视化|开源免费，在线版有限额|★★☆☆☆|非编程背景分析师、学生、办公人员|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2FAI\-Pandas%2Fpandas\-ai\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Chat\-With\-Excel|自然语言对话 Excel/CSV，零代码分析与建模|开源免费，本地部署隐私|★★☆☆☆|小白、办公人员、数据入门学习者|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2FIntegram%2Fchat\-with\-excel\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Ollama|快速本地部署大模型，离线推理，支持多种模型|开源免费，本地运行免费|★★☆☆☆|隐私敏感开发者、本地 AI 分析|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Follama%2Follama\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Hugging Face AI Sheets|类 Excel 表格 AI 处理，支持 Hugging Face 模型|开源免费，本地 / 云端可用|★★☆☆☆|分析师、数据科学家、本地隐私需求|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fhuggingface%2Fai\-sheets\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Pathway|实时 ETL 与流处理，Python 生态，低延迟数据管道|开源免费，Apache 2\.0|★★★☆☆|数据工程师、实时数据分析团队|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fpathwaycom%2Fpathway\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Dask|并行计算，处理超大规模数据集，兼容 Pandas API|开源免费，按需扩展|★★★☆☆|大数据分析师、分布式计算开发者|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fdask%2Fdask\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|LanceDB|AI 原生向量数据库，高效相似性搜索与分析|开源免费，社区版免费|★★★☆☆|推荐系统、RAG 应用、向量数据分析|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Flancedb%2Flancedb\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Whisper|语音转文字，多语言识别，生成字幕 / 文本|开源免费，本地运行免费|★★★☆☆|会议整理、视频字幕、语音数据处理|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fopenai%2Fwhisper\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|LangChain\-Chatchat|中文本地知识库问答，NL2SQL，离线数据检索|开源免费，支持离线部署|★★★☆☆|中文用户、隐私敏感、企业知识库|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fchatchat\-space%2FLangchain\-Chatchat\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Danfo\.js|JavaScript 数据处理库，类似 Pandas，前端可用|开源免费，商用友好|★★★☆☆|前端开发者、全栈数据分析师|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fopensource9ja%2Fdanfojs\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|AKShare|金融数据 API，股票 / 基金 / 外汇 / 加密货币数据|开源免费，部分数据免费|★★☆☆☆|量化交易、金融研究、数据获取|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fakfamily%2Fakshare\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Retentioneering|用户行为轨迹分析，点击流挖掘，留存优化|开源免费，学术 / 商用|★★★☆☆|电商分析、用户增长、行为研究|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fretentioneering%2Fretentioneering\-tools\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Flyte|MLOps 流水线，数据预处理 \- 训练 \- 部署全流程|开源免费，社区版免费|★★★★☆|数据科学家、MLOps 团队、企业级流水线|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fflyteorg%2Fflyte\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Elementary|数据质量监控与告警，数据管道可观测性|开源免费，社区版免费|★★★★☆|数据工程师、数据质量负责人|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Felementary\-data%2Felementary\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|NumPy|科学计算基础，多维数组，线性代数 / 傅里叶变换|开源免费，BSD 协议|★★★☆☆|数据科学家、科研人员、数值计算|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fnumpy%2Fnumpy\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|SciPy|科学计算库，优化、积分、统计、信号处理|开源免费，BSD 协议|★★★☆☆|科研人员、数据分析师、算法开发|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fscipy%2Fscipy\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Matplotlib|静态数据可视化，折线图 / 柱状图 / 散点图等|开源免费，BSD 协议|★★★☆☆|分析师、开发者、论文图表制作|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fmatplotlib%2Fmatplotlib\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Seaborn|基于 Matplotlib，统计可视化，美观易用|开源免费，BSD 协议|★★★☆☆|数据分析师、统计学者、可视化新手|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fmwaskom%2Fseaborn\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Plotly|交互式可视化，图表可交互、导出、动态更新|开源免费，社区版免费|★★★☆☆|分析师、产品经理、数据展示|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fplotly%2Fplotly\.py\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Bokeh|大规模交互式可视化，适合 Web 展示|开源免费，BSD 协议|★★★☆☆|前端开发者、大数据可视化|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fbokeh%2Fbokeh\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Altair|声明式可视化，语法简洁，组合式图表|开源免费，BSD 协议|★★★☆☆|分析师、开发者、快速可视化|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Faltair\-viz%2Faltair\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Scikit\-learn|经典机器学习库，分类 / 回归 / 聚类 / 特征工程|开源免费，BSD 协议|★★★☆☆|数据科学家、ML 开发者、算法学习|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fscikit\-learn%2Fscikit\-learn\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Statsmodels|统计建模与检验，时间序列、回归分析|开源免费，BSD 协议|★★★☆☆|统计学者、金融分析、时间序列|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fstatsmodels%2Fstatsmodels\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|XGBoost|极端梯度提升，高效分类 / 回归 / 排序|开源免费，Apache 2\.0|★★★☆☆|数据科学家、竞赛选手、工业预测|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fdmlc%2Fxgboost\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|LightGBM|高效梯度提升，支持大规模数据，分布式训练|开源免费，MIT 协议|★★★☆☆|数据科学家、竞赛选手、大数据 ML|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fmicrosoft%2FLightGBM\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|CatBoost|自动处理类别特征，梯度提升，防过拟合|开源免费，Apache 2\.0|★★★☆☆|数据科学家、特征工程新手、表格数据|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fcatboost%2Fcatboost\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Prophet|时间序列预测，适合业务数据，节假日适配|开源免费，MIT 协议|★★★☆☆|金融、电商、运营、时间序列预测|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Ffacebook%2Fprophet\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|PyCaret|低代码 ML 流水线，实验管理、模型对比|开源免费，MIT 协议|★★☆☆☆|小白、分析师、快速 ML 原型|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fpycaret%2Fpycaret\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|AutoML|自动特征工程、模型选择与超参数调优|开源免费，社区版免费|★★★☆☆|数据科学家、AutoML 实践者|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fautoml%2Fauto\-sklearn\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|TensorFlow|深度学习框架，大规模训练与部署|开源免费，Apache 2\.0|★★★★☆|深度学习开发者、AI 研究|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Ftensorflow%2Ftensorflow\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|PyTorch|动态图深度学习，灵活高效，研究与生产|开源免费，BSD 协议|★★★★☆|深度学习开发者、AI 研究、大模型|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fpytorch%2Fpytorch\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Streamlit|快速搭建数据应用，可视化与交互界面|开源免费，社区版免费|★★☆☆☆|分析师、开发者、快速原型展示|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fstreamlit%2Fstreamlit\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Gradio|快速构建模型演示界面，支持分享与部署|开源免费，Apache 2\.0|★★☆☆☆|开发者、数据科学家、模型演示|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fgradio\-app%2Fgradio\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|FastAPI|快速搭建 ML API，生产级性能与文档|开源免费，MIT 协议|★★★☆☆|开发者、ML 工程师、API 开发|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Ftiangolo%2Ffastapi\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Prefect|数据流水线调度，任务编排与监控|开源免费，社区版免费|★★★★☆|数据工程师、DevOps、流水线管理|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2FPrefectHQ%2Fprefect\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Airflow|分布式任务调度，DAG 编排，数据管道管理|开源免费，Apache 2\.0|★★★★☆|数据工程师、大数据团队、企业调度|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fapache%2Fairflow\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Great Expectations|数据质量验证，规则引擎，数据文档生成|开源免费，Apache 2\.0|★★★★☆|数据工程师、数据质量、数据治理|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fgreat\-expectations%2Fgreat\_expectations\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|OpenRefine|数据清洗与转换，去重、格式标准化、分面|开源免费，BSD 协议|★★☆☆☆|数据分析师、数据清洗、数据整理|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2FOpenRefine%2FOpenRefine\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Trifacta Wrangler|交互式数据准备，AI 辅助清洗与转换|免费版有限，付费版全功能|★★☆☆☆|分析师、数据准备专家、企业用户|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwww\.trifacta\.com%2Fproducts%2Fwrangler%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|有数 BI 个人版|拖拽式 BI 工具，数据建模、可视化、报表|个人永久免费，基础功能全|★★☆☆☆|个人分析师、学生、中小企业|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fyoudata\.163\.com%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|酷表 ChatExcel|自然语言对话 Excel，零代码分析与图表|基础免费，高级付费|★☆☆☆☆|小白、办公人员、数据快速分析|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fchatexcel\.com%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|办公小浣熊|数据清洗、统计、可视化，自然语言指令|日常免费，会员增值|★☆☆☆☆|学生、办公人员、数据入门|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwww\.xiaohuanxiong\.com%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Perplexity|数据驱动问答，联网实时分析，来源可追溯|基础免费，付费额度更高|★☆☆☆☆|分析师、研究者、数据信息检索|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwww\.perplexity\.ai%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|豆包|数据处理、分析、可视化，中文语境友好|基础免费，付费解锁更多|★☆☆☆☆|中文用户、办公人员、数据分析|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwww\.doubao\.com%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Kimi|长文档数据分析，多文件上传，精准摘要|免费额度充足，付费更高|★☆☆☆☆|分析师、研究者、长文档处理|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fkimi\.moonshot\.cn%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
+|豆包|全能写作、文案、润色、总结、对话|永久免费无限制|低|学生、职场人、自媒体|[点击进入](https://www.doubao.com/)|
+|ChatGPT (GPT-3.5)|通用写作、翻译、代码、多轮对话|免费无限次|中|创作者、程序员、职场人|[点击进入](https://chat.openai.com/)|
+|文心一言|中文文案、新媒体、营销、公文|每日 100 次 / 1000 字|低|自媒体、营销、公众号博主|[点击进入](https://yiyan.baidu.com/)|
+|Kimi Chat|长文本处理（20 万字）、文档总结|永久免费|低|研究者、学生、资料整理|[点击进入](https://kimi.moonshot.cn/)|
+|通义千问|长文本、多轮对话、中文创作|基础版完全免费|低|日常写作、学生、职场|[点击进入](https://tongyi.aliyun.com/)|
+|讯飞星火|文案、多风格创作、36 领域知识|每日 20 次|低|营销、产品、广告文案|[点击进入](https://xinghuo.xfyun.cn/)|
+|Gemini (免费)|多模态、超长上下文、创意写作|每日有限次数|中|普通用户、创意创作者|[点击进入](https://gemini.google.com/)|
+|DeepSeek|中文长文、推理、代码、写作|免费额度充足|中|程序员、创作者、研究者|[点击进入](https://chat.deepseek.com/)|
+|智谱清言|中文写作、对话、知识问答、润色|每日免费额度|低|学生、职场、内容创作者|[点击进入](https://chat.zhipuai.cn/)|
+|Claude 3 (免费)|长文本、文档分析、创作、总结|免费版有限次数|中|法律、学术、长文创作者|[点击进入](https://www.anthropic.com/)|
+|天工 AI|写作、文案、摘要、对话|每日 20 次|低|自媒体、职场、学生|[点击进入](https://tiangong.kunlun.com/)|
+|腾讯混元|写作、润色、段落扩展、改写|每日 10 次|低|文案优化、内容编辑|[点击进入](https://hunyuan.tencent.com/)|
+|字节 Coze|模板写作、工作流、自定义 Bot|每日 10 次|中|职场、运营、团队协作|[点击进入](https://coze.cn/)|
+|笔灵 AI|公文、论文、简历、小说模板|每日 5 次|低|学生、职场、应试写作|[点击进入](https://ibiling.cn/)|
+|秘塔写作猫|纠错、润色、翻译、改写|每日 8000 字纠错、2000 字翻译|低|编辑、学生、文案优化|[点击进入](https://xiezuocat.com/)|
+|新华妙笔|公文、报告、申请书、格式规范|基础免费|低|公务员、职场、行政写作|[点击进入](https://www.xinhuamiaobi.com/)|
+|彩云小梦|小说、故事、续写、创意写作|每日免费字数|低|网络作家、小说创作者|[点击进入](https://if.caiyunai.com/)|
+|壹写作|小说大纲、章节、人物、情节管理|基础免费|中|小说作者、编剧|[点击进入](https://www.yixiezuo.com/)|
+|轻抖|文案提取、改写、短视频脚本、字幕|每日免费次数|低|短视频博主、自媒体|[点击进入](https://www.qingdou.cc/)|
+|文案狗|营销文案、广告语、标题、口号生成|基础免费|低|营销、广告、新媒体运营|[点击进入](https://www.wenangou.com/)|
+|Jasper|企业级营销、广告、邮件、品牌文案|免费试用 7 天|中|企业营销、品牌运营|[点击进入](https://www.jasper.ai/)|
+|Copy.ai|社媒文案、产品描述、广告素材|免费版每日 2000 词|低|跨境电商、社媒运营|[点击进入](https://www.copy.ai/)|
+|Rytr|多语言写作、30 + 语种、文案模板|免费版每月 10,000 字符|低|跨境、多语言内容创作|[点击进入](https://rytr.me/)|
+|QuillBot|改写、润色、同义词替换、句式调整|免费版有限功能|低|学生、英文写作、论文优化|[点击进入](https://quillbot.com/)|
+|Grammarly|英文语法纠错、润色、风格优化|免费版基础功能|低|英文写作、留学生、外贸|[点击进入](https://www.grammarly.com/)|
+|PaperPass|论文查重、降重、润色、参考文献|每日 2 次免费查重|低|本科生、硕博、学术写作|[点击进入](https://www.paperpass.com/)|
+|PaperYY|论文写作、降重、排版、查重|基础免费、查重优惠|低|学生、学术论文创作|[点击进入](https://www.paperyy.com/)|
+|知网研学|文献管理、论文写作、笔记、批注|基础免费|中|研究生、科研人员|[点击进入](https://x.cnki.net/)|
+|万方检测|论文查重、降重、学术规范检测|免费试用次数|低|硕博、期刊论文写作|[点击进入](https://wanfangdata.com.cn/)|
+|Writefull|学术润色、语法、句式、文献优化|免费版基础功能|中|留学生、英文论文写作|[点击进入](https://writefull.com/)|
+|Overleaf AI|LaTeX 论文、协作、公式、图表生成|免费版无限协作|高|科研、理工科学术写作|[点击进入](https://www.overleaf.com/)|
+|沁言学术|中文学术大纲、初稿、文献综述|大纲免费、初稿 5000 字免费|中|中文科研、硕博论文|[点击进入](https://www.qinyanxue.com/)|
+|小影 AI|短视频脚本、分镜、台词、字幕生成|每日免费次数|低|短视频博主、UP 主|[点击进入](https://www.xiaoying.tv/)|
+|剪映 AI|脚本、字幕、配音、文案生成|完全免费|低|短视频创作者、剪辑师|[点击进入](https://www.capcut.cn/)|
+|剧易写|剧本、分镜、台词、场景、人物管理|基础免费|中|编剧、导演、影视创作|[点击进入](https://www.juyixie.com/)|
+|灯果写作|小说、剧本、大纲、人物、情节创作|基础免费|中|网络作家、编剧|[点击进入](https://www.dengguo.com/)|
+|135 编辑器 AI|公众号文案、排版、标题、封面设计|免费版基础功能|低|公众号小编、新媒体运营|[点击进入](https://www.135editor.com/)|
+|秀米 AI|公众号文案、H5、排版、图文设计|免费版有限功能|低|公众号、新媒体、活动运营|[点击进入](https://xiumi.us/)|
+|WPS AI|文档写作、总结、润色、PPT 生成|免费版每日额度|低|职场、学生、办公文档|[点击进入](https://ai.wps.cn/)|
+|语雀 AI|知识库、文档、笔记、协作写作|免费版基础功能|中|团队、技术文档、知识管理|[点击进入](https://www.yuque.com/)|
+|Llama 3 (开源)|通用写作、对话、多语言、可本地部署|开源免费可商用|高|开发者、研究者、私有部署|[点击进入](https://github.com/meta-llama/llama-3)|
+|Qwen (通义开源)|中文写作、长文本、对话、可微调|开源免费 (Apache 2.0)|高|开发者、中文 AI 应用|[点击进入](https://github.com/QwenLM/Qwen)|
+|ChatGLM3 (开源)|中文长文、对话、写作、本地部署|开源免费|中|开发者、中文创作、企业私有|[点击进入](https://github.com/THUDM/ChatGLM3)|
+|Mistral (开源)|通用写作、推理、多语言、高效推理|开源免费可商用|高|开发者、AI 应用、私有部署|[点击进入](https://github.com/mistralai/mistral-models)|
+|Phi-3 (开源)|轻量写作、对话、边缘设备、低资源|开源免费|高|开发者、移动端、嵌入式 AI|[点击进入](https://github.com/microsoft/Phi-3)|
+|FastChat (开源)|开源模型界面、多模型接入、聊天服务|开源免费|高|开发者、模型测试、私有聊天|[点击进入](https://github.com/lm-sys/FastChat)|
+|LangChain (开源)|写作工作流、RAG、多工具协作、Agent|开源免费|高|开发者、AI 应用开发|[点击进入](https://github.com/langchain-ai/langchain)|
+|LlamaIndex (开源)|文档检索、增强写作、知识库创作|开源免费|高|开发者、文档 AI、知识写作|[点击进入](https://github.com/run-llama/llama_index)|
+|RAGFlow (开源)|本地知识库、文档问答、写作增强|开源免费|中|个人、企业、本地文档写作|[点击进入](https://github.com/infiniflow/ragflow)|
+|LibreChat (开源)|多模型聚合、自定义界面、对话管理|开源免费|中|开发者、个人 AI 助手|[点击进入](https://github.com/danny-avila/LibreChat)|
+|Text Generation WebUI|本地模型部署、写作、对话、微调界面|开源免费|高|开发者、AI 爱好者、本地写作|[点击进入](https://github.com/oobabooga/text-generation-webui)|
+|百川 AI (开源)|中文写作、对话、长文本、可微调|开源免费|高|开发者、中文 AI 应用、企业|[点击进入](https://github.com/baichuan-inc/Baichuan2)|
+|零一万物 (开源)|中文写作、推理、对话、可商用|开源免费|高|开发者、中文创作、企业应用|[点击进入](https://github.com/01-ai/Yi)|
+|DeepSeek-Coder (开源)|代码写作、注释、生成、调试|开源免费|高|程序员、代码文档、技术写作|[点击进入](https://github.com/deepseek-ai/DeepSeek-Coder)|
+|青云 AI (开源)|轻量中文写作、对话、边缘部署|开源免费|高|开发者、移动端、轻量应用|[点击进入](https://github.com/QingWei-AI/QingWei)|
+|书生・浦语 (开源)|中文写作、多模态、对话、长文本|开源免费|高|开发者、中文 AI、多模态创作|[点击进入](https://github.com/InternLM/InternLM)|
+|混元 AI (开源)|通用写作、对话、多语言、可微调|开源免费|高|开发者、企业应用、私有部署|[点击进入](https://github.com/Tencent/Hunyuan)|
+|天马 AI (开源)|中文小说、故事、创意写作、可本地|开源免费|中|小说作者、创意写作爱好者|[点击进入](https://github.com/TianMaAI/TianMa-Large-Language-Model)|
+|易写作 (开源)|轻量写作、大纲、文案、个人笔记|开源免费|低|个人、学生、轻量写作需求|[点击进入](https://github.com/easy-write/easy-write)|
 
-### 🎨 PPT与可视化设计
 
-AI自动生成PPT、设计模板、优化排版，无需手动调整，快速做出高质量演示文稿。
 
-|工具名称|核心功能|免费额度|上手难度|适用人群|官方链接|
+
+##  图像设计类
+
+AI 绘画、文生图、海报 / Logo、抠图修图、高清修复、老照片翻新、插画 / 表情包
+
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
 |---|---|---|---|---|---|
-|Canva AI|PPT模板生成、排版优化、图文设计，支持AI生成图片，拖拽式操作，新手友好|免费版可使用所有基础模板和功能，部分素材需付费|★☆☆☆☆|所有职场人、学生、自媒体|[点击进入](https://www.canva.com/ai/)|
-|SlideAI|输入文本/大纲，AI自动生成PPT，自动匹配模板、排版，支持一键修改|免费版每月生成5份PPT，无水印|★☆☆☆☆|职场汇报、学生答辩人群|[点击进入](https://slideai.io/)|
-|Beautiful\.ai|AI智能排版，自动调整字体、颜色、间距，生成专业级PPT，支持团队协作|免费试用7天，基础版免费（最多5份PPT）|★☆☆☆☆|职场人、团队汇报、演讲者|[点击进入](https://www.beautiful.ai/)|
-|豆包 PPT 助手|对话式生成 PPT，智能大纲 / 内容 / 排版，一键导出 PPTX|基础免费，无水印可编辑|★☆☆☆☆|学生、职场新人、加急需求|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwww\.doubao\.com%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|扣子 PPT（字节）|全流程 AI 生成，含资料检索、排版、配图，免费无限制|完全免费，无使用次数|★☆☆☆☆|中文用户、企业汇报、教学课件|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fcoze\.cn%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|WPS AI PPT|与 WPS 生态联动，文档转 PPT，智能排版 / 配色，多格式导出|免费版每日 2 次生成|★☆☆☆☆|WPS 用户、团队协作、日常办公|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwww\.wps\.cn%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|千问 AI PPT|阿里 Qwen 大模型驱动，框架搭建、内容优化、可视化建议|纯免费，无广告无次数限制|★☆☆☆☆|职场汇报、政企单位、技术方案|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Ftongyi\.aliyun\.com%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|笔格 PPT|135 编辑器旗下，输入主题一键生成，模板丰富|登录后每日免费生成 / 下载|★☆☆☆☆|学生、新手、快速出稿|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwww\.135editor\.com%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|7 牛 AI PPT|行业模板多，术语准确，支持智能编辑 / 润色 / 扩写|免费版 7 大功能免费；专业版 39 元 / 月|★☆☆☆☆|职场人、各行业汇报、演讲|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwww\.7nppt\.com%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|LivePPT（美图）|输入文本 / 文档生成 16\-20 页 PPT，快速出效果|基础免费，高级功能付费|★☆☆☆☆|小白、运营、市场推广|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fppt\.meitu\.com%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|墨刀 AIPPT|10 秒出框架，3 分钟成稿，团队协作友好|免费版基础功能；付费版全功能|★☆☆☆☆|企业团队、产品经理、快速迭代|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwww\.modao\.cc%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|蚂蚁 PPT|在线 AI 生成，专业版式，适合各类汇报|免费版有限额；付费版无限制|★☆☆☆☆|职场新人、中小企业、教育场景|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwww\.mayippt\.com%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|酷表 AI PPT|模板 \+ AI 排版，支持数据可视化嵌入，快速美化|基础免费，会员解锁高级模板|★☆☆☆☆|办公人员、数据展示、汇报|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwww\.kubiao\.com%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Presenton|本地部署 AI PPT 生成，支持 Ollama 本地模型，隐私可控|开源免费，MIT 协议|★★☆☆☆|隐私敏感者、开发者、企业内网|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fpresenton%2Fpresenton\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|LandPPT|输入主题自动生成大纲与内容，支持多模型|开源免费，GitHub 1\.4K Star|★★☆☆☆|学生、研究者、快速文稿演示|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fsligter%2FLandPPT\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|TrainPPTAgent|微信联网检索，流式生成 PPT 内容，前后端分离|开源免费，Python\+Streamlit|★★★☆☆|开发者、个性化内容生成|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Ftopics%2Fppt\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|PPT Master|开源可编辑 AI PPT，一键生成无水印|开源免费，MIT 协议|★★☆☆☆|开发者、二次开发爱好者|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Ftopics%2Fppt\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|PPTist|在线 PPT 编辑，还原 PowerPoint 常用功能，支持 AI 辅助|开源免费，可本地部署|★★★☆☆|开发者、团队在线协作、替代 Office|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2FPPTist%2FPPTist\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Canva 可画|海量 PPT 模板 \+ AI 智能排版，免费版够用|免费版基础模板；Pro 版付费解锁高级|★☆☆☆☆|零基础、设计小白、创意展示|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwww\.canva\.cn%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Flourish|交互式数据可视化 PPT，动态图表、数据故事|免费版基础功能；付费版高级模板|★★☆☆☆|数据分析师、媒体、数据新闻|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fflourish\.studio%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|镝数图表|近 100 种图表，支持可视化视频 / 动图，PPT 适配|免费版基础图表；会员解锁高级|★★☆☆☆|新媒体、运营、数据汇报|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fdydata\.io%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|畅图 AI|对话式生成思维导图 / 流程图，支持实时编辑|免费版基础功能；付费版高级|★☆☆☆☆|学生、策划、知识梳理|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwww\.fluig\.cn%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|爱图表|自动匹配视觉通道，数据转图表快速精准|免费版基础图表；付费版高级|★☆☆☆☆|数据新手、快速分析展示|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Faitubiao\.com%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|阿里 AntV Infographic|声明式语法生成信息图，支持 AI 流式渲染，200 \+ 模板|开源免费，MIT 协议|★★★☆☆|开发者、设计师、技术文档|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fantvis%2Finfographic\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Next AI \[Draw\.io\]\(Draw\.io\)|自然语言生成架构图 / 流程图，兼容 \[draw\.io\]\(draw\.io\)，可编辑|开源免费，MIT 协议，Docker 部署|★★★☆☆|开发者、架构师、技术方案|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fhexastack\-dev%2Fnext\-ai\-draw\-io\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Data Formulator|微软研究院 AI 可视化，自然语言生成图表，支持多数据源|开源免费，MIT 协议|★★★☆☆|数据分析师、科研人员、报告制作|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fmicrosoft%2Fdata\-formulator\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Plotly|交互式可视化库，支持 Python/R/JS，图表可交互导出|开源免费，MIT 协议；在线平台免费|★★★☆☆|开发者、数据科学家、论文图表|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fplotly%2Fplotly\.py\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|ECharts|百度开源可视化库，图表丰富，适配移动端|开源免费，Apache 2\.0 协议|★★★☆☆|前端开发者、数据展示、网页可视化|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fapache%2Fecharts\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|DataEase|国产开源 BI，拖拽式图表，支持多数据源对接|开源免费，可本地部署|★★☆☆☆|中小企业、数据分析师、个人 BI|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fdataease%2Fdataease\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Google Data Studio|免费在线 BI，连接 Google 生态，实时协作|基础免费；高级连接器付费|★★☆☆☆|营销人员、网站分析师、Google 用户|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Flookerstudio\.google\.com%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Datawrapper|媒体专用图表工具，快速生成交互式图表|免费版非商用；商用付费|★★☆☆☆|记者、媒体、公共机构报告|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwww\.datawrapper\.de%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Powerdrill Bloom|AI 驱动可视化，上传文件自动生成图表与摘要|免费版基础功能；付费版高级|★★☆☆☆|分析师、运营、快速数据洞察|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwww\.powerdrill\.io%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Tableau Public|Tableau 免费版，交互式仪表盘，数据故事|免费版数据公开；Private 版付费|★★★☆☆|数据分析师、可视化爱好者、学术|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fpublic\.tableau\.com%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|PicDoc\-AI|文本转 PPT 插图，精准匹配场景，无水印|免费版基础插图；付费高级|★☆☆☆☆|职场人、学生、PPT 美化|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fpicdoc\.ai%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Vectr|免费矢量绘图，高清无损，PPT 插图专用|完全免费，无水印无登录|★★☆☆☆|设计师、PPT 爱好者、大屏展示|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fvectr\.com%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|OpenUI|自然语言生成 UI 组件，支持多模型，本地部署|开源免费，MIT 协议|★★★☆☆|开发者、UI 设计师、原型快速构建|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fwandb%2Fopenui\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|SuperDesign|AI 设计 Agent，生成 UI 原型 / 线框图，IDE 集成|开源免费，MIT 协议|★★★☆☆|开发者、设计师、快速迭代|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fsuperdesigndev%2Fsuperdesign\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|JaSketch|轻量矢量绘图，支持 AI 辅助，导出 SVG/PDF|开源免费，MIT 协议|★★☆☆☆|设计师、开发者、文档插图|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fjaseci\-labs%2Fjasketch\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|Onlook|视觉优先编辑器，Figma 导入，AI 辅助 UI 构建|开源免费，MIT 协议|★★★☆☆|前端开发者、设计协作、原型|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fgithub\.com%2Fonlook\-dev%2Fonlook\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|亿图图示 AI|生成流程图 / 架构图 / 思维导图，支持 AI 大纲|免费版有限额；付费版全功能|★★☆☆☆|职场人、学生、技术文档|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwww\.edrawsoft\.com%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|ProcessOn|在线流程图 / 思维导图，AI 辅助生成，团队协作|免费版基础功能；付费版高级|★★☆☆☆|学生、运营、项目管理|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwww\.processon\.com%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|\[draw\.io\]\(draw\.io\)|免费绘图工具，支持 AI 插件，多格式导出|完全免费，开源可用|★★☆☆☆|设计师、开发者、文档绘图|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fapp\.diagrams\.net%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|百度文心一格|AI 生成 PPT 插图 / 背景，国风 / 商务风格多|免费版基础素材；付费高级版权|★★☆☆☆|设计师、PPT 爱好者、内容创作|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fyige\.baidu\.com%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|腾讯智图|AI 生成高清插图 / 图标，适配 PPT 场景，无版权|免费版基础资源；付费高级|★★☆☆☆|设计师、开发者、PPT 美化|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fzhitu\.qq\.com%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|讯飞听见图|语音转文字转图表，适合会议纪要可视化|免费版基础额度；付费高级|★★☆☆☆|职场人、学生、会议整理|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwww\.xfyun\.cn%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|石墨文档 AI|文档转 PPT，智能排版，与石墨生态联动|免费版基础功能；付费版高级|★★☆☆☆|石墨用户、团队协作、快速演示|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fshimo\.im%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|飞书 PPT AI|飞书生态联动，AI 生成 / 排版，支持多人协作|免费版基础功能；付费版高级|★★☆☆☆|飞书用户、企业团队、内部汇报|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwww\.feishu\.cn%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|语雀 AI|文档转 PPT，智能大纲，语雀生态深度整合|免费版基础功能；付费版高级|★★☆☆☆|语雀用户、学生、知识分享|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwww\.yuque\.com%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|腾讯文档 AI|文档转 PPT，智能排版，与腾讯生态联动|免费版基础功能；付费版高级|★★☆☆☆|腾讯文档用户、企业团队、日常办公|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fdocs\.qq\.com%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|金山文档 AI|文档转 PPT，智能排版，与 WPS 生态联动|免费版基础功能；付费版高级|★★☆☆☆|金山文档用户、学生、日常办公|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwww\.kdocs\.cn%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|美图秀秀 AI|快速美化 PPT 插图 / 背景，一键调色，无水印|免费版基础功能；付费高级素材|★☆☆☆☆|小白、PPT 爱好者、快速美化|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fxiuxiu\.web\.meitu\.com%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
-|稿定设计 AI|PPT 模板 \+ AI 排版，插图 / 图标丰富，快速出稿|免费版基础模板；付费高级版权|★★☆☆☆|职场人、学生、运营、设计小白|\[点击进入\]\(sslocal://flow/file\_open?url=https%3A%2F%2Fwww\.gaoding\.com%2F\&amp;flow\_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=\)|
+| MyEdit | AI 绘图、图片编辑、多种模型可选 | 每日免费点数 | 低 | 设计新手、社交媒体创作者 | [点击进入](https://tw.cyberlink.com/) |
+| CapCut | AI 图像生成、智能编辑、海报设计 | 功能强大的免费版 | 低 | 视频创作者、设计师 | [点击进入](https://www.capcut.com/) |
+| WaveSpeedAI | 聚合 Flux、GPT-Image 等 50+ 模型 | 注册即送免费点数 | 中 | AI 模型测试、设计工作室 | [点击进入](https://wavespeed.ai/) |
+| Midjourney | 高质量艺术感图像生成 | 无 | 中 | 艺术家、创意工作者 | [点击进入](https://www.midjourney.com/) |
+| DALL·E 3 | 高质量图像生成 | 需通过 OpenAI 平台付费使用 | 低 | 设计师、创意工作者 | [点击进入](https://openai.com/dall-e-3) |
+| Adobe Firefly | 商用级图像生成与编辑 | 每月约 25 个点数 | 中 | 企业设计、Adobe 用户 | [点击进入](https://www.adobe.com/products/firefly.html) |
+| Leonardo.Ai | 多种风格图像生成，适合游戏资产 | 每日约 150 点数 | 中 | 游戏设计师、概念艺术家 | [点击进入](https://leonardo.ai/) |
+| Ideogram | 文字渲染精准，适合海报/Logo | 每日约 10 次生成 | 低 | 平面设计师、营销人员 | [点击进入](https://ideogram.ai/) |
+| Microsoft Designer | 集成 DALL-E 3，日常设计 | 每日约 15 次快速生成 | 低 | 普通用户、职场人士 | [点击进入](https://designer.microsoft.com/) |
+| Playground AI | 每日 500 张，适合大批量探索 | 每日约 500 次 | 中 | 概念设计师、创意人员 | [点击进入](https://playground.com/) |
+| Stable Diffusion | 开源模型，高度可定制 | 开源免费 | 高 | 开发者、AI 研究者 | [点击进入](https://stability.ai/) |
+| Canva | 集成 AI 设计功能，模板丰富 | 功能强大的免费版 | 低 | 营销人员、非专业设计师 | [点击进入](https://www.canva.com/) |
+| Fotor | 在线修图与 AI 设计 | 基础免费 | 低 | 普通用户、摄影爱好者 | [点击进入](https://www.fotor.com/) |
+| Pixlr | 浏览器图片编辑与 AI 功能 | 基础免费 | 低 | 摄影爱好者、设计师 | [点击进入](https://pixlr.com/) |
+| PhotoDirector | AI 生成与专业修图工具结合 | 基础免费 | 中 | 摄影爱好者、设计师 | [点击进入](https://www.cyberlink.com/products/photodirector/) |
+| Craiyon | 无限免费生成 | 免费无限 | 低 | 尝鲜用户、创意爱好者 | [点击进入](https://www.craiyon.com/) |
+| getimg.ai | 图像生成、编辑、扩展画布 | 部分免费 | 中 | 设计师、内容创作者 | [点击进入](https://getimg.ai/) |
+| DreamStudio | Stable Diffusion 官方界面 | 注册送免费点数 | 中 | Stable Diffusion 用户 | [点击进入](https://dreamstudio.ai/) |
+| NovelAI | 二次元/动漫风格图像生成 | 无 | 中 | 插画师、动漫爱好者 | [点击进入](https://novelai.net/) |
+| Stableboost | 基于 Stable Diffusion 的图像生成与优化 | 基础免费 | 中 | 设计师、AI 爱好者 | [点击进入](https://stableboost.io/) |
+| Runway ML | 视频与图像生成、编辑 | 基础免费 | 中 | 视频创作者、艺术家 | [点击进入](https://runwayml.com/) |
+| Kling | 高质量图像生成 | 每日免费点数 | 中 | 设计师、创作者 | [点击进入](https://kling.kuaishou.com/) |
+| GPT-IMAGE-1 | 通过文本生成图像 | 有限免费 | 低 | 普通用户、设计师 | [点击进入](https://openai.com/gpt-image-1) |
+| Nano Banana Pro | 图像生成与编辑 | 每日免费点数 | 中 | 设计师、创意工作者 | [点击进入](https://www.nanobanana.ai/) |
+| Recraft | 矢量图与图像生成 | 基础免费 | 中 | 平面设计师、品牌运营 | [点击进入](https://www.recraft.ai/) |
+| 123RF | 图库与 AI 图像生成 | 基础免费 | 低 | 电商、内容创作者 | [点击进入](https://www.123rf.com/) |
+| PhotoRoom | 一键抠图、背景替换 | 基础免费 | 低 | 电商卖家、摄影师 | [点击进入](https://www.photoroom.com/) |
+| Imagine AI Art Generator | 艺术风格图像生成 | 基础免费 | 低 | 艺术爱好者、创意者 | [点击进入](https://www.imagineaiart.com/) |
+| Civitai | 分享与下载 Stable Diffusion 模型 | 完全免费 | 高 | AI 模型爱好者 | [点击进入](https://civitai.com/) |
+| Picsart | 图像编辑与设计 | 基础免费 | 低 | 社交媒体运营、设计师 | [点击进入](https://picsart.com/) |
+| NightCafé | 图像生成与风格迁移 | 每日免费点数 | 低 | 艺术爱好者、创意者 | [点击进入](https://nightcafe.studio/) |
+| Freepik | 图库与 AI 图像生成 | 每日免费点数 | 低 | 设计师、内容创作者 | [点击进入](https://www.freepik.com/) |
+| Kittl | 浏览器设计工具，矢量图生成 | 基础免费 | 中 | 平面设计师 | [点击进入](https://www.kittl.com/) |
+| Kodo | 自然语言生成海报/演示文稿 | 基础免费 | 低 | 市场营销、社交媒体运营 | [点击进入](https://kodo.ai/) |
+| Designs.AI | Logo、视频、横幅生成 | 免费试用 | 中 | 品牌设计师、企业主 | [点击进入](https://designs.ai/) |
+| Variant | AI 网页与应用界面设计 | 基础免费 | 中 | UI/UX 设计师 | [点击进入](https://www.variant.design/) |
+| Thinking Line | 手绘涂鸦风动画生成 | 基础免费 | 中 | 教育者、视频创作者 | [点击进入](https://thinkingline.ai/) |
+| 墨刀 AI | AI 原型设计，需求生成高保真原型 | 基础免费 | 低 | 产品经理、UI/UX 设计师 | [点击进入](https://modao.cc/) |
+| 即时 AI | AI 驱动在线 UI 设计 | 基础免费 | 中 | UI/UX 设计师 | [点击进入](https://js.design/) |
+| Google Stitch | AI 原生设计平台，语音交互 | 基础免费 | 中 | UI/UX 设计师 | [点击进入](https://stitch.withgoogle.com/) |
+| 通义万相 | AI 图像生成与编辑 | 每日免费点数 | 低 | 国内用户、设计师 | [点击进入](https://tongyi.aliyun.com/) |
+| 豆包 | AI 绘画与设计 | 每日免费点数 | 低 | 国内用户、创意者 | [点击进入](https://www.doubao.com/) |
+| 即梦 AI | 字节旗下 AI 图像生成平台 | 限时免费 | 低 | 国内用户、内容创作者 | [点击进入](https://jimeng.jianying.com/) |
+| 可灵 | 快手旗下高质量 AI 视频与图像生成 | 每日免费点数 | 低 | 视频创作者、设计师 | [点击进入](https://kling.kuaishou.com/) |
+| Photopea | 浏览器 Photoshop 替代，AI 修图 | 基础免费 | 中 | 平面设计师、学生 | [点击进入](https://www.photopea.com/) |
+| DuckDuckGo AI | 隐私保护的 AI 图像编辑 | 有限免费 | 低 | 注重隐私的用户 | [点击进入](https://duckduckgo.com/) |
+| InvokeAI | 基于 Stable Diffusion 的专业创意引擎 | 开源免费 | 高 | 专业人士、开发者 | [点击进入](https://github.com/invoke-ai/InvokeAI) |
+| Dreamifly | 轻量级 AI 图像生成平台 | 开源免费 | 中 | 开发者、设计师 | [点击进入](https://github.com/Dreamifly/Dreamifly) |
+| OmniGen | 统一图像生成与编辑 | 开源免费 | 高 | 开发者、研究者 | [点击进入](https://github.com/omni-gen/OmniGen) |
+| FLUX.2 [klein] | 极速开源图像生成 | 开源免费 | 高 | 开发者、企业 | [点击进入](https://github.com/black-forest-labs/flux) |
+| Qwen-Image | 阿里开源，中英文文本渲染强 | 开源免费 | 高 | 开发者、企业 | [点击进入](https://github.com/QwenLM/Qwen-Image) |
+| GLM-Image | 自回归与扩散解码混合 | 开源免费 | 高 | 开发者、研究者 | [点击进入](https://github.com/THUDM/GLM-Image) |
+| Wallaroo | 统一图像理解、生成与编辑 | 开源免费 | 高 | 研究者、开发者 | [点击进入](https://github.com/JiePKU/Wallaroo) |
+| NeoBabel | 多语言 AI 图像生成器 | 开源免费 | 高 | 多语言内容创作者 | [点击进入](https://github.com/neobabel) |
+| Z-Image | 基于单流 DiT 的高效生成 | 开源免费 | 高 | 开发者、研究者 | [点击进入](https://github.com/Z-Image) |
+| Skywork UniPic | 图像理解、生成、编辑一体化 | 开源免费 | 高 | 开发者、研究者 | [点击进入](https://github.com/SkyworkAI/UniPic) |
+| LongCat-Image | 美团开源，专注图像编辑 | 开源免费 | 高 | 开发者、设计师 | [点击进入](https://github.com/Meituan/LongCat-Image) |
+| BAGEL | 统一多模态模型 | 开源免费 | 高 | 研究者、开发者 | [点击进入](https://github.com/bytedance/bagel) |
+| DreamO | 主题驱动生成、虚拟试穿 | 开源免费 | 高 | 电商、游戏开发者 | [点击进入](https://github.com/bytedance/dream-o) |
+| SANA | 线性扩散变换器高分辨率合成 | 开源免费 | 高 | 研究者、开发者 | [点击进入](https://github.com/SANA) |
 
 
-### 📧 邮件与沟通自动化
 
-AI自动生成邮件、回复客户、整理聊天记录，节省沟通时间，提升沟通效率。
+##  音视频类
 
-|工具名称|核心功能|免费额度|上手难度|适用人群|官方链接|
+语音转文字、AI 配音、实时字幕、视频生成 / 剪辑、数字人、人声分离、背景音乐生成
+
+ **AI视频生成** 
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
 |---|---|---|---|---|---|
-|Grammarly AI|邮件语法纠错、润色、语气调整，支持中英文，避免沟通中的语法错误|免费版基础纠错功能，高级润色需付费|★☆☆☆☆|外贸从业者、职场沟通人群、学生|[点击进入](https://www.grammarly.com/ai-writing)|
-|Lavender AI|邮件优化、发送时间建议、回复率分析，帮助提升邮件回复率|免费版每月可优化50封邮件|★☆☆☆☆|销售、外贸、商务沟通人群|[点击进入](https://www.lavender.ai/)|
-|ChatGPT for Gmail|Gmail插件，AI自动生成邮件、回复邮件，支持自定义语气（正式/亲切）|免费版每天5次生成，无功能限制|★☆☆☆☆|常用Gmail的职场人、外贸从业者|[点击进入](https://www.chatgpt-for-email.com/)|
+| Runway Gen-4 | 专业级视频生成、运动笔刷、相机预设 | 免费版约125积分 | 中 | 影视创作者、专业视频制作 | [点击进入](https://runwayml.com/) |
+| Pika 2.5 | 文本/图像生视频、动画效果 | 有限免费 | 低 | 短视频创作者、创意人员 | [点击进入](https://pika.art/) |
+| Kling 2.6 | 最长120秒视频生成、动态动作 | 每日免费点数 | 低 | 短视频博主、创意创作者 | [点击进入](https://kling.kuaishou.com/) |
+| Seedance | 多模型集成、文本/图像生视频 | 注册送免费积分 | 中 | 综合视频创作者 | [点击进入](https://www.seedance.tv/) |
+| 可灵 AI | 快手旗下高质量视频生成 | 每日免费点数 | 低 | 国内用户、短视频创作者 | [点击进入](https://kling.kuaishou.com/) |
+| Google Veo 3 | 参考感知视频生成、高质量输出 | 有限免费 | 中 | 创意工作者、企业用户 | [点击进入](https://deepmind.google/veo) |
+| Sora 2 | 电影级文生视频（60秒） | 无 | 中 | 影视级内容创作 | [点击进入](https://openai.com/sora) |
+| Midjourney Video | 图像生成扩展至视频动画 | 需付费订阅 | 中 | 艺术家、创意工作者 | [点击进入](https://www.midjourney.com/) |
+| Leonardo Motion | 游戏资产风格视频生成 | 每日约150积分 | 中 | 游戏设计师、概念艺术家 | [点击进入](https://leonardo.ai/) |
+| Luma Dream Machine | 高质量视频生成、运动控制 | 有限免费 | 中 | 创意工作者、设计师 | [点击进入](https://lumalabs.ai/dream-machine) |
+| Haiper AI | 文本/图像转视频 | 免费 | 低 | 初学者、社交内容创作者 | [点击进入](https://haiper.ai/) |
+| Animato | 2D/3D动画生成 | 基础免费 | 低 | 动画创作者、教育者 | [点击进入](https://www.animato.ai/) |
+| Colossyan | AI虚拟人视频生成 | 免费试用 | 低 | 企业培训、营销视频制作 | [点击进入](https://www.colossyan.com/) |
+| Elai.io | AI虚拟人播报视频 | 每月1分钟免费 | 低 | 企业培训、营销人员 | [点击进入](https://elai.io/) |
+| HeyGen | AI数字人视频生成 | 有限免费 | 低 | 营销人员、内容创作者 | [点击进入](https://www.heygen.com/) |
 
 
-
-### 🔍 OCR与截图识别
-
-截图、图片、PDF中的文字快速识别，支持复制、翻译，解决“无法复制图片文字”的痛点。
-
-|工具名称|核心功能|免费额度|上手难度|适用人群|官方链接|
+ **视频剪辑与制作** 
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
 |---|---|---|---|---|---|
-|天若OCR|截图识别、图片OCR，支持中英文、公式识别，可复制、翻译，桌面端插件，一键识别|免费版无广告，功能无限制|★☆☆☆☆|所有职场人、学生|[点击进入](https://tianruoocr.cn/)|
-|白描OCR|图片/OCR识别、PDF文字提取，支持批量处理，可导出为Word/Excel，手机/电脑端都可用|免费版每天50次识别，批量处理需付费|★☆☆☆☆|所有职场人、学生|[点击进入](https://baimiaoapp.com/)|
-|Google Lens|图片/OCR识别、翻译、搜索，手机端APP，支持实时识别，适合外出场景|完全免费，无使用限制|★☆☆☆☆|所有人群，适合移动场景|[点击进入](https://lens.google.com/)|
+| CapCut | AI视频剪辑、模板、字幕、特效 | 功能强大的免费版 | 低 | 短视频创作者、普通用户 | [点击进入](https://www.capcut.com/) |
+| DaVinci Resolve | 专业级剪辑、调色、音频、AI特效 | 功能强大的免费版 | 高 | 专业剪辑师、调色师 | [点击进入](https://www.blackmagicdesign.com/products/davinciresolve) |
+| Canva Video | AI视频设计、模板丰富 | 功能强大的免费版 | 低 | 营销人员、非专业设计师 | [点击进入](https://www.canva.com/) |
+| Adobe Premiere Pro (AI) | AI辅助剪辑、自动重构、色彩匹配 | 需付费订阅 | 高 | 专业视频编辑 | [点击进入](https://www.adobe.com/products/premiere.html) |
+| Filmora | 从图片生成多样化视频 | 基础免费 | 低 | 初学者、日常视频制作 | [点击进入](https://filmora.wondershare.com/) |
+| Google Vids | 浏览器AI视频编辑 | 永久免费 | 低 | Google用户、普通创作者 | [点击进入](https://vids.google.com/) |
+| VEED.IO | 在线视频编辑、自动字幕 | 免费版带水印 | 低 | 社媒内容创作者 | [点击进入](https://www.veed.io/) |
+| InVideo | 脚本转视频、海量模板 | 免费版带水印 | 低 | 营销人员、YouTube创作者 | [点击进入](https://invideo.io/) |
+| Pictory AI | 长视频转短视频摘要 | 免费试用 | 低 | 内容再利用、营销人员 | [点击进入](https://pictory.ai/) |
+| Vmaker AI | 浏览器AI视频编辑器 | 基础免费 | 低 | 远程团队、教学内容创作者 | [点击进入](https://www.vmaker.com/) |
+| Diffusion Studio Pro | 本地优先AI视频编辑、生成式AI | 免费 | 中 | 开发者、AI爱好者 | [点击进入](https://diffusion.studio/) |
+| AI Video Shortener | 长视频自动剪辑为短视频片段 | 免费 | 低 | 播客、访谈内容创作者 | [点击进入](https://sider.ai/) |
 
-### ⚙️ 其他办公辅助
 
-覆盖会议纪要、语音转文字、文件转换等高频办公场景，补充核心工具未覆盖的需求。
+ **音频生成与编辑** 
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
+|---|---|---|---|---|---|
+| Suno v5.5 | 最长8分钟AI音乐生成、人声克隆 | 每日免费点数 | 低 | 音乐创作者、内容制作者 | [点击进入](https://suno.com/) |
+| MiniMax Music 2.5+ | 人声歌曲+纯音乐生成、14段落结构控制 | 每日免费点数 | 低 | 音乐制作人、专业创作者 | [点击进入](https://www.minimax.com/) |
+| Google Lyria 3 Pro | 最长3分钟AI音乐、图像引导生成 | 有限免费 | 中 | 音乐制作人、创意工作者 | [点击进入](https://deepmind.google/lyria) |
+| 昆仑万维 Mureka V8 | 中文AI音乐生成、人声表现力强 | 有限免费 | 低 | 国内音乐创作者 | [点击进入](https://mureka.ai/) |
+| Udio | AI音乐生成、社区分享 | 每日免费点数 | 低 | 音乐爱好者、创意者 | [点击进入](https://www.udio.com/) |
+| Soundful | 商用背景音乐生成 | 基础免费 | 低 | 视频创作者、播客主 | [点击进入](https://soundful.com/) |
+| beatoven.ai | 定制化背景音乐生成 | 有限免费 | 低 | 视频创作者、内容制作者 | [点击进入](https://beatoven.ai/) |
+| Wondera | AI音乐生成、高质量输出 | 有限免费 | 中 | 音乐创作者 | [点击进入](https://www.wondera.ai/) |
+| Moises AI Studio | AI音乐干声分离、人声转换、母带处理 | 基础免费 | 中 | 音乐人、混音师 | [点击进入](https://moises.ai/) |
+| LyRuno | 视频/音频人声与背景音分离 | 免费 | 低 | 视频编辑、音乐制作人 | [点击进入](https://lyruno.com/) |
+| Pippit Audio Editor | 在线AI音频编辑、语音增强 | 基础免费 | 低 | 播客主、内容创作者 | [点击进入](https://www.pippit.ai/) |
+| Step-Audio-EditX | 开源AI音频编辑、自然语言指令 | 开源免费 | 中 | 开发者、音频编辑 | [点击进入](https://github.com/stepfun-ai/Step-Audio-EditX) |
+| Adobe Podcast AI | AI降噪、消除混响、电平调整 | 免费 | 低 | 播客主、音频创作者 | [点击进入](https://podcast.adobe.com/) |
+
+
+ **配音与声音克隆** 
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
+|---|---|---|---|---|---|
+| 琅琅配音 | 200+AI主播、30+语言、10+情感风格 | 每日3条标准配音 | 低 | 视频解说、广告配音、有声书 | [点击进入](https://www.lang123.top/) |
+| TTSMaker | 100+语言免费文本转语音 | 免费无限 | 低 | 多语言内容创作者 | [点击进入](https://ttsmaker.com/) |
+| NaturalReader | 100+自然人声、40+语言 | 每日5分钟 | 低 | 有声书制作、学习辅助 | [点击进入](https://www.naturalreaders.com/) |
+| FishAudio | 10-30秒音频克隆声音、多语言 | 每月20次合成 | 低 | 短视频配音、有声书 | [点击进入](https://www.fish.audio/) |
+| GPT-SoVITS | 5秒样本开源语音克隆 | 开源免费 | 高 | 开发者、技术爱好者 | [点击进入](https://github.com/RVC-Boss/GPT-SoVITS) |
+| CosyVoice | 阿里开源、3秒克隆+7种情感 | 开源免费 | 中 | 开发者、企业用户 | [点击进入](https://github.com/FunAudioLLM/CosyVoice) |
+| Mimic | 本地AI语音克隆、隐私保护 | 基础免费 | 中 | 注重隐私的创作者 | [点击进入](https://mimic.ai/) |
+| Google AI Studio TTS | Gemini 2.5 Flash TTS免费语音合成 | 免费 | 低 | Google用户、开发者 | [点击进入](https://aistudio.google.com/) |
+
+ **视频翻译与字幕** 
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
+|---|---|---|---|---|---|
+| 录咖 RecCloud | AI视频翻译、70+语言、字幕+配音一体化 | 基础免费 | 低 | 跨境出海、短剧翻译 | [点击进入](https://reccloud.com/) |
+| Subai | 视频/音频翻译为100+种语言 | 有限免费 | 低 | 全球内容传播者 | [点击进入](https://subai.app/) |
+| Pippit AI Subtitles | AI自动字幕生成、多语言翻译 | 免费 | 低 | 社媒内容创作者 | [点击进入](https://www.pippit.ai/) |
+| Zeemo AI | 110+语言字幕生成与翻译 | 基础免费 | 低 | 多语言内容创作者 | [点击进入](https://zeemo.ai/) |
+| SubEasy | AI快速字幕生成与翻译 | 免费 | 低 | 播客、访谈内容制作者 | [点击进入](https://subeasy.ai/) |
+
+
+**综合平台与聚合工具** 
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
+|---|---|---|---|---|---|
+| WaveSpeedAI | 聚合50+音视频AI模型 | 注册送免费点数 | 中 | AI模型测试、开发者 | [点击进入](https://wavespeed.ai/) |
+
+
+ **开源项目** 
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
+|---|---|---|---|---|---|
+| SkyReels-V3 | 图生视频、视频延长、音频驱动虚拟人 | 开源免费 | 高 | 开发者、研究者 | [点击进入](https://github.com/SkyworkAI/SkyReels-V3) |
+| LTX-2 | 20秒4K音画同步视频生成 | 开源免费 | 高 | 开发者、AI研究者 | [点击进入](https://github.com/Lightricks/LTX-2) |
+| CogVideoX | 清华开源文本/图像转视频 | 开源免费 | 高 | 开发者、技术团队 | [点击进入](https://github.com/THUDM/CogVideo) |
+| Wan 2.2 | 阿里开源高效视频生成 | 开源免费 | 高 | 开发者、企业用户 | [点击进入](https://github.com/Wan-AI/Wan2.2) |
+| MagiHuman | 150亿参数音视频同出大模型 | 开源免费 | 高 | 研究者、高级开发者 | [点击进入](https://github.com/Sand-AI/MagiHuman) |
+| MultiShotMaster | 多镜头视频生成框架 | 开源免费 | 高 | 研究者、开发者 | [点击进入](https://github.com/KlingAIResearch/MultiShotMaster) |
+| AudioX | 统一音频生成（T2A/T2M/V2A等） | 开源免费 | 高 | 研究者、音频开发者 | [点击进入](https://huggingface.co/collections/HKUSTAudio/audiox) |
+| VibeVoice | 微软开源语音识别与合成 | 开源免费 (MIT) | 高 | 开发者、企业用户 | [点击进入](https://github.com/microsoft/VibeVoice) |
+| Qwen3-TTS | 阿里开源多语言文本转语音 | 开源免费 | 高 | 开发者、企业用户 | [点击进入](https://github.com/QwenLM/Qwen3-TTS) |
+| automated-video-generator | 脚本自动生成MP4视频的自托管管道 | 开源免费 | 高 | 开发者、AI Agent | [点击进入](https://github.com/your-tools/automated-video-generator) |
+
+
+
+##  办公效率类
+
+PPT 自动生成、表格 / 数据处理、思维导图、简历优化、会议纪要、OCR 识别
+
+
+ **AI助手/综合型** 
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
+|---|---|---|---|---|---|
+| 豆包 AI | 文案写作、资料查询、图片处理、长文总结、文件分析 | 永久免费无限制 | 低 | 学生、职场人、自媒体 | [点击进入](https://www.doubao.com/) |
+| DeepSeek | 长文本处理、推理、代码、文件分析、数据可视化 | 免费额度充足 | 中 | 程序员、创作者、研究者 | [点击进入](https://chat.deepseek.com/) |
+| Kimi 智能助手 | 长文本处理（50万字）、文档总结、PPT 生成 | 永久免费 | 低 | 研究者、学生、资料整理 | [点击进入](https://kimi.moonshot.cn/) |
+| 通义千问 | 长文本、多轮对话、钉钉生态集成 | 基础版完全免费 | 低 | 日常写作、学生、职场 | [点击进入](https://tongyi.aliyun.com/) |
+| 腾讯元宝 | 写作、公文、多模态搜索、方案生成 | 免费 | 低 | 文案创作者、营销人员 | [点击进入](https://yuanbao.tencent.com/) |
+| ChatGPT | 通用写作、翻译、代码、多轮对话 | 免费版有限次数 | 中 | 创作者、程序员、职场人 | [点击进入](https://chat.openai.com/) |
+| Claude | 长文本、文档分析、写作、总结 | 免费版有限次数 | 中 | 法律、学术、长文创作者 | [点击进入](https://www.anthropic.com/) |
+| 智谱清言 | 中文写作、对话、知识问答、润色 | 每日免费额度 | 低 | 学生、职场、内容创作者 | [点击进入](https://chat.zhipuai.cn/) |
+| 秘塔 AI | 无广告纯净搜索、生成微型研报 | 免费 | 低 | 研究人员、市场分析 | [点击进入](https://metaso.cn/) |
+
+ **AI PPT/演示文稿** 
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
+|---|---|---|---|---|---|
+| 墨刀 AI PPT | Markdown 转结构清晰、视觉美观的 PPT | 基础免费 | 低 | 产品经理、运营、技术讲师 | [点击进入](https://modao.cc/) |
+| Gamma | AI 原生演示文稿生成，精致设计 | 免费版带有限制 | 低 | 团队、营销人员、创业者 | [点击进入](https://gamma.app/) |
+| Tome | 叙事型 AI PPT，融合多媒体内容 | 免费版有限功能 | 低 | 创意工作者、教育者 | [点击进入](https://tome.app/) |
+| Sider AI Slides | 将文本/PDF 转换为演示文稿 | 免费版有限功能 | 低 | 学生、职场人 | [点击进入](https://sider.ai/) |
+| MagicSlides | 文字内容快速转化为幻灯片 | 免费版有限功能 | 低 | 教师、培训师 | [点击进入](https://www.magicslides.app/) |
+| WPS AI | 文档写作、总结、润色、PPT 生成 | 免费版每日额度 | 低 | 职场、学生、办公文档 | [点击进入](https://ai.wps.cn/) |
+| Microsoft Copilot | Office 套件 AI 集成，PPT/Word/Excel | 需付费订阅 | 中 | 企业用户、Office 深度用户 | [点击进入](https://www.microsoft.com/zh-cn/microsoft-365/copilot) |
+
+ **会议纪要/摘要工具** 
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
+|---|---|---|---|---|---|
+| Notta | 多国语言语音转文字，会议记录 | 免费版每月120分钟 | 低 | 商务人士、跨国团队 | [点击进入](https://www.notta.ai/) |
+| Plaud Note | AI 录音笔，会议/访谈记录神器 | 有限免费 | 低 | 职场人、记者、学生 | [点击进入](https://www.plaud.ai/) |
+| MeetGeek | 自动记录会议、提取关键点和行动项 | 免费版有限功能 | 中 | 远程团队、项目经理 | [点击进入](https://meetgeek.ai/) |
+| Fellow | Google Meet 的 AI 会议笔记助手 | 免费版有限功能 | 低 | 团队、管理者 | [点击进入](https://fellow.app/) |
+| ClickUp SyncUps | 一键呼叫 + AI 摘要与行动项 | 永久免费 | 中 | 项目管理团队 | [点击进入](https://clickup.com/) |
+| 觅讯 | 语音转文字 + AI 总结 + 视频会议 | 免费额度充足 | 低 | 小型团队、企业用户 | [点击进入](https://mixun.com/) |
+
+ **文档写作/校对工具** 
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
+|---|---|---|---|---|---|
+| 秘塔写作猫 | 纠错、润色、翻译、改写 | 每日8000字纠错、2000字翻译 | 低 | 编辑、学生、文案优化 | [点击进入](https://xiezuocat.com/) |
+| Grammarly | 英文语法纠错、润色、风格优化 | 免费版基础功能 | 低 | 英文写作、留学生、外贸 | [点击进入](https://www.grammarly.com/) |
+| QuillBot | 改写、润色、同义词替换、句式调整 | 免费版有限功能 | 低 | 学生、英文写作、论文优化 | [点击进入](https://quillbot.com/) |
+| Copy.ai | 社媒文案、产品描述、广告素材 | 免费版每日2000词 | 低 | 跨境电商、社媒运营 | [点击进入](https://www.copy.ai/) |
+| Jasper | 企业级营销、广告、邮件、品牌文案 | 免费试用7天 | 中 | 企业营销、品牌运营 | [点击进入](https://www.jasper.ai/) |
+| Rytr | 多语言写作、30+语种、文案模板 | 免费版每月10,000字符 | 低 | 跨境、多语言内容创作 | [点击进入](https://rytr.me/) |
+
+ **数据/表格处理** 
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
+|---|---|---|---|---|---|
+| ChatExcel | 自然语言对话式处理 Excel 表格 | 免费 | 低 | 数据分析师、财务人员 | [点击进入](https://chatexcel.com/) |
+| Pandas AI | 自然语言转换为 Pandas 操作指令 | 开源免费 | 中 | 数据分析师、Python 开发者 | [点击进入](https://github.com/gventuri/pandas-ai) |
+| Sheet+ AI | Google Sheets 的 AI 助手 | 免费版有限功能 | 低 | 运营、财务、数据分析 | [点击进入](https://sheetplus.ai/) |
+| Akkio | 无代码 AI 建模，预测分析 | 免费试用 | 中 | 非技术人员、业务分析师 | [点击进入](https://www.akkio.com/) |
+
+ **浏览器插件** 
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
+|---|---|---|---|---|---|
+| Kimi 浏览器助手 | 一键总结网页/视频内容、划线解释、翻译 | 免费 | 低 | 学生、研究员、产品运营 | [点击进入](https://kimi.moonshot.cn/) |
+| 豆包浏览器插件 | 多网页总结、视频总结、写作、图片编辑 | 免费 | 低 | 所有人 | [点击进入](https://www.doubao.com/) |
+| Thunderbit | AI 网页爬虫，将网页数据转为表格 | 免费版有限功能 | 低 | 销售、运营、数据分析 | [点击进入](https://thunderbit.com/) |
+| Scribe | AI 自动化文档制作，记录操作步骤 | 免费版有限功能 | 低 | 培训师、技术支持 | [点击进入](https://scribehow.com/) |
+| Glasp | AI 网页重点笔记与高亮收集 | 免费 | 低 | 研究者、学生、知识管理 | [点击进入](https://glasp.co/) |
+| MaxAI | 浏览器 AI 侧边栏，支持总结、改写、翻译 | 免费版有限功能 | 低 | 普通用户、内容创作者 | [点击进入](https://maxai.me/) |
+| Anything Copilot | 开放式 AI 工作室，聚合多 AI 工具 | 免费 | 中 | 开发者、AI 爱好者 | [点击进入](https://anythingcopilot.com/) |
+
+ **自动化/工作流** 
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
+|---|---|---|---|---|---|
+| n8n | 开源工作流自动化，连接 280+ 应用 | 开源免费可自托管 | 高 | 开发者、企业 IT | [点击进入](https://n8n.io/) |
+| Zapier | AI 自动化工作流，连接 6000+ 应用 | 免费版每月100次任务 | 中 | 营销人员、运营 | [点击进入](https://zapier.com/) |
+| Make | 可视化自动化工作流搭建 | 免费版每月1000次操作 | 中 | 营销、电商运营 | [点击进入](https://www.make.com/) |
+
+ **综合协作平台** 
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
+|---|---|---|---|---|---|
+| 飞书 Lark | 聊天、文件、会议、数据库一体化 AI 协作 | 免费（最多20位用户） | 中 | 团队、企业 | [点击进入](https://www.larksuite.com/) |
+| Notion | 结构化数据库 + AI 写作与摘要 | 免费基础版 | 中 | 团队、个人知识管理 | [点击进入](https://www.notion.so/) |
+| ClickUp | AI 摘要、工作量洞察、预测规划 | 永久免费 | 中 | 项目管理团队 | [点击进入](https://clickup.com/) |
+| Asana | AI 识别瓶颈、建议优先级、平衡工作负荷 | 免费（10位用户） | 中 | 企业团队 | [点击进入](https://asana.com/) |
+| Motion | AI 排程算法，自动调整日历 | 付费订阅 | 中 | 个人、创业者 | [点击进入](https://www.usemotion.com/) |
+
+ **开源项目** 
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
+|---|---|---|---|---|---|
+| Dify | 低代码 AI 应用工厂，拖拽式构建 AI 工作流 | 开源免费 | 中 | 开发者、企业 | [点击进入](https://github.com/langgenius/dify) |
+| RAGFlow | 企业级知识处理引擎，复杂文档解析 | 开源免费 | 高 | 企业、开发者 | [点击进入](https://github.com/infiniflow/ragflow) |
+| Open WebUI | 零代码构建本地 AI 交互界面 | 开源免费 | 中 | 开发者、企业私有部署 | [点击进入](https://github.com/open-webui/open-webui) |
+| FastGPT | 高速内容生成专家，5秒内响应复杂查询 | 开源免费 | 中 | 开发者、企业 | [点击进入](https://github.com/labring/FastGPT) |
+| Presentation-AI | 一句话生成专业 PPT，本地部署 | 开源免费 | 中 | 开发者、企业、教师 | [点击进入](https://github.com/allweonedev/presentation-ai) |
+| ChatPDF | PDF 文件对话式交互，快速定位信息 | 开源免费 | 中 | 学生、研究员 | [点击进入](https://github.com/heyPooPy/ChatPDF) |
+| Skyvern | AI 智能驱动网页自动化，像人类一样操作网页 | 开源免费 | 高 | 开发者、RPA 团队 | [点击进入](https://github.com/skyvern-ai/skyvern) |
+| AutoGPT | 自主 AI 智能代理，任务自动拆解与执行 | 开源免费 | 高 | 开发者、AI 研究者 | [点击进入](https://github.com/Significant-Gravitas/AutoGPT) |
+| ScreenPipe | 离线 AI 屏幕记录与语义检索 | 开源免费 | 高 | 开发者、企业 IT | [点击进入](https://github.com/mediar-ai/screenpipe) |
+| n8n | 开源工作流自动化，连接多系统 | 开源免费 | 中 | 开发者、企业 IT | [点击进入](https://github.com/n8n-io/n8n) |
+| Coze（开源版） | 拖拽式搭建 AI 助手 | 开源免费 | 中 | 开发者、自媒体 | [点击进入](https://github.com/coze-dev/coze) |
+| LangChain | 写作工作流、RAG、多工具协作、Agent | 开源免费 | 高 | 开发者、AI 应用开发 | [点击进入](https://github.com/langchain-ai/langchain) |
+| DeerFlow | 字节开源深度研究框架，AI+搜索+报告输出 | 开源免费 | 高 | 开发者、研究者 | [点击进入](https://github.com/bytedance/deer-flow) |
+| LlamaIndex | 文档检索、增强写作、知识库创作 | 开源免费 | 高 | 开发者、文档 AI | [点击进入](https://github.com/run-llama/llama_index) |
+
+
+##  编程开发类
+
+代码生成 / 调试、注释编写、算法思路、爬虫、前端页面、模型部署
+
+ **AI 编程助手（IDE 插件）** 
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
+|---|---|---|---|---|---|
+| 文心快码 (Comate) | 代码生成、补全、解释、重构、单元测试 | 个人免费 / 企业可申请 | 低 | 全栈开发者、企业团队 | [点击进入](https://comate.baidu.com/) |
+| GitHub Copilot | 代码补全、注释生成、多语言支持 | 试用 30 天 / 学生免费 | 低 | 各层级开发者 | [点击进入](https://github.com/features/copilot) |
+| 腾讯云 CodeBuddy | 智能编码、对话式开发、多 IDE 插件 | 完全免费 | 低 | 全场景开发者 | [点击进入](https://cloud.tencent.com/product/codebuddy) |
+| 通义灵码 (Tongyi Lingma) | 代码生成、注释、测试、注释翻译 | 个人免费 | 低 | 阿里云用户、Java/Python 开发者 | [点击进入](https://tongyi.aliyun.com/lingma) |
+| Amazon CodeWhisperer | 实时代码建议、安全扫描 | 个人免费 | 低 | AWS 用户、云原生开发者 | [点击进入](https://aws.amazon.com/cn/codewhisperer) |
+| Codeium | 代码补全、聊天、代码库感知 | 完全免费无限制 | 低 | 个人开发者、性价比优先者 | [点击进入](https://codeium.com/) |
+| Tabnine | 本地化 AI 代码补全、隐私保护 | 免费基础版 | 低 | 注重隐私的开发者 | [点击进入](https://www.tabnine.com/) |
+| Replit Ghostwriter | 代码补全、解释、调试 | 免费基础版 | 低 | 在线编程学习者、教学场景 | [点击进入](https://replit.com/) |
+| Cody (Sourcegraph) | 代码库感知、仓库理解、代码审查 | 免费 | 中 | 大型代码库开发者 | [点击进入](https://sourcegraph.com/cody) |
+| JetBrains AI Assistant | IDE 内 AI 编程、代码生成、文档生成 | 免费试用 | 中 | JetBrains IDE 用户 | [点击进入](https://www.jetbrains.com/ai/) |
+| Blackbox AI | 代码生成、代码搜索、代码解释 | 免费 | 低 | 快速代码查询开发者 | [点击进入](https://www.blackbox.ai/) |
+| CodiumAI | 代码逻辑分析、测试用例生成 | 免费 | 中 | 重视代码质量的开发者 | [点击进入](https://www.codium.ai/) |
+
+ **AI IDE 编辑器（原生集成）** 
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
+|---|---|---|---|---|---|
+| Cursor | AI 原生 IDE、多文件编辑、代码生成 | 免费 | 中 | 追求极致 AI 集成体验的开发者 | [点击进入](https://cursor.com/) |
+| Windsurf | AI 智能体 IDE、多文件重构、全栈工程理解 | 免费 | 中 | 复杂项目、团队开发 | [点击进入](https://windsurf.com/) |
+| Trae (字节跳动) | 国内首款 AI 原生 IDE、智能编程 | 免费 | 低 | 国内开发者、字节生态用户 | [点击进入](https://trae.com.cn/) |
+| Void | 开源 AI 代码编辑器、本地部署 | 开源免费 | 中 | 注重隐私的开源爱好者 | [点击进入](https://voideditor.com/) |
+| 腾讯云 AI IDE | AI 原生云端 IDE、多模态草图生成 | 完全免费 | 低 | 云端开发、快速原型 | [点击进入](https://cloud.tencent.com/product/aiide) |
+
+
+ **代码生成与全栈开发平台** 
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
+|---|---|---|---|---|---|
+| GitHub Spark | 自然语言生成全栈应用（前端+后端+数据） | 公测中 | 低 | 全栈开发者、产品原型设计师 | [点击进入](https://github.com/spark) |
+| Bolt.new | 浏览器内 AI 全栈应用构建（StackBlitz） | 免费基础版 | 低 | 快速原型、初创团队 | [点击进入](https://bolt.new/) |
+| Lovable | AI 驱动的应用构建平台 | 免费基础版 | 低 | 无代码倾向的开发者 | [点击进入](https://lovable.dev/) |
+| v0 (Vercel) | 文本/图像生成 UI 组件 | 免费 | 低 | 前端开发者、UI 设计师 | [点击进入](https://v0.dev/) |
+| Claudable | 开源 Web 应用生成器、支持 Supabase | 开源免费 | 中 | 开源爱好者、快速原型 | [点击进入](https://github.com/Claudable/Claudable) |
+| Replit | 在线 IDE + AI 辅助开发 | 免费基础版 | 低 | 在线编程学习、轻量开发 | [点击进入](https://replit.com/) |
+| Cloudflare VibeSDK | 零代码部署全栈应用、Gemini API | 开源免费 | 中 | Cloudflare 生态开发者 | [点击进入](https://github.com/cloudflare/vibesdk) |
+
+ **代码审查与调试工具** 
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
+|---|---|---|---|---|---|
+| CodeRabbit | GitHub PR 原生 AI 代码审查机器人 | 免费 | 低 | 开源项目、团队代码审查 | [点击进入](https://coderabbit.ai/) |
+| PR-Agent | 开源 AI PR 审查助手 | 开源免费 | 中 | GitHub/GitLab 团队 | [点击进入](https://github.com/Codium-ai/pr-agent) |
+| Bito AI | 代码审查、性能分析、安全检测 | 免费 | 低 | 团队开发、代码质量管控 | [点击进入](https://bito.ai/) |
+| CodeSightAI | AI 代码审查平台 | 免费试用 | 中 | 企业级开发团队 | [点击进入](https://codesight.ai/) |
+| Anthropic Code Review | 开源安全代码审查 GitHub Action | 开源免费 | 中 | 注重安全的开源项目 | [点击进入](https://github.com/anthropics/code-review-action) |
+| Metis | 开源深度安全代码审查 | 开源免费 | 高 | 安全团队、大型代码库 | [点击进入](https://github.com/arm-software/metis) |
+| Gito | 开源 AI 代码审查器、支持任意 LLM | 开源免费 | 中 | 无厂商锁定的开发团队 | [点击进入](https://github.com/gito-ai/gito) |
+| SonarQube/SonarCloud | 静态代码分析 + AI 增强 | 免费社区版 | 中 | 企业级代码质量管理 | [点击进入](https://www.sonarsource.com/) |
+| Snyk Code | AI 安全漏洞扫描与修复建议 | 免费 | 中 | 安全工程师、DevOps | [点击进入](https://snyk.io/) |
+
+ **自动化测试与 CI/CD** 
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
+|---|---|---|---|---|---|
+| MetaGPT RealDevWorld | 端到端 AI 自动化测试、多智能体协作 | 开源免费 | 中 | 测试工程师、DevOps | [点击进入](https://github.com/geekan/MetaGPT) |
+| Skyvern | AI 网页自动化测试与操作 | 开源免费 | 中 | RPA 团队、自动化测试 | [点击进入](https://github.com/skyvern-ai/skyvern) |
+| BrowserStack AI | AI 测试智能体、低代码自动化 | 免费试用 | 中 | QA 团队、跨浏览器测试 | [点击进入](https://www.browserstack.com/) |
+| KAT Dev | AI 驱动 CI/CD 自动化 | 开源免费 | 高 | DevOps 团队 | [点击进入](https://github.com/kat-dev/kat-dev) |
+
+ **数据库与 SQL 工具** 
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
+|---|---|---|---|---|---|
+| Chat2DB | 自然语言生成 SQL、数据库管理 | 免费 | 低 | 数据分析师、DBA | [点击进入](https://chat2db.tech/) |
+| WrenAI | 对话式 SQL 生成、开源 | 开源免费 | 低 | 数据分析师、非技术人员 | [点击进入](https://github.com/Canner/WrenAI) |
+| DataGrip AI | JetBrains AI 辅助 SQL 编写 | 免费试用 | 中 | 数据库开发者 | [点击进入](https://www.jetbrains.com/datagrip/) |
+| SQLark AI | 代码解释、SQL 优化、达梦专家知识 | 免费 | 低 | DBA、达梦数据库用户 | [点击进入](https://www.sqlark.com/) |
+| pg_ai_query | PostgreSQL AI SQL 生成扩展 | 开源免费 | 中 | PostgreSQL 开发者 | [点击进入](https://github.com/postgres/pg_ai_query) |
+| Oracle Select AI | 自然语言查询数据库 (NL2SQL) | 有限免费 | 中 | Oracle/MySQL HeatWave 用户 | [点击进入](https://www.oracle.com/database/select-ai/) |
+
+ **AI 代理与智能体开发** 
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
+|---|---|---|---|---|---|
+| AutoGPT | 自主 AI 智能代理、任务自动拆解执行 | 开源免费 | 高 | AI 研究者、自动化爱好者 | [点击进入](https://github.com/Significant-Gravitas/AutoGPT) |
+| Dify | 低代码 AI 应用工厂、工作流编排 | 开源免费 | 中 | 开发者、企业 AI 团队 | [点击进入](https://github.com/langgenius/dify) |
+| Coze | 拖拽式搭建 AI 助手和工作流 | 开源免费 | 中 | 开发者、自媒体 | [点击进入](https://github.com/coze-dev/coze) |
+| LangChain | 多工具协作、Agent 开发框架 | 开源免费 | 高 | 高级开发者、AI 应用开发 | [点击进入](https://github.com/langchain-ai/langchain) |
+| LlamaIndex | 文档检索、RAG、知识库开发 | 开源免费 | 高 | 开发者、文档 AI | [点击进入](https://github.com/run-llama/llama_index) |
+| n8n | 开源工作流自动化、连接 280+ 应用 | 开源免费 | 中 | 开发者、企业 IT | [点击进入](https://github.com/n8n-io/n8n) |
+| DeerFlow | 字节开源深度研究框架、AI+搜索+报告 | 开源免费 | 高 | 研究者、开发者 | [点击进入](https://github.com/bytedance/deer-flow) |
+
+ **开发辅助与 API 工具** 
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
+|---|---|---|---|---|---|
+| Exa Code | 亿级代码库上下文、降低错误率 | 免费试用 | 中 | AI Coding Agent 开发者 | [点击进入](https://exa.dev/code) |
+| Genkit | 开源 AI 应用开发框架、统一 API | 开源免费 | 中 | 多模型开发者 | [点击进入](https://github.com/google/genkit) |
+| Vercel AI Gateway | 一键调用数百种 AI 模型 | 免费 | 中 | AI 应用开发者 | [点击进入](https://vercel.com/ai-gateway) |
+| MuleSoft Vibes | AI 生成 API 规范、语义验证 | 免费试用 | 中 | API 开发者 | [点击进入](https://www.mulesoft.com/) |
+
+ **其他实用工具** 
+| 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
+|---|---|---|---|---|---|
+| OpenCode | 开源 AI 终端助手 | 开源免费 | 中 | CLI 爱好者、终端开发者 | [点击进入](https://github.com/sst/opencode) |
+| CodeGeeX4 | 清华开源多语言代码生成模型 | 开源免费 | 高 | 开发者、AI 研究者 | [点击进入](https://github.com/THUDM/CodeGeeX) |
+| nanochat | 从零训练 ChatGPT 教学项目 | 开源免费 | 高 | AI 学习者、研究者 | [点击进入](https://github.com/karpathy/nanochat) |
+| Step-Audio-EditX | 开源 AI 音频编辑、自然语言指令 | 开源免费 | 中 | 开发者、音频编辑 | [点击进入](https://github.com/stepfun-ai/Step-Audio-EditX) |
+| Llama 3 (开源) | 通用代码生成、对话、可本地部署 | 开源免费 | 高 | 开发者、研究者 | [点击进入](https://github.com/meta-llama/llama-3) |
+| Qwen (通义开源) | 中文代码生成、长文本、可微调 | 开源免费 | 高 | 开发者、中文 AI 应用 | [点击进入](https://github.com/QwenLM/Qwen) |
+| ChatGLM3 (开源) | 中文代码生成、本地部署 | 开源免费 | 中 | 开发者、中文创作 | [点击进入](https://github.com/THUDM/ChatGLM3) |
+| Mistral (开源) | 通用代码生成、推理、可商用 | 开源免费 | 高 | 开发者、AI 应用 | [点击进入](https://github.com/mistralai/mistral-models) |
+| DeepSeek-Coder (开源) | 代码写作、注释、生成、调试 | 开源免费 | 高 | 程序员、代码文档 | [点击进入](https://github.com/deepseek-ai/DeepSeek-Coder) |
+
+
+
+##  学习教育类
+
+知识点讲解、刷题答疑、外语学习、题库生成、考证辅导
 
 |工具名称|核心功能|免费额度|上手难度|适用人群|官方链接|
 |---|---|---|---|---|---|
@@ -296,7 +551,44 @@ AI自动生成邮件、回复客户、整理聊天记录，节省沟通时间，
 |讯飞听见|语音转文字、字幕生成、会议纪要，支持方言识别，准确率高|免费版每月10小时转写时长|★☆☆☆☆|职场人、记者、学生|[点击进入](https://www.iflyrec.com/)|
 |Convertio|全格式文件转换（视频、音频、文档、图片），AI辅助优化转换质量|免费版每天10次转换，单个文件不超过100MB|★☆☆☆☆|所有职场人、学生|[点击进入](https://convertio.co/zh/)|
 
-## 🛠️ 使用指南
+
+##  营销电商类
+
+带货文案、商品详情页、短视频脚本、投放话术、海报主图
+
+|工具名称|核心功能|免费额度|上手难度|适用人群|官方链接|
+|---|---|---|---|---|---|
+
+
+
+##  生活实用类
+
+起名、食谱、旅行规划、法律咨询、穿搭建议、心理陪伴。
+
+|工具名称|核心功能|免费额度|上手难度|适用人群|官方链接|
+|---|---|---|---|---|---|
+
+
+
+##  专业行业类
+
+建筑 / 室内效果图、医学辅助、影视分镜、工业设计、游戏素材
+
+|工具名称|核心功能|免费额度|上手难度|适用人群|官方链接|
+|---|---|---|---|---|---|
+
+
+
+##  聚合导航类
+
+AI 工具站、模型合集、一站式工具箱、插件合集
+
+|工具名称|核心功能|免费额度|上手难度|适用人群|官方链接|
+|---|---|---|---|---|---|
+
+
+
+##  使用指南
 
 1. **快速查找**：按「Ctrl\+F」（Windows）/「Command\+F」（Mac），输入工具名称或功能（如“PPT”“OCR”），即可快速定位到对应工具。
 
@@ -306,7 +598,7 @@ AI自动生成邮件、回复客户、整理聊天记录，节省沟通时间，
 
 4. **更新提醒**：每周日会更新工具列表，新增热门工具、删除失效工具，可Star项目持续关注更新。
 
-## 🤝 贡献指南
+##  贡献指南
 
 欢迎所有小伙伴提交PR，补充优质AI办公工具，共同完善这个合集！提交前请务必遵守以下规则，避免PR被拒绝：
 
