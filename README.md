@@ -10,8 +10,6 @@
   <img src="images/ai_tools.png" width="800">
 </div>
 
-> A curated list of awesome AI tools, resources and libraries to boost your productivity. 🚀
-
 
 > 本仓库旨在为各类用户（学生、职场人、开发者、设计师、创业者等）提供一站式的 AI 工具索引，帮助大家快速找到最适合自己的 AI 助手。
 
