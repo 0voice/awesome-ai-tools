@@ -442,6 +442,7 @@
 | HeyGen | AI数字人视频生成 | 有限免费 | 低 | 营销人员、内容创作者 | [点击进入](https://www.heygen.com/) |
 
 
+
 ### **视频剪辑与制作** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
 |---|---|---|---|---|---|
@@ -475,6 +476,9 @@
 | Pippit Audio Editor | 在线AI音频编辑、语音增强 | 基础免费 | 低 | 播客主、内容创作者 | [点击进入](https://www.pippit.ai/) |
 | Step-Audio-EditX | 开源AI音频编辑、自然语言指令 | 开源免费 | 中 | 开发者、音频编辑 | [点击进入](https://github.com/stepfun-ai/Step-Audio-EditX) |
 | Adobe Podcast AI | AI降噪、消除混响、电平调整 | 免费 | 低 | 播客主、音频创作者 | [点击进入](https://podcast.adobe.com/) |
+|LocalAI|运行任何模型- llm，视觉，语音，图像，视频-在任何硬件上|免费|中|音频创作者|[点击进入](https://github.com/mudler/LocalAI)|
+
+
 
 
 ### **配音与声音克隆** 
@@ -488,6 +492,8 @@
 | CosyVoice | 阿里开源、3秒克隆+7种情感 | 开源免费 | 中 | 开发者、企业用户 | [点击进入](https://github.com/FunAudioLLM/CosyVoice) |
 | Mimic | 本地AI语音克隆、隐私保护 | 基础免费 | 中 | 注重隐私的创作者 | [点击进入](https://mimic.ai/) |
 | Google AI Studio TTS | Gemini 2.5 Flash TTS免费语音合成 | 免费 | 低 | Google用户、开发者 | [点击进入](https://aistudio.google.com/) |
+|JJYB_AI_VideoAutoCut|智能视频自动剪辑与AI解说工具（离线TTS、原创解说、混剪、AI配音）|基础免费|低|短视频制作|[点击进入](https://github.com/jianjieyiban/JJYB_AI_VideoAutoCut)|
+
 
 ### **视频翻译与字幕** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
@@ -502,6 +508,8 @@
 |video-subtitle-remover|基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。|开源免费|中|社媒内容创作者|[点击进入](https://github.com/YaoFANGUK/video-subtitle-remover)|
 |RobustVideoMatting|RVM 专为稳定人物视频抠像设计|开源免费|中|播客、访谈内容制作者|[点击进入](https://github.com/PeterL1n/RobustVideoMatting)|
 |Pixelle-Video|AI 全自动短视频制作|免费|低|内容创作者|[点击进入](https://github.com/AIDC-AI/Pixelle-Video)|
+|AI-Video-Transcriber|AI视频转录器|免费|中|内容创作者|[点击进入](https://github.com/wendy7756/AI-Video-Transcriber?tab=readme-ov-file)|
+
 
 
 
@@ -525,6 +533,9 @@
 | VibeVoice | 微软开源语音识别与合成 | 开源免费 (MIT) | 高 | 开发者、企业用户 | [点击进入](https://github.com/microsoft/VibeVoice) |
 | Qwen3-TTS | 阿里开源多语言文本转语音 | 开源免费 | 高 | 开发者、企业用户 | [点击进入](https://github.com/QwenLM/Qwen3-TTS) |
 | automated-video-generator | 脚本自动生成MP4视频的自托管管道 | 开源免费 | 高 | 开发者、AI Agent | [点击进入](https://github.com/your-tools/automated-video-generator) |
+|imaginAIry|扩散图像和视频|开源免费|高|开发者|[点击进入](https://github.com/brycedrennan/imaginAIry)|
+|ten-framework|实时多模式会话AI的开源框架|开源免费|高|ai开发者|[点击进入](https://github.com/TEN-framework/ten-framework?tab=readme-ov-file)|
+|agents|音频agent开发|开源免费|高|agent开发|[点击进入](https://github.com/livekit/agents)|
 
 
 
