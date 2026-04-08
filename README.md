@@ -172,7 +172,7 @@
 | ChatGPT (GPT-4o) | 通用写作、翻译、代码生成、多模态文件解析，多轮对话能力突出 | 免费版有限次数 | 低 | 创作者、程序员、职场人 | [点击进入](https://chat.openai.com/) |
 | Claude | 长文本分析、文档理解、创意写作、代码生成，支持海量上下文 | 免费版有限次数 | 中 | 法律、学术、长文创作者 | [点击进入](https://www.anthropic.com/) |
 | Gemini | 多模态输入、超长上下文、创意写作、Google生态集成 | 每日有限次数 | 中 | 普通用户、创意创作者 | [点击进入](https://gemini.google.com/) |
-| DeepSeek | 中文长文处理、推理、代码生成、写作辅助，128K上下文，支持50个文件上传[reference:0] | 免费额度充足 | 中 | 程序员、创作者、研究者 | [点击进入](https://chat.deepseek.com/) |
+| DeepSeek | 中文长文处理、推理、代码生成、写作辅助，128K上下文，支持50个文件上传 | 免费额度充足 | 中 | 程序员、创作者、研究者 | [点击进入](https://chat.deepseek.com/) |
 | 豆包 | 全能写作、文案、润色、总结、对话、图片处理、长文总结 | 永久免费无限制 | 低 | 学生、职场人、自媒体 | [点击进入](https://www.doubao.com/) |
 | Kimi 智能助手 | 长文本处理（50万字）、文档总结、PPT生成 | 永久免费 | 低 | 研究者、学生、资料整理 | [点击进入](https://kimi.moonshot.cn/) |
 | 文心一言 | 中文文案、新媒体、营销、公文、对话问答 | 每日 100 次 / 1000 字 | 低 | 自媒体、营销、公众号博主 | [点击进入](https://yiyan.baidu.com/) |
@@ -190,7 +190,7 @@
 ### **营销文案** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
 |---|---|---|---|---|---|
-| Jasper | 企业级营销、广告、邮件、品牌文案，50+电商模板，支持25+语言[reference:1] | 免费试用 7 天 | 中 | 企业营销、品牌运营 | [点击进入](https://www.jasper.ai/) |
+| Jasper | 企业级营销、广告、邮件、品牌文案，50+电商模板，支持25+语言| 免费试用 7 天 | 中 | 企业营销、品牌运营 | [点击进入](https://www.jasper.ai/) |
 | Copy.ai | 社媒文案、产品描述、广告素材，多语气可调，批量生成 | 免费版每日 2000 词 | 低 | 跨境电商、社媒运营 | [点击进入](https://www.copy.ai/) |
 | Writesonic | 长篇文章、博客、营销文案，兼顾 SEO 优化 | 免费版有限功能 | 低 | 内容营销、SEO从业者 | [点击进入](https://writesonic.com/) |
 | Rytr | 多语言写作、30+语种、文案模板 | 免费版每月 10,000 字符 | 低 | 跨境、多语言内容创作 | [点击进入](https://rytr.me/) |
@@ -208,31 +208,31 @@
 | 秘塔写作猫 | 纠错、润色、翻译、改写、风格转换（正式/口语化） | 每日 8000 字纠错、2000 字翻译 | 低 | 编辑、学生、文案优化 | [点击进入](https://xiezuocat.com/) |
 | QuillBot | 改写、润色、同义词替换、句式调整、内容提炼 | 免费版有限功能 | 低 | 学生、英文写作、论文优化 | [点击进入](https://quillbot.com/) |
 | Grammarly | 英文语法纠错、润色、风格优化、学术写作建议 | 免费版基础功能 | 低 | 英文写作、留学生、外贸 | [点击进入](https://www.grammarly.com/) |
-| Jenni AI | 以研究为重点的写作助手，具有引文管理功能[reference:2] | 免费试用 | 中 | 学术研究者、论文写作者 | [点击进入](https://jenni.ai/) |
+| Jenni AI | 以研究为重点的写作助手，具有引文管理功能 | 免费试用 | 中 | 学术研究者、论文写作者 | [点击进入](https://jenni.ai/) |
 | PaperPass | 论文查重、降重、润色、参考文献 | 每日 2 次免费查重 | 低 | 本科生、硕博、学术写作 | [点击进入](https://www.paperpass.com/) |
 | PaperYY | 论文写作、降重、排版、查重 | 基础免费、查重优惠 | 低 | 学生、学术论文创作 | [点击进入](https://www.paperyy.com/) |
 | 知网研学 | 文献管理、论文写作、笔记、批注 | 基础免费 | 中 | 研究生、科研人员 | [点击进入](https://x.cnki.net/) |
-| Writefull | 学术润色、语法、句式、文献优化，由数百万篇期刊论文训练而成[reference:3] | 免费版基础功能 | 中 | 留学生、英文论文写作 | [点击进入](https://writefull.com/) |
+| Writefull | 学术润色、语法、句式、文献优化，由数百万篇期刊论文训练而成 | 免费版基础功能 | 中 | 留学生、英文论文写作 | [点击进入](https://writefull.com/) |
 | Overleaf AI | LaTeX论文、协作、公式、图表生成 | 免费版无限协作 | 高 | 科研、理工科学术写作 | [点击进入](https://www.overleaf.com/) |
-| 沁言学术 | 中文学术大纲、初稿、文献综述，多语言实时翻译、语法校对、句式优化[reference:4] | 大纲免费、初稿5000字免费 | 中 | 中文科研、硕博论文 | [点击进入](https://www.qinyanxue.com/) |
-| Anara | 面向科研人员的综合型文献阅读助手，强调文献内容组织、提取和引用追踪[reference:5] | 免费试用 | 中 | 科研人员、学术研究者 | [点击进入](https://www.anara.ai/) |
-| Denario | 利用LLM辅助科学家从提出假设到整理论文稿件，覆盖科研全程[reference:6] | 免费试用 | 中 | 科研人员、学术研究者 | [点击进入](https://denario.ai/) |
-| Write For You | 理大研发的AI文献综述系统，针对大量文献进行深入分析并撰写报告[reference:7] | 免费试用 | 中 | 学术研究者 | [点击进入](https://www.polyu.edu.hk/) |
-| 青梨AI | 覆盖文献获取、处理、创作、展示的全链条服务[reference:8] | 免费试用 | 中 | 学术研究者 | [点击进入](https://www.qingli.ai/) |
-| 万方数据AI平台 | 学术论文写作全流程辅助，论文标题推荐、大纲编写、内容合规性检查、参考文献生成[reference:9] | 免费试用 | 中 | 硕博、期刊论文写作 | [点击进入](https://wanfangdata.com.cn/) |
-| 纸袋 | 具有语法和风格优化功能的学术写作增强工具[reference:10] | 免费版有限功能 | 低 | 学术写作者 | [点击进入](https://zhidai.ai/) |
+| 沁言学术 | 中文学术大纲、初稿、文献综述，多语言实时翻译、语法校对、句式优化 | 大纲免费、初稿5000字免费 | 中 | 中文科研、硕博论文 | [点击进入](https://www.qinyanxue.com/) |
+| Anara | 面向科研人员的综合型文献阅读助手，强调文献内容组织、提取和引用追踪 | 免费试用 | 中 | 科研人员、学术研究者 | [点击进入](https://www.anara.ai/) |
+| Denario | 利用LLM辅助科学家从提出假设到整理论文稿件，覆盖科研全程 | 免费试用 | 中 | 科研人员、学术研究者 | [点击进入](https://denario.ai/) |
+| Write For You | 理大研发的AI文献综述系统，针对大量文献进行深入分析并撰写报告 | 免费试用 | 中 | 学术研究者 | [点击进入](https://www.polyu.edu.hk/) |
+| 青梨AI | 覆盖文献获取、处理、创作、展示的全链条服务| 免费试用 | 中 | 学术研究者 | [点击进入](https://www.qingli.ai/) |
+| 万方数据AI平台 | 学术论文写作全流程辅助，论文标题推荐、大纲编写、内容合规性检查、参考文献生成 | 免费试用 | 中 | 硕博、期刊论文写作 | [点击进入](https://wanfangdata.com.cn/) |
+| 纸袋 | 具有语法和风格优化功能的学术写作增强工具| 免费版有限功能 | 低 | 学术写作者 | [点击进入](https://zhidai.ai/) |
 
 ### **小说与故事创作** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
 |---|---|---|---|---|---|
-| Sudowrite | 专业小说创作助手，基于场景的“草稿”流程，整合故事圣经、角色和世界观元素[reference:11] | 免费试用 | 中 | 小说作者、创意写作者 | [点击进入](https://www.sudowrite.com/) |
-| NovelAI | AI辅助故事创作、互动式叙事、AI动漫图像生成[reference:12] | 有限免费 | 中 | 网络作家、小说创作者 | [点击进入](https://novelai.net/) |
+| Sudowrite | 专业小说创作助手，基于场景的“草稿”流程，整合故事圣经、角色和世界观元素 | 免费试用 | 中 | 小说作者、创意写作者 | [点击进入](https://www.sudowrite.com/) |
+| NovelAI | AI辅助故事创作、互动式叙事、AI动漫图像生成 | 有限免费 | 中 | 网络作家、小说创作者 | [点击进入](https://novelai.net/) |
 | Novelcrafter | 专为长篇小说设计的AI写作助手 | 免费试用 | 中 | 小说创作者 | [点击进入](https://novelcrafter.com/) |
-| 彩云小梦 | 小说、故事、续写、创意写作、情节树自动生成多线剧情[reference:13] | 每日免费字数 | 低 | 网络作家、小说创作者 | [点击进入](https://if.caiyunai.com/) |
+| 彩云小梦 | 小说、故事、续写、创意写作、情节树自动生成多线剧情| 每日免费字数 | 低 | 网络作家、小说创作者 | [点击进入](https://if.caiyunai.com/) |
 | 壹写作 | 小说大纲、章节、人物、情节管理 | 基础免费 | 中 | 小说作者、编剧 | [点击进入](https://www.yixiezuo.com/) |
 | 灯果写作 | 小说、剧本、大纲、人物、情节创作 | 基础免费 | 中 | 网络作家、编剧 | [点击进入](https://www.dengguo.com/) |
 | 剧易写 | 剧本、分镜、台词、场景、人物管理 | 基础免费 | 中 | 编剧、导演、影视创作 | [点击进入](https://www.juyixie.com/) |
-| AIWriter Pro | 提供角色库、情节生成器、章节规划模板，支持玄幻、都市、言情等多类型[reference:14] | 有限免费 | 中 | 专业网络小说创作者 | [点击进入](https://www.aiwriter.pro/) |
+| AIWriter Pro | 提供角色库、情节生成器、章节规划模板，支持玄幻、都市、言情等多类型 | 有限免费 | 中 | 专业网络小说创作者 | [点击进入](https://www.aiwriter.pro/) |
 | Squibler | 长篇小说写作辅助，情节规划与角色管理 | 免费试用 | 中 | 小说作者 | [点击进入](https://www.squibler.io/) |
 
 ### **内容改写与润色** 
@@ -241,7 +241,7 @@
 | Wordtune | 句子改写、语气调整、文本扩展、重写建议 | 免费版有限功能 | 低 | 日常写作、邮件编辑 | [点击进入](https://www.wordtune.com/) |
 | ProWritingAid | 语法检查、风格分析、可读性评分，深度润色 | 免费版有限功能 | 中 | 作者、编辑、内容创作者 | [点击进入](https://prowritingaid.com/) |
 | Hemingway Editor | 文本可读性分析、简化建议、被动语态检测 | 免费在线版 | 低 | 作者、编辑、内容创作者 | [点击进入](http://www.hemingwayapp.com/) |
-| UnAIMyText | 免费AI人性化工具，将AI生成文本转为更像人写的内容[reference:15] | 免费 | 低 | 博客作者、营销人员 | [点击进入](https://unaimytext.com/) |
+| UnAIMyText | 免费AI人性化工具，将AI生成文本转为更像人写的内容| 免费 | 低 | 博客作者、营销人员 | [点击进入](https://unaimytext.com/) |
 | GPTZero | AI内容检测与人性化改写 | 免费版有限功能 | 低 | 教育工作者、内容审核 | [点击进入](https://gptzero.me/) |
 
 ### **办公文档与职场写作** 
@@ -259,7 +259,7 @@
 |---|---|---|---|---|---|
 | Kimi 浏览器助手 | 一键总结网页/视频内容、划线解释、翻译 | 免费 | 低 | 学生、研究员、产品运营 | [点击进入](https://kimi.moonshot.cn/) |
 | 豆包浏览器插件 | 多网页总结、视频总结、写作、图片编辑 | 免费 | 低 | 所有人 | [点击进入](https://www.doubao.com/) |
-| Sider AI Writer | 画布风格长篇写作编辑器，支持视觉效果和图像插入[reference:16] | 免费版有限功能 | 低 | 长篇写作、内容创作者 | [点击进入](https://sider.ai/) |
+| Sider AI Writer | 画布风格长篇写作编辑器，支持视觉效果和图像插入| 免费版有限功能 | 低 | 长篇写作、内容创作者 | [点击进入](https://sider.ai/) |
 | Glasp | AI网页重点笔记与高亮收集 | 免费 | 低 | 研究者、学生、知识管理 | [点击进入](https://glasp.co/) |
 | MaxAI | 浏览器AI侧边栏，支持总结、改写、翻译 | 免费版有限功能 | 低 | 普通用户、内容创作者 | [点击进入](https://maxai.me/) |
 
@@ -269,7 +269,7 @@
 | Notta | 多国语言语音转文字，会议记录、访谈转录 | 免费版每月120分钟 | 低 | 商务人士、跨国团队 | [点击进入](https://www.notta.ai/) |
 | Otter.ai | 会议/课堂录音转文字，自动生成笔记 | 免费每月300分钟 | 低 | 学生、听课者 | [点击进入](https://otter.ai/) |
 | Plaud Note | AI录音笔，会议/访谈记录神器 | 有限免费 | 低 | 职场人、记者、学生 | [点击进入](https://www.plaud.ai/) |
-| Sonix | 转录、翻译和字幕平台，支持超过49种语言[reference:17] | 免费试用 | 中 | 音视频内容创作者 | [点击进入](https://sonix.ai/) |
+| Sonix | 转录、翻译和字幕平台，支持超过49种语言| 免费试用 | 中 | 音视频内容创作者 | [点击进入](https://sonix.ai/) |
 | 135编辑器 AI | 公众号文案、排版、标题、封面设计 | 免费版基础功能 | 低 | 公众号小编、新媒体运营 | [点击进入](https://www.135editor.com/) |
 | 秀米 AI | 公众号文案、H5、排版、图文设计 | 免费版有限功能 | 低 | 公众号、新媒体、活动运营 | [点击进入](https://xiumi.us/) |
 | 轻抖 | 文案提取、改写、短视频脚本、字幕 | 每日免费次数 | 低 | 短视频博主、自媒体 | [点击进入](https://www.qingdou.cc/) |
@@ -279,12 +279,12 @@
 ### **聚合平台与综合工具库** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
 |---|---|---|---|---|---|
-| Magical | 免费AI文本生成器，专为撰写邮件和个性化消息设计[reference:18] | 免费版有限功能 | 低 | 商务沟通、客服 | [点击进入](https://www.getmagical.com/) |
-| Junia.ai | 长文写作、实时建议、多语言支持，一次生成3000字[reference:19] | 有限免费 | 中 | SEO内容创作者 | [点击进入](https://www.junia.ai/) |
-| GetResponse AI Assistant | 专为邮件写作设计的AI助手[reference:20] | 有限免费 | 低 | 邮件营销人员 | [点击进入](https://www.getresponse.com/) |
+| Magical | 免费AI文本生成器，专为撰写邮件和个性化消息设计 | 免费版有限功能 | 低 | 商务沟通、客服 | [点击进入](https://www.getmagical.com/) |
+| Junia.ai | 长文写作、实时建议、多语言支持，一次生成3000字| 有限免费 | 中 | SEO内容创作者 | [点击进入](https://www.junia.ai/) |
+| GetResponse AI Assistant | 专为邮件写作设计的AI助手| 有限免费 | 低 | 邮件营销人员 | [点击进入](https://www.getresponse.com/) |
 | AITalk | AI伙伴对话、雅思/托福备考、多场景口语练习 | 免费基础版 | 低 | 备考学生、出国留学 | [点击进入](https://aitalk.ai/) |
 | 觅讯 | 语音转文字+AI总结+视频会议 | 免费额度充足 | 低 | 小型团队、企业用户 | [点击进入](https://mixun.com/) |
-| HypoDocs | 实时团队协作文档，支持研究型内容生成[reference:21] | 免费试用 | 中 | 团队协作写作 | [点击进入](https://hypodocs.com/) |
+| HypoDocs | 实时团队协作文档，支持研究型内容生成| 免费试用 | 中 | 团队协作写作 | [点击进入](https://hypodocs.com/) |
 
 ### **开源项目与本地部署** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
@@ -294,9 +294,9 @@
 | ChatGLM3 (开源) | 中文长文、对话、写作、本地部署 | 开源免费 | 中 | 开发者、中文创作、企业私有 | [点击进入](https://github.com/THUDM/ChatGLM3) |
 | Mistral (开源) | 通用写作、推理、多语言、高效推理 | 开源免费可商用 | 高 | 开发者、AI应用、私有部署 | [点击进入](https://github.com/mistralai/mistral-models) |
 | Phi-3 (开源) | 轻量写作、对话、边缘设备、低资源 | 开源免费 | 高 | 开发者、移动端、嵌入式AI | [点击进入](https://github.com/microsoft/Phi-3) |
-| WriteHERE (开源) | 异质递归规划技术的开源AI写作框架，单次生成超过4万字专业报告[reference:22] | 开源免费 | 高 | 开发者、企业、专业写作者 | [点击进入](https://github.com/WriteHERE/WriteHERE) |
-| nanochat (开源) | Andrej Karpathy开源项目，4小时训练简易版ChatGPT[reference:23] | 开源免费 | 高 | AI学习者、研究者 | [点击进入](https://github.com/karpathy/nanochat) |
-| 妙笔生花 (开源) | 开源AI写作助手，文本纠错与润色[reference:24] | 开源免费 | 中 | 开发者、中文写作者 | [点击进入](https://github.com/Panda-995/ai-writing-assistant) |
+| WriteHERE (开源) | 异质递归规划技术的开源AI写作框架，单次生成超过4万字专业报告 | 开源免费 | 高 | 开发者、企业、专业写作者 | [点击进入](https://github.com/WriteHERE/WriteHERE) |
+| nanochat (开源) | Andrej Karpathy开源项目，4小时训练简易版ChatGPT| 开源免费 | 高 | AI学习者、研究者 | [点击进入](https://github.com/karpathy/nanochat) |
+| 妙笔生花 (开源) | 开源AI写作助手，文本纠错与润色| 开源免费 | 中 | 开发者、中文写作者 | [点击进入](https://github.com/Panda-995/ai-writing-assistant) |
 | FastChat (开源) | 开源模型界面、多模型接入、聊天服务 | 开源免费 | 高 | 开发者、模型测试、私有聊天 | [点击进入](https://github.com/lm-sys/FastChat) |
 | LangChain (开源) | 写作工作流、RAG、多工具协作、Agent | 开源免费 | 高 | 开发者、AI应用开发 | [点击进入](https://github.com/langchain-ai/langchain) |
 | LlamaIndex (开源) | 文档检索、增强写作、知识库创作 | 开源免费 | 高 | 开发者、文档AI、知识写作 | [点击进入](https://github.com/run-llama/llama_index) |
