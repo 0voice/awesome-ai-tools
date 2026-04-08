@@ -497,12 +497,19 @@
 | Pippit AI Subtitles | AI自动字幕生成、多语言翻译 | 免费 | 低 | 社媒内容创作者 | [点击进入](https://www.pippit.ai/) |
 | Zeemo AI | 110+语言字幕生成与翻译 | 基础免费 | 低 | 多语言内容创作者 | [点击进入](https://zeemo.ai/) |
 | SubEasy | AI快速字幕生成与翻译 | 免费 | 低 | 播客、访谈内容制作者 | [点击进入](https://subeasy.ai/) |
+|VideoCaptioner| 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理|免费|低|多语言内容创作者|[点击进入](https://github.com/WEIFENG2333/VideoCaptioner)|
+|VideoLingo|Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组|基础免费|低|全球内容传播者|[点击进入](https://videolingo.io/zh)|
+|video-subtitle-remover|基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。|开源免费|中|社媒内容创作者|[点击进入](https://github.com/YaoFANGUK/video-subtitle-remover)|
+|RobustVideoMatting|RVM 专为稳定人物视频抠像设计|开源免费|中|播客、访谈内容制作者|[点击进入](https://github.com/PeterL1n/RobustVideoMatting)|
+|Pixelle-Video|AI 全自动短视频制作|免费|低|内容创作者|[点击进入](https://github.com/AIDC-AI/Pixelle-Video)|
+
 
 
 ### **综合平台与聚合工具** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
 |---|---|---|---|---|---|
 | WaveSpeedAI | 聚合50+音视频AI模型 | 注册送免费点数 | 中 | AI模型测试、开发者 | [点击进入](https://wavespeed.ai/) |
+|video-starter-kit|AI视频入门工具包|不完全免费|中|全球内容传播者|[点击进入](https://github.com/fal-ai-community/video-starter-kit)|
 
 
 ### **开源项目** 
