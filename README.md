@@ -478,7 +478,7 @@
 | Step-Audio-EditX | 开源AI音频编辑、自然语言指令 | 开源免费 | 中 | 开发者、音频编辑 | [点击进入](https://github.com/stepfun-ai/Step-Audio-EditX) |
 | Adobe Podcast AI | AI降噪、消除混响、电平调整 | 免费 | 低 | 播客主、音频创作者 | [点击进入](https://podcast.adobe.com/) |
 |LocalAI|运行任何模型- llm，视觉，语音，图像，视频-在任何硬件上|免费|中|音频创作者|[点击进入](https://github.com/mudler/LocalAI)|
-
+|short-video-factory|一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具|开源免费|中|营销视频创作者|[点击进入](https://github.com/YILS-LIN/short-video-factory)|
 
 
 
@@ -662,6 +662,7 @@
 | JetBrains AI Assistant | IDE 内 AI 编程、代码生成、文档生成 | 免费试用 | 中 | JetBrains IDE 用户 | [点击进入](https://www.jetbrains.com/ai/) |
 | Blackbox AI | 代码生成、代码搜索、代码解释 | 免费 | 低 | 快速代码查询开发者 | [点击进入](https://www.blackbox.ai/) |
 | CodiumAI | 代码逻辑分析、测试用例生成 | 免费 | 中 | 重视代码质量的开发者 | [点击进入](https://www.codium.ai/) |
+|graphify|一个面向 AI 编码助手的技能|免费|低|快速代码查询开发者|[点击进入](https://github.com/safishamsi/graphify)|
 
 ### **AIIDE编辑器原生集成** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
