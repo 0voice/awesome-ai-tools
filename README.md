@@ -451,6 +451,7 @@
 | Elai.io | AI虚拟人播报视频 | 每月1分钟免费 | 低 | 企业培训、营销人员 | [点击进入](https://elai.io/) |
 | HeyGen | AI数字人视频生成 | 有限免费 | 低 | 营销人员、内容创作者 | [点击进入](https://www.heygen.com/) |
 |waoowaoo|一款基于 AI 技术的短剧/漫画视频制作工具，支持从小说文本自动生成分镜、角色、场景，并制作成完整视频。|部分免费|中|ai短剧、漫剧创作者|[点击进入](https://github.com/saturndec/waoowaoo)|
+|huobao-drama| 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》 |目前开源免费|中|ai短剧、漫剧制作者|[点击进入](https://github.com/chatfire-AI/huobao-drama)|
 
 
 ### **视频剪辑与制作** 
