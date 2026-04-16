@@ -744,6 +744,7 @@
 | Genkit | 开源 AI 应用开发框架、统一 API | 开源免费 | 中 | 多模型开发者 | [点击进入](https://github.com/google/genkit) |
 | Vercel AI Gateway | 一键调用数百种 AI 模型 | 免费 | 中 | AI 应用开发者 | [点击进入](https://vercel.com/ai-gateway) |
 | MuleSoft Vibes | AI 生成 API 规范、语义验证 | 免费试用 | 中 | API 开发者 | [点击进入](https://www.mulesoft.com/) |
+| aicost | 通用 AI 编码成本分析 CLI，统一 Claude Code + Cursor 费用报告 | 开源免费 | 低 | CLI 开发者、AI 编码用户 | [点击进入](https://github.com/dwylq/aicost) |
 
 ### **其他实用工具** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
