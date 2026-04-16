@@ -1171,6 +1171,7 @@
 | Zoo Design Studio | AI原生CAD平台，对话式CAD Agent | 免费基础版 | 中 | 工业设计师、机械工程师 | [点击进入](https://docs.zoo.dev/) |
 | CAM Assist (Fusion插件) | AI生成专业加工策略，秒级生成数控加工方案 | 有限免费 | 中 | CNC程序员、机械工程师 | [点击进入](https://apps.autodesk.com/) |
 | Streamline（生产计划） | AI生产计划与需求预测软件 | 永久免费版 | 中 | 生产计划员、工厂管理者 | [点击进入](https://gmdhsoftware.com/) |
+|ImageAI|独立深度学习和计算机视觉功能的应用程序和系统|开源免费|中|智能识别方向|[点击进入](https://github.com/OlafenwaMoses/ImageAI)|
 
 ### **农业行业** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
