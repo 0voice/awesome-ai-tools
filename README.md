@@ -452,7 +452,7 @@
 | HeyGen | AI数字人视频生成 | 有限免费 | 低 | 营销人员、内容创作者 | [点击进入](https://www.heygen.com/) |
 |waoowaoo|一款基于 AI 技术的短剧/漫画视频制作工具，支持从小说文本自动生成分镜、角色、场景，并制作成完整视频。|部分免费|中|ai短剧、漫剧创作者|[点击进入](https://github.com/saturndec/waoowaoo)|
 |huobao-drama| 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》 |目前开源免费|中|ai短剧、漫剧制作者|[点击进入](https://github.com/chatfire-AI/huobao-drama)|
-
+|Vision-Agents|专为实时视频 AI 而打造，低延迟|开发者每月可获得 333,000 分钟的参与时长，还可通过 Maker 计划获得额外积分|中|直播博主|[点击进入](https://github.com/GetStream/Vision-Agents)|
 
 ### **视频剪辑与制作** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
@@ -470,6 +470,7 @@
 | Diffusion Studio Pro | 本地优先AI视频编辑、生成式AI | 免费 | 中 | 开发者、AI爱好者 | [点击进入](https://diffusion.studio/) |
 | AI Video Shortener | 长视频自动剪辑为短视频片段 | 免费 | 低 | 播客、访谈内容创作者 | [点击进入](https://sider.ai/) |
 |Text-To-Video-AI|文字转视频AI可本地部署|免费开源|中|社媒内容创作者|[点击进入](https://github.com/SamurAIGPT/Text-To-Video-AI)|
+
 
 ### **音频生成与编辑** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
