@@ -663,7 +663,6 @@
 |---|---|---|---|---|---|
 | 文心快码 (Comate) | 代码生成、补全、解释、重构、单元测试 | 个人免费 / 企业可申请 | 低 | 全栈开发者、企业团队 | [点击进入](https://comate.baidu.com/) |
 | GitHub Copilot | 代码补全、注释生成、多语言支持 | 试用 30 天 / 学生免费 | 低 | 各层级开发者 | [点击进入](https://github.com/features/copilot) |
-| 腾讯云 CodeBuddy | 智能编码、对话式开发、多 IDE 插件 | 完全免费 | 低 | 全场景开发者 | [点击进入](https://cloud.tencent.com/product/codebuddy) |
 | 通义灵码 (Tongyi Lingma) | 代码生成、注释、测试、注释翻译 | 个人免费 | 低 | 阿里云用户、Java/Python 开发者 | [点击进入](https://tongyi.aliyun.com/lingma) |
 | Amazon CodeWhisperer | 实时代码建议、安全扫描 | 个人免费 | 低 | AWS 用户、云原生开发者 | [点击进入](https://aws.amazon.com/cn/codewhisperer) |
 | Codeium | 代码补全、聊天、代码库感知 | 完全免费无限制 | 低 | 个人开发者、性价比优先者 | [点击进入](https://codeium.com/) |
