@@ -760,6 +760,9 @@
 
 
 
+| Agent Shadow Brain | AI编码智能体：无限记忆、遗传算法自进化、预测性Bug检测、PageRank知识图谱、群体智能、对抗防御 | MIT开源免费 | 中 | 程序员、AI开发者 | [GitHub](https://github.com/theihtisham/agent-shadow-brain) |
+| Omni Skills Forge | 50,000+精选AI Agent技能库，支持Claude Code/Cursor/Copilot/Windsurf/Cline，可视化仪表盘、一键安装 | MIT开源免费 | 低 | AI开发者、提示工程师 | [GitHub](https://github.com/theihtisham/omni-skills-forge) |
+
 ##  学习教育类
 
 涵盖 AI 学习助手、语言学习、学科辅导、教学与备课工具、写作辅导、编程学习、创意与艺术教育以及开源项目
