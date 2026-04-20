@@ -678,6 +678,7 @@
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
 |---|---|---|---|---|---|
 | Cursor | AI 原生 IDE、多文件编辑、代码生成 | 免费 | 中 | 追求极致 AI 集成体验的开发者 | [点击进入](https://cursor.com/) |
+| OpenMagic | AI 驱动的浏览器侧编码工具栏，捕获页面上下文并在确认后应用 diff | 免费 | 中 | 需要在真实 Web 应用中快速编辑与验证的开发者 | [点击进入](https://github.com/Kalmuraee/OpenMagic) |
 | Windsurf | AI 智能体 IDE、多文件重构、全栈工程理解 | 免费 | 中 | 复杂项目、团队开发 | [点击进入](https://windsurf.com/) |
 | Trae (字节跳动) | 国内首款 AI 原生 IDE、智能编程 | 免费 | 低 | 国内开发者、字节生态用户 | [点击进入](https://trae.com.cn/) |
 | Void | 开源 AI 代码编辑器、本地部署 | 开源免费 | 中 | 注重隐私的开源爱好者 | [点击进入](https://voideditor.com/) |
