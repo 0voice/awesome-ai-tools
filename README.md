@@ -17,6 +17,7 @@
 ## 🌟 仓库亮点
 
 - 💡 **分类清晰**：按场景 / 技术栈整理，新手也能快速上手
+- **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** - AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
 
 - ⚡ **免费优先**：精选免费 / 有明确免费额度的工具，拒绝套路
 
