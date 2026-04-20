@@ -476,6 +476,7 @@
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
 |---|---|---|---|---|---|
 | Suno v5.5 | 最长8分钟AI音乐生成、人声克隆 | 每日免费点数 | 低 | 音乐创作者、内容制作者 | [点击进入](https://suno.com/) |
+| AceTagGen | Suno AI专用Prompt构建工具、3000+验证标签、质量评分 | 完全免费（核心功能） | 低 | Suno用户、音乐创作者 | [点击进入](https://acetaggen.com) |
 | MiniMax Music 2.5+ | 人声歌曲+纯音乐生成、14段落结构控制 | 每日免费点数 | 低 | 音乐制作人、专业创作者 | [点击进入](https://www.minimax.com/) |
 | Google Lyria 3 Pro | 最长3分钟AI音乐、图像引导生成 | 有限免费 | 中 | 音乐制作人、创意工作者 | [点击进入](https://deepmind.google/lyria) |
 | 昆仑万维 Mureka V8 | 中文AI音乐生成、人声表现力强 | 有限免费 | 低 | 国内音乐创作者 | [点击进入](https://mureka.ai/) |
