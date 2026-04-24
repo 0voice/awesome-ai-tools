@@ -505,6 +505,7 @@
 | Mimic | 本地AI语音克隆、隐私保护 | 基础免费 | 中 | 注重隐私的创作者 | [点击进入](https://mimic.ai/) |
 | Google AI Studio TTS | Gemini 2.5 Flash TTS免费语音合成 | 免费 | 低 | Google用户、开发者 | [点击进入](https://aistudio.google.com/) |
 |JJYB_AI_VideoAutoCut|智能视频自动剪辑与AI解说工具（离线TTS、原创解说、混剪、AI配音）|基础免费|低|短视频制作|[点击进入](https://github.com/jianjieyiban/JJYB_AI_VideoAutoCut)|
+| AnveVoice | 网站语音AI代理、自主DOM操作、MCP支持、50+语言、<700ms延迟 | 免费基础版 | 低 | 网站运营者、开发者 | [点击进入](https://anvevoice.app) |
 
 
 ### **视频翻译与字幕** 
