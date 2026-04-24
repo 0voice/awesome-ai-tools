@@ -788,6 +788,7 @@
 | AITalk | AI 伙伴对话、雅思/托福备考、多场景 | 免费基础版 | 低 | 备考学生、出国留学 | [点击进入](https://aitalk.ai/) |
 | 新述口语 | AI 口语练习、话题紧跟热点、发音诊断 | 免费 | 低 | 英语口语学习者 | [点击进入](https://www.xinshu.ai/) |
 | BuddyChat | 自由对话练习、场景模拟 | 免费基础版 | 低 | 口语练习者 | [点击进入](https://speakbuddy.me/) |
+| Elispeak | AI 英语口语陪练、日常/工作/旅行/雅思托福话题、真实语音对话 | 免费基础版（每日15分钟） | 低 | 英语口语学习者 | [点击进入](https://app.elispeak.com/?freemium=true) |
 | Duolingo | 游戏化语言学习、多语种 | 免费 | 低 | 各水平语言学习者 | [点击进入](https://www.duolingo.com/) |
 
 ### **学科辅导数学/理科/编程** 
