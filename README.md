@@ -371,6 +371,7 @@
 | Remover | ZMO.AI 出品，免费去除照片中不需要的物体、人物、文字和背景 | 免费无限次 | 低 | 电商、房地产、常规照片清理 | [点击进入](https://remover.zmo.ai/) |
 | Seamless Studio | AI 生成高质量原创模型图，无需昂贵摄影 | 免费基础版 | 低 | 设计师、电商卖家 | [点击进入](https://seamlessstudio.ai/) |
 | Magic Studio | AI 图像生成与编辑一体化平台 | 有限免费 | 低 | 内容创作者、设计师 | [点击进入](https://magicstudio.com/) |
+| igly.ai | 免费 AI 图像编辑平台，支持一键抠图、智能修图（Inpaint）、图像放大、Generative Fill，专为电商产品图优化 | 免费使用 | 低 | 电商卖家、内容创作者、设计师 | [点击进入](https://igly.ai/) |
 
 ### **UI/UX设计工具** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
