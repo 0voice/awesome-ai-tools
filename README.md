@@ -736,6 +736,7 @@
 | LlamaIndex | 文档检索、RAG、知识库开发 | 开源免费 | 高 | 开发者、文档 AI | [点击进入](https://github.com/run-llama/llama_index) |
 | n8n | 开源工作流自动化、连接 280+ 应用 | 开源免费 | 中 | 开发者、企业 IT | [点击进入](https://github.com/n8n-io/n8n) |
 | DeerFlow | 字节开源深度研究框架、AI+搜索+报告 | 开源免费 | 高 | 研究者、开发者 | [点击进入](https://github.com/bytedance/deer-flow) |
+| KubeStellar Console | 多集群 Kubernetes AI 运维仪表盘、MCP 服务器、自然语言集群管理 | 开源免费 | 中 | DevOps 工程师、SRE、K8s 开发者 | [点击进入](https://github.com/kubestellar/console) |
 
 ### **开发辅助与API工具** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
