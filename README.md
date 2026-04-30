@@ -1060,6 +1060,7 @@
 | 百度小度 | 家庭场景专属优化，儿童教育、老人关怀、情感计算 | 免费基础版 | 低 | 家庭用户 | [点击进入](https://www.dueros.baidu.com/) |
 | 阿里天猫精灵 | 消费与生活服务一体化，购物、点餐、生活缴费 | 免费基础版 | 低 | 淘宝/天猫用户 | [点击进入](https://www.tmallgenie.com/) |
 | Rube | 通用 MCP 服务器，连接 AI 工具到 900+ 应用（Slack/Gmail/Sheets 等），支持从 ChatGPT 直接操作 | 有限免费 | 中 | 自动化爱好者、开发者 | [点击进入](https://rube.app/) |
+| Cyber Collector | Telegram 视频下载机器人，支持无水印下载 TikTok、Instagram Reels/Stories、YouTube+Shorts、X/Twitter、Facebook 视频，无需注册、无广告 | 完全免费 | 低 | 内容创作者、短视频爱好者 | [点击进入](https://t.me/cybercollectorbot) |
 
 ### **自动化与集成工具** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
