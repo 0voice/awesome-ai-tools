@@ -946,6 +946,7 @@
 | Ahrefs | AI关键词智能分析，点击流数据驱动的搜索量建模，竞品反向链接分析 | 有限免费 | 中 | SEO专业人员 | [点击进入](https://ahrefs.com/) |
 | Frase.io | SERP分析、AI内容简报生成、SEO优化内容撰写 | 免费试用 | 中 | 内容营销团队 | [点击进入](https://www.frase.io/) |
 | 华浩AI数字营销智能体 | 整合创意生成、AI文案、短视频制作、数字人应用、多平台分发、智能直播六大功能 | 有限免费 | 低 | 国内企业营销团队 | [点击进入](https://www.huahao.ai/) |
+| NotFair | 托管的Google Ads MCP服务器，连接Claude与AI Agent到你的Google Ads账户：诊断投放表现（CPA、ROAS、搜索词浪费、质量得分）、推荐优化（出价、预算、否定关键词、广告文案）、人工审批后通过Google Ads API执行变更 | 免费层 | 低 | 出海广告团队、Google Ads运营 | [点击进入](https://notfair.co) |
 
 ### **AI虚拟试穿** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
