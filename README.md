@@ -707,6 +707,7 @@
 | Gito | 开源 AI 代码审查器、支持任意 LLM | 开源免费 | 中 | 无厂商锁定的开发团队 | [点击进入](https://github.com/gito-ai/gito) |
 | SonarQube/SonarCloud | 静态代码分析 + AI 增强 | 免费社区版 | 中 | 企业级代码质量管理 | [点击进入](https://www.sonarsource.com/) |
 | Snyk Code | AI 安全漏洞扫描与修复建议 | 免费 | 中 | 安全工程师、DevOps | [点击进入](https://snyk.io/) |
+| agenttrace | 本地 TUI，分析 AI 编程 Agent 会话成本、token、延迟、失败与健康度 | 开源免费 | 中 | 使用 Claude Code、Codex、OpenCode 等工具的开发者 | [点击进入](https://github.com/luoyuctl/agenttrace) |
 
 ### **自动化测试与CI/CD** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
