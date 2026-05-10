@@ -202,6 +202,7 @@
 | 小沓AI | 品牌档案搭建、AI友好内容生成、全域流量占位 | 有限免费 | 低 | 品牌营销团队 | [点击进入](https://www.xiaoqia.ai/) |
 | 阿里妈妈·万相实验室 | 全域广告投放与创意生成，策略-创意-投放-度量全链路自动化 | 有限免费 | 中 | 阿里系商家、广告主 | [点击进入](https://www.alimama.com/) |
 | 微盟·智营销 | 私域流量运营，AI销售教练、智能朋友圈/社群SOP生成 | 有限免费 | 低 | 私域运营团队 | [点击进入](https://www.weimob.com/) |
+| 副业内容引擎 Side Hustle Content Engine | 闲鱼/小红书/朋友圈/公众号 AI文案生成，DeepSeek驱动，免费 | 免费 | 低 | 电商卖家、社媒运营、副业创业者 | [点击进入](https://tender-bees-camp.loca.lt) |
 
 
 
