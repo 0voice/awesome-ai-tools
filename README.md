@@ -403,6 +403,7 @@
 | GetFloorPlan | 上传手绘户型图，AI 生成精细 3D 图及 360° VR 场景 | 有限免费 | 低 | 室内设计师、房地产中介 | [点击进入](https://getfloorplan.com/) |
 | Dreamhouse AI | 上传室内空间图，AI 生成多种装修设计风格参考图 | 有限免费 | 低 | 房主、室内设计爱好者 | [点击进入](https://dreamhouse.ai/) |
 | Planner 5D | AI 辅助家居设计，无需专业技术 | 免费基础版 | 低 | 房主、室内设计爱好者 | [点击进入](https://planner5d.com/) |
+| LandscapioAI | 上传院子照片并生成 AI 庭院设计、成本估算和材料建议 | 免费基础版 | 低 | 房主、园林设计师、承包商 | [点击进入](https://www.landscapioai.com/) |
 
 ### **其他专业图像工具** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
