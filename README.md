@@ -736,6 +736,7 @@
 | LlamaIndex | 文档检索、RAG、知识库开发 | 开源免费 | 高 | 开发者、文档 AI | [点击进入](https://github.com/run-llama/llama_index) |
 | n8n | 开源工作流自动化、连接 280+ 应用 | 开源免费 | 中 | 开发者、企业 IT | [点击进入](https://github.com/n8n-io/n8n) |
 | DeerFlow | 字节开源深度研究框架、AI+搜索+报告 | 开源免费 | 高 | 研究者、开发者 | [点击进入](https://github.com/bytedance/deer-flow) |
+| Sistava | AI 智能体编排平台，部署运行多个 AI 员工，负责销售、营销、财务、客服等全业务，通过 Slack、WhatsApp、邮件、语音、Telegram、API、MCP、A2A、Webhook 接入，配备完整电脑操作能力 | 付费订阅 | 中 | 创业者、中小企业 | [点击进入](https://sistava.com) |
 
 ### **开发辅助与API工具** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
