@@ -348,6 +348,7 @@
 | Stableboost | 基于 Stable Diffusion 的图像生成与优化 | 基础免费 | 中 | 设计师、AI 爱好者 | [点击进入](https://stableboost.io/) |
 | GPT-IMAGE-1 | OpenAI 新一代图像生成模型，通过文本生成高质量图片 | 有限免费 | 低 | 普通用户、设计师 | [点击进入](https://openai.com/gpt-image-1) |
 | Kling | 高质量图像与视频生成，可灵 AI 驱动 | 每日免费点数 | 低 | 短视频创作者、设计师 | [点击进入](https://kling.kuaishou.com/) |
+| Vynly | AI 艺术与视频社交网络，每个作品自带可验证溯源（C2PA、SynthID、生成器元数据），免费 AI 图像检测器（vynly.co/check），面向智能体的 MCP 服务器 | 免费 | 低 | AI 艺术创作者、智能体开发者 | [点击进入](https://vynly.co) |
 
 
 ### **在线设计与图片编辑** 
