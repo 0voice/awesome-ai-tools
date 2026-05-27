@@ -736,6 +736,7 @@
 | LlamaIndex | 文档检索、RAG、知识库开发 | 开源免费 | 高 | 开发者、文档 AI | [点击进入](https://github.com/run-llama/llama_index) |
 | n8n | 开源工作流自动化、连接 280+ 应用 | 开源免费 | 中 | 开发者、企业 IT | [点击进入](https://github.com/n8n-io/n8n) |
 | DeerFlow | 字节开源深度研究框架、AI+搜索+报告 | 开源免费 | 高 | 研究者、开发者 | [点击进入](https://github.com/bytedance/deer-flow) |
+| 小马AI Hermes 中文增强包 | Hermes Agent 中文界面与网关提示增强，支持飞书/Telegram 配对、主频道提醒和一键安装 | 开源免费 | 中 | Hermes Agent 用户、AI Agent 开发者 | [点击进入](https://github.com/fresh-claw/hermes-zh-cn) |
 
 ### **开发辅助与API工具** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
