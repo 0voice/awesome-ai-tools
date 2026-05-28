@@ -707,6 +707,7 @@
 | Gito | 开源 AI 代码审查器、支持任意 LLM | 开源免费 | 中 | 无厂商锁定的开发团队 | [点击进入](https://github.com/gito-ai/gito) |
 | SonarQube/SonarCloud | 静态代码分析 + AI 增强 | 免费社区版 | 中 | 企业级代码质量管理 | [点击进入](https://www.sonarsource.com/) |
 | Snyk Code | AI 安全漏洞扫描与修复建议 | 免费 | 中 | 安全工程师、DevOps | [点击进入](https://snyk.io/) |
+| Kodus 开源 AI 代码审查工具，支持仓库上下文、自定义规则和 BYOK 开源免费 中 工程团队、代码质量管理 [点击进入](https://kodus.io/)
 
 ### **自动化测试与CI/CD** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
