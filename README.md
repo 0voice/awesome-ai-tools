@@ -725,6 +725,7 @@
 | SQLark AI | 代码解释、SQL 优化、达梦专家知识 | 免费 | 低 | DBA、达梦数据库用户 | [点击进入](https://www.sqlark.com/) |
 | pg_ai_query | PostgreSQL AI SQL 生成扩展 | 开源免费 | 中 | PostgreSQL 开发者 | [点击进入](https://github.com/postgres/pg_ai_query) |
 | Oracle Select AI | 自然语言查询数据库 (NL2SQL) | 有限免费 | 中 | Oracle/MySQL HeatWave 用户 | [点击进入](https://www.oracle.com/database/select-ai/) |
+| AI for Database | 自然语言查询数据库，智能自动刷新仪表盘，数据库变更触发自动化工作流 | 免费增值 | 低 | 非技术人员、数据分析师、企业团队 | [点击进入](https://aifordatabase.com) |
 
 ### **AI代理与智能体开发** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
