@@ -531,6 +531,7 @@
 | WaveSpeedAI | 聚合50+音视频AI模型 | 注册送免费点数 | 中 | AI模型测试、开发者 | [点击进入](https://wavespeed.ai/) |
 |video-starter-kit|AI视频入门工具包|不完全免费|中|全球内容传播者|[点击进入](https://github.com/fal-ai-community/video-starter-kit)|
 |awesome-artificial-intelligence|ai学习以及工具|免费|中|ai初学者、ai爱好者|[点击进入](https://github.com/owainlewis/awesome-artificial-intelligence)|
+| ZOOOP | AI 影视创作工作站：图像/视频/音频生成、配方模板、生成式画布分镜、对口型，聚合多家主流模型 | 注册/每日登录送积分 | 中 | 影视创作者、短视频与分镜创作者、内容团队 | [点击进入](https://zooop.ai) |
 
 ### **开源项目** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
