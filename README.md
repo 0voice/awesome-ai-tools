@@ -1151,6 +1151,7 @@
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
 |---|---|---|---|---|---|
 | SmartBDM | AI驱动的CRM，自动更新数据、提升销售表现 | 有限免费 | 中 | 销售团队 | [点击进入](https://apps.apple.com/) |
+| XMACNA Funcionarios Digitais | AI/IA agents for WhatsApp, phone, CRM updates, lead qualification, follow-up, and human handoff | Contact | Low | Sales and support teams | [Open](https://xmacna.ai/) |
 | Pomelli (Google Labs) | 分析品牌DNA自动生成品牌风格一致的营销素材 | 暂时免费 | 低 | 中小企业营销团队 | [点击进入](https://labs.google/pomelli) |
 | Streamline | AI销售预测与库存优化软件 | 永久免费版 | 中 | 制造商、销售团队 | [点击进入](https://gmdhsoftware.com/) |
 | Promptor (WordPress插件) | 将WordPress网站转为24/7 AI销售助手 | 免费 | 低 | 电商网站主、企业 | [点击进入](https://sk.wordpress.org/) |
