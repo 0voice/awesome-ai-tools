@@ -246,6 +246,7 @@
 | Hemingway Editor | 文本可读性分析、简化建议、被动语态检测 | 免费在线版 | 低 | 作者、编辑、内容创作者 | [点击进入](http://www.hemingwayapp.com/) |
 | UnAIMyText | 免费AI人性化工具，将AI生成文本转为更像人写的内容| 免费 | 低 | 博客作者、营销人员 | [点击进入](https://unaimytext.com/) |
 | GPTZero | AI内容检测与人性化改写 | 免费版有限功能 | 低 | 教育工作者、内容审核 | [点击进入](https://gptzero.me/) |
+| ai-slop-detect | 确定性CLI检测Markdown和散文中的AI生成模式（破折号、ChatGPT短语、零宽Unicode）；EN+PL；MIT许可证 | 完全免费/开源 | 低 | 开发者、技术作家、博主 | [点击进入](https://github.com/antydizajn/ai-slop-detect) |
 
 ### **办公文档与职场写作** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
