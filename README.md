@@ -81,6 +81,7 @@
   - [ AI 代理与智能体开发](#AI代理与智能体开发)
   - [ 开发辅助与 API 工具](#开发辅助与API工具)
   - [ 其他实用工具](#其他实用工具)
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Solana链上AI代理信任评分MCP服务器。免费工具：`score_agent`、`preflight_check`；付费工具：通过HTTP 402 + USDC micropayment生成签名信任凭证。MCP端点：`https://intel.twzrd.xyz/mcp`
 
 
 - [ 学习教育类](#学习教育类)
