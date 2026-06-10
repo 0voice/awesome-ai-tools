@@ -446,6 +446,7 @@
 | Leonardo Motion | 游戏资产风格视频生成 | 每日约150积分 | 中 | 游戏设计师、概念艺术家 | [点击进入](https://leonardo.ai/) |
 | Luma Dream Machine | 高质量视频生成、运动控制 | 有限免费 | 中 | 创意工作者、设计师 | [点击进入](https://lumalabs.ai/dream-machine) |
 | Haiper AI | 文本/图像转视频 | 免费 | 低 | 初学者、社交内容创作者 | [点击进入](https://haiper.ai/) |
+| ImagineClip | 提示词/图片生成短视频、头像视频与视觉特效 | 基础免费 | 低 | 社媒内容创作者、AI视频制作 | [点击进入](https://imagineclip.com?ref=0voice-awesome-ai-tools) |
 | Animato | 2D/3D动画生成 | 基础免费 | 低 | 动画创作者、教育者 | [点击进入](https://www.animato.ai/) |
 | Colossyan | AI虚拟人视频生成 | 免费试用 | 低 | 企业培训、营销视频制作 | [点击进入](https://www.colossyan.com/) |
 | Elai.io | AI虚拟人播报视频 | 每月1分钟免费 | 低 | 企业培训、营销人员 | [点击进入](https://elai.io/) |
