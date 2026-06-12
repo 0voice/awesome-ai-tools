@@ -254,6 +254,7 @@
 | Microsoft Copilot | Office套件AI集成，PPT/Word/Excel全面辅助 | 需付费订阅 | 中 | 企业用户、Office深度用户 | [点击进入](https://www.microsoft.com/zh-cn/microsoft-365/copilot) |
 | Notion AI | 结构化数据库+AI写作与摘要、知识管理 | 免费基础版 | 中 | 团队、个人知识管理 | [点击进入](https://www.notion.so/) |
 | 语雀 AI | 知识库、文档、笔记、协作写作 | 免费版基础功能 | 中 | 团队、技术文档、知识管理 | [点击进入](https://www.yuque.com/) |
+| Remio | 本地优先 AI 记忆与个人知识库客户端，索引笔记、文件、网页、录音、邮件、消息、图片等知识源，支持语义检索和 Agent 获取上下文 | 官网为准 | 低 | 研究者、知识工作者、Agent 用户 | [点击进入](https://remio.ai/) |
 | 飞书 Lark | 聊天、文件、会议、数据库一体化AI协作 | 免费（最多20位用户） | 中 | 团队、企业 | [点击进入](https://www.larksuite.com/) |
 | Scribe | AI自动化文档制作，记录操作步骤生成教程 | 免费版有限功能 | 低 | 培训师、技术支持 | [点击进入](https://scribehow.com/) |
 
