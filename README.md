@@ -691,6 +691,7 @@
 | Bolt.new | 浏览器内 AI 全栈应用构建（StackBlitz） | 免费基础版 | 低 | 快速原型、初创团队 | [点击进入](https://bolt.new/) |
 | Lovable | AI 驱动的应用构建平台 | 免费基础版 | 低 | 无代码倾向的开发者 | [点击进入](https://lovable.dev/) |
 | v0 (Vercel) | 文本/图像生成 UI 组件 | 免费 | 低 | 前端开发者、UI 设计师 | [点击进入](https://v0.dev/) |
+| Roblox GUI Maker | 提示词生成 Roblox Studio GUI 布局和 Lua 入门代码 | 免费 | 低 | Roblox 开发者、游戏原型开发者 | [点击进入](https://robloxguimaker.dev/) |
 | Claudable | 开源 Web 应用生成器、支持 Supabase | 开源免费 | 中 | 开源爱好者、快速原型 | [点击进入](https://github.com/Claudable/Claudable) |
 | Replit | 在线 IDE + AI 辅助开发 | 免费基础版 | 低 | 在线编程学习、轻量开发 | [点击进入](https://replit.com/) |
 | Cloudflare VibeSDK | 零代码部署全栈应用、Gemini API | 开源免费 | 中 | Cloudflare 生态开发者 | [点击进入](https://github.com/cloudflare/vibesdk) |
