@@ -971,6 +971,7 @@
 | AskMetric | AI驱动的电商数据采集与分析工具，支持指标可视化、关键词搜索和产品推荐 | 开源免费 | 中 | 开发者、电商分析师 | [点击进入](https://github.com/AskMetric) |
 | Automatic Product Trial | 自动商品试用系统，突破虚拟试衣局限，支持任意商品与人物照片智能合成 | 开源免费 | 中 | 开发者、服饰电商 | [点击进入](https://github.com/automatic-product-trial) |
 | Meridian | Google开源营销组合模型，提供Scenario Planner无代码工具测试预算和ROI预测 | 开源免费 | 中 | 营销分析师、数据团队 | [点击进入](https://github.com/google/meridian) |
+| NotFair | 开源 Claude Code 技能集，涵盖 SEO 分析、关键词研究、Google Ads 审计及 Meta Ads 优化；通过 Google Ads MCP、Meta Ads MCP、Google Search Console MCP 和 Google Analytics (GA4) MCP 接入实时数据 | 开源免费 | 中 | 开发者、SEO/广告运营团队 | [点击进入](https://github.com/nowork-studio/NotFair) |
 
 
 
