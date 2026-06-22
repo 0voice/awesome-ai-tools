@@ -757,6 +757,7 @@
 | ChatGLM3 (开源) | 中文代码生成、本地部署 | 开源免费 | 中 | 开发者、中文创作 | [点击进入](https://github.com/THUDM/ChatGLM3) |
 | Mistral (开源) | 通用代码生成、推理、可商用 | 开源免费 | 高 | 开发者、AI 应用 | [点击进入](https://github.com/mistralai/mistral-models) |
 | DeepSeek-Coder (开源) | 代码写作、注释、生成、调试 | 开源免费 | 高 | 程序员、代码文档 | [点击进入](https://github.com/deepseek-ai/DeepSeek-Coder) |
+| LoopTroop | 本地优先开源 GUI 应用，通过 LLM Council、Ralph Loops 和 Context Engineering 自主运行全生命周期编码任务 | 开源免费 | 中 | 开发者、AI 编码 | [点击进入](https://github.com/looptroop-ai/LoopTroop) |
 
 
 
