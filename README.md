@@ -743,6 +743,7 @@
 | Exa Code | 亿级代码库上下文、降低错误率 | 免费试用 | 中 | AI Coding Agent 开发者 | [点击进入](https://exa.dev/code) |
 | Genkit | 开源 AI 应用开发框架、统一 API | 开源免费 | 中 | 多模型开发者 | [点击进入](https://github.com/google/genkit) |
 | Vercel AI Gateway | 一键调用数百种 AI 模型 | 免费 | 中 | AI 应用开发者 | [点击进入](https://vercel.com/ai-gateway) |
+| Tokens Forge | 多模型 AI Token 与 OpenAI-compatible API 网关，支持 GPT/Claude/Gemini 路由、用量账本和 AI 交易研究员 | 新人 RMB 额度 | 低 | 开发者、AI 应用团队、研究用户 | [点击进入](https://tokens-forge.com/) |
 | MuleSoft Vibes | AI 生成 API 规范、语义验证 | 免费试用 | 中 | API 开发者 | [点击进入](https://www.mulesoft.com/) |
 
 ### **其他实用工具** 
