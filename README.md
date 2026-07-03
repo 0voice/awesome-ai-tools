@@ -471,6 +471,7 @@
 | Diffusion Studio Pro | 本地优先AI视频编辑、生成式AI | 免费 | 中 | 开发者、AI爱好者 | [点击进入](https://diffusion.studio/) |
 | AI Video Shortener | 长视频自动剪辑为短视频片段 | 免费 | 低 | 播客、访谈内容创作者 | [点击进入](https://sider.ai/) |
 |Text-To-Video-AI|文字转视频AI可本地部署|免费开源|中|社媒内容创作者|[点击进入](https://github.com/SamurAIGPT/Text-To-Video-AI)|
+| 云剪切板 视频增强 (cv.cm/video-enhancer) | AI 视频画质增强/超分，一键放大到 2K，去噪修复模糊老片 | 注册送100积分 | 低 | 短视频创作者、老片高清修复 | [点击进入](https://cv.cm/video-enhancer) |
 
 
 ### **音频生成与编辑** 
