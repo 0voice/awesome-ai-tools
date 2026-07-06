@@ -1394,3 +1394,4 @@
 若有工具推荐、问题反馈，可提交Issue，或联系我的GitHub：[https://github\.com/hahaisname](https://github.com/hahaisname)
 
 Star ⭐ 不迷路，持续更新优质AI工具！
+- [FreeAIStack](https://aifreeaistack.com) - 14 Free AI Tools
