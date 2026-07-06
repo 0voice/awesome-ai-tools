@@ -8,6 +8,8 @@
 
 <div align="center">
   <img src="images/ai_tools.png" width="800">
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
 </div>
     
   
