@@ -734,6 +734,7 @@
 | Coze | 拖拽式搭建 AI 助手和工作流 | 开源免费 | 中 | 开发者、自媒体 | [点击进入](https://github.com/coze-dev/coze) |
 | LangChain | 多工具协作、Agent 开发框架 | 开源免费 | 高 | 高级开发者、AI 应用开发 | [点击进入](https://github.com/langchain-ai/langchain) |
 | LlamaIndex | 文档检索、RAG、知识库开发 | 开源免费 | 高 | 开发者、文档 AI | [点击进入](https://github.com/run-llama/llama_index) |
+| Tree Ring Memory | 本地优先 AI 智能体记忆生命周期层，支持 Rust CLI/TUI、SQLite/FTS 召回、审计、遗忘和整合 | 开源免费 | 中 | AI Agent 开发者、注重隐私的团队 | [点击进入](https://github.com/TerminallyLazy/Tree-Ring-Memory) |
 | n8n | 开源工作流自动化、连接 280+ 应用 | 开源免费 | 中 | 开发者、企业 IT | [点击进入](https://github.com/n8n-io/n8n) |
 | DeerFlow | 字节开源深度研究框架、AI+搜索+报告 | 开源免费 | 高 | 研究者、开发者 | [点击进入](https://github.com/bytedance/deer-flow) |
 
