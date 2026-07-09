@@ -371,7 +371,7 @@
 | Remover | ZMO.AI 出品，免费去除照片中不需要的物体、人物、文字和背景 | 免费无限次 | 低 | 电商、房地产、常规照片清理 | [点击进入](https://remover.zmo.ai/) |
 | Seamless Studio | AI 生成高质量原创模型图，无需昂贵摄影 | 免费基础版 | 低 | 设计师、电商卖家 | [点击进入](https://seamlessstudio.ai/) |
 | Magic Studio | AI 图像生成与编辑一体化平台 | 有限免费 | 低 | 内容创作者、设计师 | [点击进入](https://magicstudio.com/) |
-| ArtImageHub | 在线 AI 老照片修复，支持划痕修复、黑白上色、清晰度增强 | 免费预览，下载 $4.99/张 | 低 | 普通用户、需要修复老照片的人 | [点击进入](https://artimagehub.com/old-photo-restoration) |
+| ArtImageHub | 在线 AI 老照片修复，支持划痕修复、黑白上色、清晰度增强 | 一次性 $4.99，无订阅 | 低 | 普通用户、需要修复老照片的人 | [点击进入](https://artimagehub.com/old-photo-restoration) |
 
 ### **UI/UX设计工具** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
