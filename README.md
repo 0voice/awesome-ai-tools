@@ -169,6 +169,9 @@
 ### **综合型写作助手全能型** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
 |---|---|---|---|---|---|
+| Spireess | AI 写作与内容创作助手，生成文章、文案与创意内容 | 免费 | 低 | 内容创作者、营销人员 | [点击进入](https://spireess.com) |
+| Bold Text Generators | 粗体、哥特与花式文字生成器，用于社媒简介、帖子与资料 | 免费 | 低 | 社媒用户、设计师 | [点击进入](https://boldtextgenerators.org) |
+
 | ChatGPT (GPT-4o) | 通用写作、翻译、代码生成、多模态文件解析，多轮对话能力突出 | 免费版有限次数 | 低 | 创作者、程序员、职场人 | [点击进入](https://chat.openai.com/) |
 | Claude | 长文本分析、文档理解、创意写作、代码生成，支持海量上下文 | 免费版有限次数 | 中 | 法律、学术、长文创作者 | [点击进入](https://www.anthropic.com/) |
 | Gemini | 多模态输入、超长上下文、创意写作、Google生态集成 | 每日有限次数 | 中 | 普通用户、创意创作者 | [点击进入](https://gemini.google.com/) |
@@ -191,6 +194,8 @@
 ### **营销文案** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
 |---|---|---|---|---|---|
+| Amazon Listing AI | AI 亚马逊 listing 优化，生成标题、描述与关键词 | 免费 | 低 | 电商卖家、品牌方 | [点击进入](https://amazonlistingai.com) |
+
 | Jasper | 企业级营销、广告、邮件、品牌文案，50+电商模板，支持25+语言| 免费试用 7 天 | 中 | 企业营销、品牌运营 | [点击进入](https://www.jasper.ai/) |
 | Copy.ai | 社媒文案、产品描述、广告素材，多语气可调，批量生成 | 免费版每日 2000 词 | 低 | 跨境电商、社媒运营 | [点击进入](https://www.copy.ai/) |
 | Writesonic | 长篇文章、博客、营销文案，兼顾 SEO 优化 | 免费版有限功能 | 低 | 内容营销、SEO从业者 | [点击进入](https://writesonic.com/) |
@@ -241,6 +246,8 @@
 ### **内容改写与润色** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
 |---|---|---|---|---|---|
+| Quilliam | AI 改写与重写工具，重组句子并提升写作质量 | 免费 | 低 | 学生、写作者 | [点击进入](https://quilliam.online) |
+
 | Wordtune | 句子改写、语气调整、文本扩展、重写建议 | 免费版有限功能 | 低 | 日常写作、邮件编辑 | [点击进入](https://www.wordtune.com/) |
 | ProWritingAid | 语法检查、风格分析、可读性评分，深度润色 | 免费版有限功能 | 中 | 作者、编辑、内容创作者 | [点击进入](https://prowritingaid.com/) |
 | Hemingway Editor | 文本可读性分析、简化建议、被动语态检测 | 免费在线版 | 低 | 作者、编辑、内容创作者 | [点击进入](http://www.hemingwayapp.com/) |
@@ -353,6 +360,16 @@
 ### **在线设计与图片编辑** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
 |---|---|---|---|---|---|
+| MyInk AI | AI 纹身设计生成器，从文字描述生成定制纹身图案 | 免费 | 低 | 纹身爱好者、设计师 | [点击进入](https://myink.ai) |
+| HeadshotAI | AI 专业头像生成器，将自拍转为影棚级头像 | 免费 | 低 | 职场人士、自由职业者 | [点击进入](https://headshotai.app) |
+| Old Photo Restoration | AI 老照片修复，修复、上色并还原老旧照片 | 免费 | 低 | 普通用户、家庭 | [点击进入](https://oldphotorestoration.app) |
+| InkPages Pro | AI 纹身设计平台，浏览、创建并定制 AI 纹身艺术 | 免费 | 低 | 纹身爱好者 | [点击进入](https://inkpages.pro) |
+| AI Image Extender | AI 图像扩展与外绘工具，将图像扩展到边界之外 | 免费 | 低 | 设计师、内容创作者 | [点击进入](https://aiimageextender.app) |
+| Any Passport Photo | AI 证件照制作工具，生成合规的 ID/签证/护照照片 | 免费 | 低 | 普通用户、出行者 | [点击进入](https://anypassportphoto.com) |
+| Before You Ink | AI 纹身预览工具，纹身前先在身上预览设计效果 | 免费 | 低 | 纹身爱好者 | [点击进入](https://beforeyouink.org) |
+| InkBolt | AI 纹身设计市场，提供可定制的生成式纹身艺术 | 免费 | 低 | 纹身爱好者、设计师 | [点击进入](https://inkbolt.cc) |
+| RedoInk | AI 纹身重设计工具，改造现有纹身或创建新设计 | 免费 | 低 | 纹身爱好者 | [点击进入](https://redoink.com) |
+
 | MyEdit | 全能 AI 图片编辑网站，内置多款 AI 绘图模型（Nano Banana、FLUX、GPT-IMAGE-1.5 等），支持中文指令、人脸/姿势/构图参考、AI 抠图、画质修复 | 每日免费登入点数 | 低 | 设计新手、普通用户 | [点击进入](https://tw.cyberlink.com/) |
 | Canva | 集成 AI 设计功能，海量模板，文本转视频 | 免费基础版 | 低 | 营销人员、非专业设计师 | [点击进入](https://www.canva.com/) |
 | CapCut | AI 海报设计、图像生成与编辑，集成 Seedream 5.0 模型，多智能体工作流 | 免费 | 低 | 短视频创作者、设计师 | [点击进入](https://www.capcut.com/) |
@@ -399,6 +416,11 @@
 ### **室内与建筑设计** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
 |---|---|---|---|---|---|
+| RoomFlip | AI 虚拟布置与房间重设计，上传照片生成逼真前后对比效果图 | 免费 | 低 | 房产经纪人、业主 | [点击进入](https://roomflip.pro) |
+| AI Virtual Staging | 免费 AI 虚拟布置，为空置房产添加逼真家具 | 免费 | 低 | 房产经纪人、房东 | [点击进入](https://aivirtualstaging.org) |
+| AI Interior Lab | AI 室内设计工具，生成房间设计方案与装饰灵感 | 免费 | 低 | 室内设计爱好者、业主 | [点击进入](https://aiinteriorlab.com) |
+| AI Yard Planner | AI 庭院与花园规划，设计景观布局并可视化户外空间 | 免费 | 低 | 业主、园艺爱好者 | [点击进入](https://aiyardplanner.com) |
+
 | 飞流 AI | 一站式家装设计智能体，自然语言生成三维方案，打通“设计-报价-供应链-施工”全链路，支持拖拽布局、VR 预览 | 有限免费 | 低 | 室内设计师、业主、装修公司 | [点击进入](https://feiliuai.com/) |
 | GetFloorPlan | 上传手绘户型图，AI 生成精细 3D 图及 360° VR 场景 | 有限免费 | 低 | 室内设计师、房地产中介 | [点击进入](https://getfloorplan.com/) |
 | Dreamhouse AI | 上传室内空间图，AI 生成多种装修设计风格参考图 | 有限免费 | 低 | 房主、室内设计爱好者 | [点击进入](https://dreamhouse.ai/) |
@@ -475,6 +497,10 @@
 ### **音频生成与编辑** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
 |---|---|---|---|---|---|
+| SongForYou | AI 音乐与歌曲生成器，创作含歌词、旋律与演唱的原创歌曲 | 免费 | 低 | 音乐人、内容创作者 | [点击进入](https://songforyou.cc) |
+| AI Jingle Maker | AI 广告歌制作工具，为企业生成定制音频广告歌与品牌音效 | 免费 | 低 | 企业、营销人员 | [点击进入](https://aijinglemaker.cc) |
+| AI Rap Creator | AI 说唱生成器，创作带歌词与节拍的原创说唱歌曲 | 免费 | 低 | 音乐人、创作者 | [点击进入](https://airapcreator.com) |
+
 | Suno v5.5 | 最长8分钟AI音乐生成、人声克隆 | 每日免费点数 | 低 | 音乐创作者、内容制作者 | [点击进入](https://suno.com/) |
 | MiniMax Music 2.5+ | 人声歌曲+纯音乐生成、14段落结构控制 | 每日免费点数 | 低 | 音乐制作人、专业创作者 | [点击进入](https://www.minimax.com/) |
 | Google Lyria 3 Pro | 最长3分钟AI音乐、图像引导生成 | 有限免费 | 中 | 音乐制作人、创意工作者 | [点击进入](https://deepmind.google/lyria) |
