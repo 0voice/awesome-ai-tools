@@ -736,6 +736,7 @@
 | LlamaIndex | 文档检索、RAG、知识库开发 | 开源免费 | 高 | 开发者、文档 AI | [点击进入](https://github.com/run-llama/llama_index) |
 | n8n | 开源工作流自动化、连接 280+ 应用 | 开源免费 | 中 | 开发者、企业 IT | [点击进入](https://github.com/n8n-io/n8n) |
 | DeerFlow | 字节开源深度研究框架、AI+搜索+报告 | 开源免费 | 高 | 研究者、开发者 | [点击进入](https://github.com/bytedance/deer-flow) |
+| [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) | 基于多模态视觉感知与LLM Agent的macOS微信自动化框架，不碰协议不读数据库，用AI视觉看界面自动回复消息 | 开源免费 MIT | 中 | 开发者、微信用户、AI应用开发者 | [点击进入](https://github.com/wq19901103wq/wechat-mac-rpa) |
 
 ### **开发辅助与API工具** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
