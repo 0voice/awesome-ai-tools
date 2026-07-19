@@ -47,7 +47,6 @@
   - [ 3D 设计与建模](#3D设计与建模)
   - [ Logo 与品牌设计](#Logo与品牌设计)
   - [ 室内与建筑设计](#室内与建筑设计)
-  - [ 室内与建筑设计](#室内与建筑设计)
   - [ 开源项目](#开源项目)
  
 
@@ -625,6 +624,9 @@
 | n8n | 开源工作流自动化，连接 280+ 应用 | 开源免费可自托管 | 高 | 开发者、企业 IT | [点击进入](https://n8n.io/) |
 | Zapier | AI 自动化工作流，连接 6000+ 应用 | 免费版每月100次任务 | 中 | 营销人员、运营 | [点击进入](https://zapier.com/) |
 | Make | 可视化自动化工作流搭建 | 免费版每月1000次操作 | 中 | 营销、电商运营 | [点击进入](https://www.make.com/) |
+| Xquik | 独立第三方 X 数据与自动化服务，与 X Corp. 无关；提供 REST API、MCP、Webhook、SDK 和监控 | 按量计费；Skill 采用 MIT 许可证 | 中 | 开发者、AI Agent 构建者、运营团队 | [点击进入](https://github.com/Xquik-dev/x-twitter-scraper) |
+
+> Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
 
 ### **综合协作平台** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
