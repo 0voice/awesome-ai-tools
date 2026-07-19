@@ -742,6 +742,7 @@
 |---|---|---|---|---|---|
 | Exa Code | 亿级代码库上下文、降低错误率 | 免费试用 | 中 | AI Coding Agent 开发者 | [点击进入](https://exa.dev/code) |
 | Genkit | 开源 AI 应用开发框架、统一 API | 开源免费 | 中 | 多模型开发者 | [点击进入](https://github.com/google/genkit) |
+| Markstream | 面向 AI 聊天界面的多框架流式 Markdown 渲染器，支持不完整内容、Mermaid、KaTeX、代码高亮与 SSR | 开源免费 | 中 | Vue、React、Svelte、Angular 开发者 | [点击进入](https://markstream.simonhe.me/) |
 | Vercel AI Gateway | 一键调用数百种 AI 模型 | 免费 | 中 | AI 应用开发者 | [点击进入](https://vercel.com/ai-gateway) |
 | MuleSoft Vibes | AI 生成 API 规范、语义验证 | 免费试用 | 中 | API 开发者 | [点击进入](https://www.mulesoft.com/) |
 
