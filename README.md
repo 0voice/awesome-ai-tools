@@ -914,6 +914,7 @@
 | Runway Gen-4 | AI视频生成，多模态笔刷精准控制动态区域，导演模式预设摄影机轨迹 | 免费版约125积分 | 中 | 专业广告创意团队 | [点击进入](https://runwayml.com/) |
 | OpenAI Sora (2026 Pro) | 影视级视频生成，深刻物理规律理解，生成长达数分钟的连贯叙事视频 | 需付费 | 中 | 高端品牌广告 | [点击进入](https://openai.com/sora) |
 | 火山引擎创作Agent 2.0 | 基于Seedance 2.0，覆盖产品评测、卖点演绎、Vlog、品牌广告等六种营销视频类型 | 有限免费 | 中 | 国内品牌营销团队 | [点击进入](https://www.volcengine.com/) |
+| Marketing Studio | 开源自托管AI广告视频工作室，支持商品、参考广告和文案生成可测试创意 | 开源免费（生成按API） | 中 | 电商卖家、广告团队 | [点击进入](https://github.com/AtlasCloudAI/atlas-marketing-studio) |
 
 ### **智能客服与导购** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
