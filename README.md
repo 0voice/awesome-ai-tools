@@ -357,6 +357,7 @@
 | Canva | 集成 AI 设计功能，海量模板，文本转视频 | 免费基础版 | 低 | 营销人员、非专业设计师 | [点击进入](https://www.canva.com/) |
 | CapCut | AI 海报设计、图像生成与编辑，集成 Seedream 5.0 模型，多智能体工作流 | 免费 | 低 | 短视频创作者、设计师 | [点击进入](https://www.capcut.com/) |
 | Pixlr | 浏览器图片编辑，AI 背景更换、物体移除、图像生成 | 免费基础版 | 低 | 摄影爱好者、设计师 | [点击进入](https://pixlr.com/) |
+| ImageChanger | 浏览器端 AI 图片编辑器，提供 38 个背景、人物、物体、修复和创意转换工作流 | 免费积分 + 付费积分包 | 低 | 独立开发者、内容创作者、普通用户 | [点击进入](https://aiimagechanger.app/) |
 | Fotor | 在线修图与 AI 设计，AI 生成、人像美化、旧照片修复 | 免费基础版 | 低 | 普通用户、摄影爱好者 | [点击进入](https://www.fotor.com/) |
 | PhotoDirector | AI 生成与专业修图工具结合，物体移除、人像增强 | 免费基础版 | 中 | 摄影爱好者、设计师 | [点击进入](https://www.cyberlink.com/products/photodirector/) |
 | PhotoRoom | 一键抠图、背景替换、产品图优化 | 免费基础版 | 低 | 电商卖家、摄影师 | [点击进入](https://www.photoroom.com/) |
