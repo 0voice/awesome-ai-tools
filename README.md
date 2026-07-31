@@ -641,6 +641,7 @@
 | Dify | 低代码 AI 应用工厂，拖拽式构建 AI 工作流 | 开源免费 | 中 | 开发者、企业 | [点击进入](https://github.com/langgenius/dify) |
 | RAGFlow | 企业级知识处理引擎，复杂文档解析 | 开源免费 | 高 | 企业、开发者 | [点击进入](https://github.com/infiniflow/ragflow) |
 | Open WebUI | 零代码构建本地 AI 交互界面 | 开源免费 | 中 | 开发者、企业私有部署 | [点击进入](https://github.com/open-webui/open-webui) |
+| NoteGen | 本地优先的 AI Markdown 笔记应用，将碎片记录整理成结构化笔记 | 开源免费 | 低 | 个人用户、内容创作者、知识工作者 | [点击进入](https://github.com/codexu/note-gen) |
 | FastGPT | 高速内容生成专家，5秒内响应复杂查询 | 开源免费 | 中 | 开发者、企业 | [点击进入](https://github.com/labring/FastGPT) |
 | Presentation-AI | 一句话生成专业 PPT，本地部署 | 开源免费 | 中 | 开发者、企业、教师 | [点击进入](https://github.com/allweonedev/presentation-ai) |
 | ChatPDF | PDF 文件对话式交互，快速定位信息 | 开源免费 | 中 | 学生、研究员 | [点击进入](https://github.com/heyPooPy/ChatPDF) |
