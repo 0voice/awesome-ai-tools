@@ -1018,6 +1018,7 @@
 | 同程旅行“程心 AI” | 从 AI 推荐到决策执行+预订执行的闭环，支持 9 种语言 | 免费 | 低 | 国内/入境游客 | [点击进入](https://www.ly.com/) |
 | 携程 TripGenie | 国际平台 AI 助手，支持 12 种语言解答旅行疑问 | 免费 | 低 | 出境游旅客 | [点击进入](https://www.trip.com/) |
 | 当贝 AI 旅行规划师 | 偏好解析算法，结合季节天气、客流等动态数据生成专属方案 | 免费 | 低 | 智能电视用户、旅行者 | [点击进入](https://www.dangbei.com/) |
+| Wander China | 31个中国城市拖拽式行程规划，1日路线推荐，无需注册 | 完全免费 | 低 | 出行规划者、外国游客 | [点击进入](https://ordinarymantrying.com/tools/wander-china/index.html) |
 
 ### **饮食与营养** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
@@ -1108,6 +1109,7 @@
 | ccMonet | 拍照记录支出、自动对账、报销管理、实时财务报表 | 有限免费 | 低 | 个人、小微企业 | [点击进入](https://apps.apple.com/) |
 | Figures AI | 为自由职业者和小企业设计的AI会计应用，自动记账 | 免费基础版 | 低 | 自由职业者、小微企业 | [点击进入](https://apps.apple.com/) |
 | 咔皮记账 | AI Agent记账工具，拍照识别记账 | 永久免费 | 低 | 个人用户 | [点击进入](https://invest.10jqka.com.cn/) |
+| AI Invest OS | 5题投资人性格诊断 + 6个AI分析工具，免费、无需登录 | 完全免费 | 低 | 个人投资者 | [点击进入](https://ordinarymantrying.com/tools/ai-invest-os.html) |
 
 ### **医疗行业** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
