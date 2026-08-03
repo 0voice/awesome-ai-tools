@@ -652,6 +652,7 @@
 | LangChain | 写作工作流、RAG、多工具协作、Agent | 开源免费 | 高 | 开发者、AI 应用开发 | [点击进入](https://github.com/langchain-ai/langchain) |
 | DeerFlow | 字节开源深度研究框架，AI+搜索+报告输出 | 开源免费 | 高 | 开发者、研究者 | [点击进入](https://github.com/bytedance/deer-flow) |
 | LlamaIndex | 文档检索、增强写作、知识库创作 | 开源免费 | 高 | 开发者、文档 AI | [点击进入](https://github.com/run-llama/llama_index) |
+| Orkas | 本地优先的多智能体桌面工作空间，由 Commander 在一个对话中协调专业智能体并行或串行完成任务 | 开源免费（MIT） | 中 | 知识工作者、开发者、AI 团队 | [点击进入](https://github.com/Orkas-AI/Orkas) |
 
 
 ##  编程开发类
