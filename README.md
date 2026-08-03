@@ -742,6 +742,7 @@
 |---|---|---|---|---|---|
 | Exa Code | 亿级代码库上下文、降低错误率 | 免费试用 | 中 | AI Coding Agent 开发者 | [点击进入](https://exa.dev/code) |
 | Genkit | 开源 AI 应用开发框架、统一 API | 开源免费 | 中 | 多模型开发者 | [点击进入](https://github.com/google/genkit) |
+| Jacobian | 面向 Agent 的可组合数学工具，支持精确计算和猜想测试 | 开源免费 | 高 | 数学、科研与 AI 工具开发者 | [点击进入](https://github.com/morluto/jacobian) |
 | Vercel AI Gateway | 一键调用数百种 AI 模型 | 免费 | 中 | AI 应用开发者 | [点击进入](https://vercel.com/ai-gateway) |
 | MuleSoft Vibes | AI 生成 API 规范、语义验证 | 免费试用 | 中 | API 开发者 | [点击进入](https://www.mulesoft.com/) |
 
