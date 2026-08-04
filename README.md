@@ -1394,3 +1394,5 @@
 若有工具推荐、问题反馈，可提交Issue，或联系我的GitHub：[https://github\.com/hahaisname](https://github.com/hahaisname)
 
 Star ⭐ 不迷路，持续更新优质AI工具！
+- [FreePNGConvert](https://freepngconvert.com) - Free browser-based WebP to PNG converter. No upload required — all image processing happens client-side for privacy and speed.
+
