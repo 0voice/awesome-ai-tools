@@ -439,6 +439,7 @@
 | Pika 2.5 | 文本/图像生视频、动画效果 | 有限免费 | 低 | 短视频创作者、创意人员 | [点击进入](https://pika.art/) |
 | Kling 2.6 | 最长120秒视频生成、动态动作 | 每日免费点数 | 低 | 短视频博主、创意创作者 | [点击进入](https://kling.kuaishou.com/) |
 | Seedance | 多模型集成、文本/图像生视频 | 注册送免费积分 | 中 | 综合视频创作者 | [点击进入](https://www.seedance.tv/) |
+| Vivideo | 多模型集成、文本/图像生视频，自动配音 | 有免费额度 | 低 | 短视频创作者、营销人员 | [点击进入](https://vivideo.ai) |
 | 可灵 AI | 快手旗下高质量视频生成 | 每日免费点数 | 低 | 国内用户、短视频创作者 | [点击进入](https://kling.kuaishou.com/) |
 | Google Veo 3 | 参考感知视频生成、高质量输出 | 有限免费 | 中 | 创意工作者、企业用户 | [点击进入](https://deepmind.google/veo) |
 | Sora 2 | 电影级文生视频（60秒） | 无 | 中 | 影视级内容创作 | [点击进入](https://openai.com/sora) |
