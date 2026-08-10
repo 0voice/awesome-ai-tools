@@ -360,6 +360,7 @@
 | Fotor | 在线修图与 AI 设计，AI 生成、人像美化、旧照片修复 | 免费基础版 | 低 | 普通用户、摄影爱好者 | [点击进入](https://www.fotor.com/) |
 | PhotoDirector | AI 生成与专业修图工具结合，物体移除、人像增强 | 免费基础版 | 中 | 摄影爱好者、设计师 | [点击进入](https://www.cyberlink.com/products/photodirector/) |
 | PhotoRoom | 一键抠图、背景替换、产品图优化 | 免费基础版 | 低 | 电商卖家、摄影师 | [点击进入](https://www.photoroom.com/) |
+| Hyperistic | 面向电商、餐饮、房地产和社交内容的 AI 图片优化，支持免注册预览和最多 30 张图片的批量编辑 | 免注册预览；注册赠送 3 积分，每日 1 积分重置 | 低 | 电商卖家、餐饮业主、房地产从业者、社媒运营 | [点击进入](https://hyperistic.pics/) |
 | Picsart | 图像编辑与设计，AI 生成、背景移除、贴纸制作 | 免费基础版 | 低 | 社交媒体运营、设计师 | [点击进入](https://picsart.com/) |
 | 123RF | 图库与 AI 图像生成，商用素材快速生成 | 基础免费 | 低 | 电商、内容创作者 | [点击进入](https://www.123rf.com/) |
 | Freepik | 集成 Mystic、Flux、GPT-4o、Kling、Veo、Seedream 3.0 等 AI 模型，支持图像生成、视频制作、图像增强、背景去除、风格重塑 | 每日免费点数 | 低 | 设计师、内容创作者 | [点击进入](https://www.freepik.com/) |
