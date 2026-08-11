@@ -348,6 +348,7 @@
 | Stableboost | 基于 Stable Diffusion 的图像生成与优化 | 基础免费 | 中 | 设计师、AI 爱好者 | [点击进入](https://stableboost.io/) |
 | GPT-IMAGE-1 | OpenAI 新一代图像生成模型，通过文本生成高质量图片 | 有限免费 | 低 | 普通用户、设计师 | [点击进入](https://openai.com/gpt-image-1) |
 | Kling | 高质量图像与视频生成，可灵 AI 驱动 | 每日免费点数 | 低 | 短视频创作者、设计师 | [点击进入](https://kling.kuaishou.com/) |
+| ImageCraft Pro (Nano Banana) | AI 图像生成与编辑，支持文字生图、图生图、参考图、上下文一致性编辑和提示词工具 | 积分制（以官网为准） | 低 | 设计师、内容创作者、AI 图像用户 | [点击进入](https://nanobanana.live/) |
 
 
 ### **在线设计与图片编辑** 
