@@ -759,6 +759,7 @@
 | DeepSeek-Coder (开源) | 代码写作、注释、生成、调试 | 开源免费 | 高 | 程序员、代码文档 | [点击进入](https://github.com/deepseek-ai/DeepSeek-Coder) |
 
 
+| Codex Quota Overlay | Electron 桌面悬浮层，本地显示 Codex 用量与重置时间 | 开源免费 | 中 | 使用 Codex 的开发者 | [点击进入](https://github.com/cpys/codex-quota-overlay) |
 
 ##  学习教育类
 
