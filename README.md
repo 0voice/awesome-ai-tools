@@ -466,6 +466,7 @@
 | VEED.IO | 在线视频编辑、自动字幕 | 免费版带水印 | 低 | 社媒内容创作者 | [点击进入](https://www.veed.io/) |
 | InVideo | 脚本转视频、海量模板 | 免费版带水印 | 低 | 营销人员、YouTube创作者 | [点击进入](https://invideo.io/) |
 | Pictory AI | 长视频转短视频摘要 | 免费试用 | 低 | 内容再利用、营销人员 | [点击进入](https://pictory.ai/) |
+| videos.social | 博客/PDF/提示词转为可编辑无脸视频 | 1 次免费渲染 | 低 | 内容营销、博客作者 | [点击进入](https://videos.social/?utm_source=0voice-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d) |
 | Vmaker AI | 浏览器AI视频编辑器 | 基础免费 | 低 | 远程团队、教学内容创作者 | [点击进入](https://www.vmaker.com/) |
 | Diffusion Studio Pro | 本地优先AI视频编辑、生成式AI | 免费 | 中 | 开发者、AI爱好者 | [点击进入](https://diffusion.studio/) |
 | AI Video Shortener | 长视频自动剪辑为短视频片段 | 免费 | 低 | 播客、访谈内容创作者 | [点击进入](https://sider.ai/) |
