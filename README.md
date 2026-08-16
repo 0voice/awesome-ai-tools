@@ -715,6 +715,7 @@
 | Skyvern | AI 网页自动化测试与操作 | 开源免费 | 中 | RPA 团队、自动化测试 | [点击进入](https://github.com/skyvern-ai/skyvern) |
 | BrowserStack AI | AI 测试智能体、低代码自动化 | 免费试用 | 中 | QA 团队、跨浏览器测试 | [点击进入](https://www.browserstack.com/) |
 | KAT Dev | AI 驱动 CI/CD 自动化 | 开源免费 | 高 | DevOps 团队 | [点击进入](https://github.com/kat-dev/kat-dev) |
+| Agent QA | 自然语言驱动的 Web 与移动端回归测试，支持持久化测试记忆、CLI 与 MCP | 核心免费；模型服务另计 | 中 | QA 工程师、开发团队 | [点击进入](https://github.com/vostride/agent-qa) |
 
 ### **数据库与SQL工具** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
