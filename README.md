@@ -380,6 +380,7 @@
 | 墨刀 AI | AI 原型设计，一句话生成高保真原型 | 免费基础版 | 低 | 产品经理、UI/UX 设计师 | [点击进入](https://modao.cc/) |
 | Uizard | 手绘草图转 UI 原型，主题生成 | 免费基础版 | 低 | 产品经理、初创团队 | [点击进入](https://uizard.io/) |
 | Visme | AI 数据可视化，信息图表、演示文稿生成 | 免费基础版 | 中 | 营销人员、教育工作者 | [点击进入](https://www.visme.co/) |
+| UIZZE | 面向 AI 编程代理的 anti-ui-slop 界面质量工作流；提供免费的 MIT Skill 和无需账号的确定性 UI 检查，完整产品基于 800,000+ 个真实 Web 与 iOS 界面提供参考研究、设计契约、验证和渲染审查 | 免费 Skill / 无需账号预览 | 中 | AI 编程代理、前端开发者、UI/UX 设计师 | [官网](https://uizze.com) / [GitHub](https://github.com/uizze/uizze) |
 
 ### **3D设计与建模** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
