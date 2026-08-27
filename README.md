@@ -522,6 +522,7 @@
 |Pixelle-Video|AI 全自动短视频制作|免费|低|内容创作者|[点击进入](https://github.com/AIDC-AI/Pixelle-Video)|
 |AI-Video-Transcriber|AI视频转录器|免费|中|内容创作者|[点击进入](https://github.com/wendy7756/AI-Video-Transcriber?tab=readme-ov-file)|
 |KrillinAI|集成了视频翻译、配音和语音克隆，支持横屏和竖屏格式|开源免费|中|多语言内容创作者|[点击进入](https://github.com/krillinai/KrillinAI?tab=readme-ov-file)|
+|ASMR Dubber|日语、英语音视频识别、中文翻译、音色克隆配音、原声混音、双语字幕和 DLsite 多音轨批量处理|开源免费|中|音视频本地化、字幕与配音创作者|[点击进入](https://github.com/EveningStudy/asmr-dubber)|
 
 
 
