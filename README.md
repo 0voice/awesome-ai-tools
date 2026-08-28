@@ -742,6 +742,7 @@
 |---|---|---|---|---|---|
 | Exa Code | 亿级代码库上下文、降低错误率 | 免费试用 | 中 | AI Coding Agent 开发者 | [点击进入](https://exa.dev/code) |
 | Genkit | 开源 AI 应用开发框架、统一 API | 开源免费 | 中 | 多模型开发者 | [点击进入](https://github.com/google/genkit) |
+| SandBase CLI | 开源 CLI/MCP 桥接，使用 OpenAI 兼容接口访问 2,000+ 个 AI 模型 | 免费计划/按量计费 | 中 | AI 应用开发者、多模型测试 | [点击进入](https://github.com/sandbaseai/cli) |
 | Vercel AI Gateway | 一键调用数百种 AI 模型 | 免费 | 中 | AI 应用开发者 | [点击进入](https://vercel.com/ai-gateway) |
 | MuleSoft Vibes | AI 生成 API 规范、语义验证 | 免费试用 | 中 | API 开发者 | [点击进入](https://www.mulesoft.com/) |
 
