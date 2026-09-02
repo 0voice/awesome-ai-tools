@@ -1146,6 +1146,7 @@
 | Zoho Recruit | ATS+招聘CRM，AI候选人才源、追踪和招聘 | AI功能免费 | 中 | 招聘团队、HR | [点击进入](https://apps.apple.com/) |
 | HelloBoss | AI驱动的招聘匹配服务 | 对求职者免费 | 低 | 求职者、企业 | [点击进入](https://baike.baidu.com/) |
 | 自猎网 AI Agent | 招聘求职智能匹配 | 对求职者终身免费 | 低 | 求职者、中小微企业 | [点击进入](https://tech.cnr.cn/) |
+| ResumeAI | 免费ATS检测 + AI简历（匿名3次/天，免费账号10次/天）；State of ATS 2026（738大雇主，704门户核实；Workday 37.9%） | 免费额度充足 | 低 | 求职者 | [点击进入](https://withresumeai.com/) |
 
 ### **CRM与销售行业** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
