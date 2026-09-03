@@ -321,6 +321,7 @@
 | 天马 AI (开源) | 中文小说、故事、创意写作、可本地 | 开源免费 | 中 | 小说作者、创意写作爱好者 | [点击进入](https://github.com/TianMaAI/TianMa-Large-Language-Model) |
 | 易写作 (开源) | 轻量写作、大纲、文案、个人笔记 | 开源免费 | 低 | 个人、学生、轻量写作需求 | [点击进入](https://github.com/easy-write/easy-write) |
 |humanize-chinese|10 维度检测 + 120 条学术替换，7 种中文写作风格一键转换，可本地部署|开源免费|中|学术写作者、媒体工作者|[点击进入](https://github.com/voidborne-d/humanize-chinese)|
+| Humanize-Text (开源) | AI 文本人性化改写工具：LLM 重写 + 跨引擎翻译链，让 AI 草稿更自然，支持本地部署 | 开源免费 | 中 | 内容创作者、开发者、AI 辅助写作人群 | [点击进入](https://github.com/lynote-ai/humanize-text) |
 
 
 
