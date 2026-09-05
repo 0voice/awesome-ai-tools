@@ -1050,6 +1050,7 @@
 | Meta AI | 集成于 Facebook/Instagram/Messenger/WhatsApp，无需额外安装 | 免费 | 低 | Meta 生态用户 | [点击进入](https://www.meta.ai/) |
 | Soul AI 伴侣 | AI 赋能现实社交，提供话题建议、情感咨询、回复生成、志趣好友匹配 | 免费基础版 | 低 | 年轻人、社交需求者 | [点击进入](https://www.soulapp.com/) |
 | 小冰岛 | AI 社交虚拟岛，与 AI beings 互动 | 免费基础版 | 低 | 虚拟社交爱好者 | [点击进入](https://www.xiaoice.com/) |
+| WSUP AI | 浏览器端免费 AI 角色聊天，无需注册 | 免费 | 低 | 想体验 AI 角色对话的用户 | [点击进入](https://wsupai.app/) |
 
 ### **生活服务与效率工具** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
