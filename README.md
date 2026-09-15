@@ -1345,6 +1345,7 @@
 | tap4-ai-webui | 开源 AI 工具目录 Web UI，一键部署自己的 AI 工具导航站，轻量且易于维护 | 开源免费 | 中 | 个人开发者、Next.js 学习者 | [点击进入](https://github.com/tap4-ai/tap4-ai-webui) |
 | RightAI | 开源 AI 工具目录，每天由 GPT-4o、Claude-3.5 自动更新，提供免费提交服务 | 开源免费 | 中 | 开发者、SEO 爱好者 | [点击进入](https://github.com/RightAI) |
 | firekinger/ai-nav-site | GitHub 上的 AI 导航目录开源项目，探索最佳 AI 网站与工具 | 开源免费 | 中 | 开发者、开源爱好者 | [点击进入](https://github.com/firekinger/ai-nav-site) |
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 
 
