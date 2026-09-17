@@ -470,7 +470,7 @@
 | Diffusion Studio Pro | 本地优先AI视频编辑、生成式AI | 免费 | 中 | 开发者、AI爱好者 | [点击进入](https://diffusion.studio/) |
 | AI Video Shortener | 长视频自动剪辑为短视频片段 | 免费 | 低 | 播客、访谈内容创作者 | [点击进入](https://sider.ai/) |
 |Text-To-Video-AI|文字转视频AI可本地部署|免费开源|中|社媒内容创作者|[点击进入](https://github.com/SamurAIGPT/Text-To-Video-AI)|
-
+| OrkasVideoStudio | MIT 开源、本地优先的 CLI/MCP 视频工具包，编程 Agent 通过 plan.json 编排、剪辑和生成视频 | 编排剪辑无需密钥；可选生成服务另计费 | 中（需源码安装） | 开发者、视频创作者 | [GitHub](https://github.com/Orkas-AI/Orkas-VideoStudio) |
 
 ### **音频生成与编辑** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
