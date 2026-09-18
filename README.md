@@ -358,6 +358,7 @@
 | CapCut | AI 海报设计、图像生成与编辑，集成 Seedream 5.0 模型，多智能体工作流 | 免费 | 低 | 短视频创作者、设计师 | [点击进入](https://www.capcut.com/) |
 | Pixlr | 浏览器图片编辑，AI 背景更换、物体移除、图像生成 | 免费基础版 | 低 | 摄影爱好者、设计师 | [点击进入](https://pixlr.com/) |
 | Fotor | 在线修图与 AI 设计，AI 生成、人像美化、旧照片修复 | 免费基础版 | 低 | 普通用户、摄影爱好者 | [点击进入](https://www.fotor.com/) |
+| RestorePhoto | 浏览器端 AI 人脸照片修复，提升旧人像和模糊家庭照片中的可见人脸清晰度 | 以官网当前方案为准 | 低 | 家庭照片整理者、摄影爱好者 | [点击进入](https://restorephoto.org/) |
 | PhotoDirector | AI 生成与专业修图工具结合，物体移除、人像增强 | 免费基础版 | 中 | 摄影爱好者、设计师 | [点击进入](https://www.cyberlink.com/products/photodirector/) |
 | PhotoRoom | 一键抠图、背景替换、产品图优化 | 免费基础版 | 低 | 电商卖家、摄影师 | [点击进入](https://www.photoroom.com/) |
 | Picsart | 图像编辑与设计，AI 生成、背景移除、贴纸制作 | 免费基础版 | 低 | 社交媒体运营、设计师 | [点击进入](https://picsart.com/) |
