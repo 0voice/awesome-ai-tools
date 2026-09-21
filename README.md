@@ -61,6 +61,7 @@
   - [ 开源项目](#开源项目)
 
 - [ 办公效率类](#办公效率类)
+- [MagicKit](https://magickit.47.80.8.174.nip.io) — **Free AI toolbox** for image generation (FLUX), text and video. No sign-up, no API key. MIT licensed. [Source](https://github.com/kaketiti/magickit)
   - [ AI助手/综合型](#AI助手/综合型)
   - [ AI PPT/演示文稿](#AI_PPT/演示文稿)
   - [ 会议纪要/摘要工具](#会议纪要/摘要工具)
