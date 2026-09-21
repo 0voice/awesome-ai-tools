@@ -568,6 +568,7 @@
 | Claude | 长文本、文档分析、写作、总结 | 免费版有限次数 | 中 | 法律、学术、长文创作者 | [点击进入](https://www.anthropic.com/) |
 | 智谱清言 | 中文写作、对话、知识问答、润色 | 每日免费额度 | 低 | 学生、职场、内容创作者 | [点击进入](https://chat.zhipuai.cn/) |
 | 秘塔 AI | 无广告纯净搜索、生成微型研报 | 免费 | 低 | 研究人员、市场分析 | [点击进入](https://metaso.cn/) |
+| Screenpipe | 采集屏幕文字与音频转录，通过 MCP/API 检索工作与会议上下文；默认本地存储，启用云功能或外部集成时相关数据可能离开设备 | 源码按 [Screenpipe Commercial License](https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md) 提供；[免费版有限制，另有付费订阅](https://screenpipe.com/pricing) | 高 | 开发者、企业 IT | [点击进入](https://github.com/screenpipe/screenpipe) |
 
 ### **AIPPT/演示文稿** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
@@ -646,7 +647,6 @@
 | ChatPDF | PDF 文件对话式交互，快速定位信息 | 开源免费 | 中 | 学生、研究员 | [点击进入](https://github.com/heyPooPy/ChatPDF) |
 | Skyvern | AI 智能驱动网页自动化，像人类一样操作网页 | 开源免费 | 高 | 开发者、RPA 团队 | [点击进入](https://github.com/skyvern-ai/skyvern) |
 | AutoGPT | 自主 AI 智能代理，任务自动拆解与执行 | 开源免费 | 高 | 开发者、AI 研究者 | [点击进入](https://github.com/Significant-Gravitas/AutoGPT) |
-| ScreenPipe | 离线 AI 屏幕记录与语义检索 | 开源免费 | 高 | 开发者、企业 IT | [点击进入](https://github.com/mediar-ai/screenpipe) |
 | n8n | 开源工作流自动化，连接多系统 | 开源免费 | 中 | 开发者、企业 IT | [点击进入](https://github.com/n8n-io/n8n) |
 | Coze（开源版） | 拖拽式搭建 AI 助手 | 开源免费 | 中 | 开发者、自媒体 | [点击进入](https://github.com/coze-dev/coze) |
 | LangChain | 写作工作流、RAG、多工具协作、Agent | 开源免费 | 高 | 开发者、AI 应用开发 | [点击进入](https://github.com/langchain-ai/langchain) |
@@ -996,6 +996,7 @@
 | 秘塔 AI | 无广告纯净搜索、快速获取答案 | 免费 | 低 | 研究人员、信息查询者 | [点击进入](https://metaso.cn/) |
 | 讯飞星火 | 语音交互、日常问答、生活建议 | 每日 20 次 | 低 | 习惯语音交互的用户 | [点击进入](https://xinghuo.xfyun.cn/) |
 | Claude | 高质量长文本对话、文档分析、创意讨论 | 免费版有限次数 | 中 | 长文本需求用户 | [点击进入](https://www.anthropic.com/) |
+| Screenpipe | 检索曾看过的屏幕文字和对话记录，为回忆与工作总结提供上下文；默认本地存储，启用云功能或外部集成时相关数据可能离开设备 | 源码按 [Screenpipe Commercial License](https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md) 提供；[免费版有限制，另有付费订阅](https://screenpipe.com/pricing) | 高 | 隐私保护者、知识工作者 | [点击进入](https://github.com/screenpipe/screenpipe) |
 
 ### **健康与健身** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
@@ -1072,7 +1073,6 @@
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
 |---|---|---|---|---|---|
 | Google AI Edge Gallery | 手机端离线运行生成式 AI，支持图像提问、AI 聊天，无需联网保护隐私 | 开源免费 (Apache 2.0) | 中 | 开发者、隐私敏感用户 | [点击进入](https://github.com/google/ai-edge-gallery) |
-| ScreenPipe | 离线屏幕记录与语义检索，数据完全本地存储，支持自然语言查询历史活动 | 开源免费 | 高 | 隐私保护者、知识工作者 | [点击进入](https://github.com/mediar-ai/screenpipe) |
 | DeepChat | 开源跨平台智能助手，兼容 20+ AI 服务（OpenAI/Gemini 等），支持本地部署模型 | 开源免费 | 中 | 开发者、AI 爱好者 | [点击进入](https://github.com/ThinkInAIXYZ/deepchat) |
 | OpenClaw | 开源 AI 生活自动化助手，支持跨应用任务执行 | 开源免费 | 高 | 开发者、自动化爱好者 | [点击进入](https://github.com/OpenClaw/OpenClaw) |
 | BirdEye | 隐私优先的桌面 AI 助手，完全离线，支持代码分析、截图问答 | 开源免费 | 中 | 隐私敏感用户 | [点击进入](https://github.com/birdeye-ai/birdeye) |
