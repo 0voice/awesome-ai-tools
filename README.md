@@ -749,6 +749,7 @@
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
 |---|---|---|---|---|---|
 | OpenCode | 开源 AI 终端助手 | 开源免费 | 中 | CLI 爱好者、终端开发者 | [点击进入](https://github.com/sst/opencode) |
+| NextReset | Codex 重置历史、官方 AI 服务事件与浏览器本地计时 | 免费 | 低 | Codex 用户、AI 开发者 | [点击进入](https://nextreset.ai/) |
 | CodeGeeX4 | 清华开源多语言代码生成模型 | 开源免费 | 高 | 开发者、AI 研究者 | [点击进入](https://github.com/THUDM/CodeGeeX) |
 | nanochat | 从零训练 ChatGPT 教学项目 | 开源免费 | 高 | AI 学习者、研究者 | [点击进入](https://github.com/karpathy/nanochat) |
 | Step-Audio-EditX | 开源 AI 音频编辑、自然语言指令 | 开源免费 | 中 | 开发者、音频编辑 | [点击进入](https://github.com/stepfun-ai/Step-Audio-EditX) |
