@@ -577,6 +577,7 @@
 | Tome | 叙事型 AI PPT，融合多媒体内容 | 免费版有限功能 | 低 | 创意工作者、教育者 | [点击进入](https://tome.app/) |
 | Sider AI Slides | 将文本/PDF 转换为演示文稿 | 免费版有限功能 | 低 | 学生、职场人 | [点击进入](https://sider.ai/) |
 | MagicSlides | 文字内容快速转化为幻灯片 | 免费版有限功能 | 低 | 教师、培训师 | [点击进入](https://www.magicslides.app/) |
+| Prezto | 将文档、PDF、表格或草稿转为可编辑的演示 PPT | 免费试用 | 低 | 内容创作者、团队、职场人 | [点击进入](https://prezto.cn/) |
 | WPS AI | 文档写作、总结、润色、PPT 生成 | 免费版每日额度 | 低 | 职场、学生、办公文档 | [点击进入](https://ai.wps.cn/) |
 | Microsoft Copilot | Office 套件 AI 集成，PPT/Word/Excel | 需付费订阅 | 中 | 企业用户、Office 深度用户 | [点击进入](https://www.microsoft.com/zh-cn/microsoft-365/copilot) |
 
