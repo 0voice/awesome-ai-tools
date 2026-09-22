@@ -366,6 +366,7 @@
 | Photopea | 浏览器 Photoshop 替代，集成 AI 修图功能 | 免费 | 中 | 平面设计师、学生 | [点击进入](https://www.photopea.com/) |
 | Cutout.Pro | 一键抠图、背景移除、图像增强 | 有限免费 | 低 | 电商运营、内容创作者 | [点击进入](https://www.cutout.pro/) |
 | Upscale.media | AI 图像放大，保持画质清晰 | 有限免费 | 低 | 电商卖家、设计师 | [点击进入](https://upscale.media/) |
+| UpRes | AI 图像和视频放大 API，6 个专业模型，支持 4K/8K 输出，REST API + CLI + MCP | 免费额度：5 张/月，Pro $19/月 | 低 | 开发者、设计师 | [点击进入](https://upres.ai/) |
 | Topaz Labs | 专业级 AI 图像增强，降噪、锐化、放大 | 免费试用 | 中 | 专业摄影师、设计师 | [点击进入](https://www.topazlabs.com/) |
 | Imglarger | AI 图像放大、增强、修复旧照片 | 有限免费 | 低 | 普通用户、摄影爱好者 | [点击进入](https://imglarger.com/) |
 | Remover | ZMO.AI 出品，免费去除照片中不需要的物体、人物、文字和背景 | 免费无限次 | 低 | 电商、房地产、常规照片清理 | [点击进入](https://remover.zmo.ai/) |
