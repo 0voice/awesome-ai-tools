@@ -470,7 +470,7 @@
 | Diffusion Studio Pro | 本地优先AI视频编辑、生成式AI | 免费 | 中 | 开发者、AI爱好者 | [点击进入](https://diffusion.studio/) |
 | AI Video Shortener | 长视频自动剪辑为短视频片段 | 免费 | 低 | 播客、访谈内容创作者 | [点击进入](https://sider.ai/) |
 |Text-To-Video-AI|文字转视频AI可本地部署|免费开源|中|社媒内容创作者|[点击进入](https://github.com/SamurAIGPT/Text-To-Video-AI)|
-| shortshort | 把一条长视频自动剪成最多20条9:16竖版短片，按完整句子切分，画面跟随讲者，逐词字幕 | 60积分免费，无需信用卡 | 低 | 播客、课程、演讲内容创作者 | [点击进入](https://www.shortshort.io/) |
+| shortshort | 把一条长视频自动剪成9:16竖版短片，按完整句子切分，画面跟随讲者，逐词字幕 | 60积分免费，无需信用卡 | 低 | 播客、课程、演讲内容创作者 | [点击进入](https://www.shortshort.io/) |
 
 
 ### **音频生成与编辑** 
