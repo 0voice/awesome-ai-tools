@@ -522,6 +522,14 @@
 |Pixelle-Video|AI 全自动短视频制作|免费|低|内容创作者|[点击进入](https://github.com/AIDC-AI/Pixelle-Video)|
 |AI-Video-Transcriber|AI视频转录器|免费|中|内容创作者|[点击进入](https://github.com/wendy7756/AI-Video-Transcriber?tab=readme-ov-file)|
 |KrillinAI|集成了视频翻译、配音和语音克隆，支持横屏和竖屏格式|开源免费|中|多语言内容创作者|[点击进入](https://github.com/krillinai/KrillinAI?tab=readme-ov-file)|
+|Video to Transcript|免费 AI 视频转文字，Whisper large-v3，约 98.5% 准确率；上传得转录/SRT/VTT/摘要/章节|免费|低|内容创作者、字幕师|[点击进入](https://videotext.io/video-to-transcript)|
+|Video to Subtitles|视频字幕生成中心：上传得 SRT/VTT，并可修复、翻译或烧录字幕|免费|低|社媒内容创作者|[点击进入](https://videotext.io/video-to-subtitles)|
+|Translate Subtitles|在线 SRT/VTT 字幕翻译，70+ 语言，保留时间戳|免费|低|多语言内容创作者|[点击进入](https://videotext.io/translate-subtitles)|
+|Fix Subtitles|自动修正重叠时间戳、过长行、CPS 与 SRT/VTT 格式错误|免费|低|字幕师、内容创作者|[点击进入](https://videotext.io/fix-subtitles)|
+|Burn Subtitles|将 SRT/VTT 永久烧录进 MP4，适合无原生字幕的播放器|免费|低|社媒内容创作者|[点击进入](https://videotext.io/burn-subtitles)|
+|Guideline Format|按 Rev/GoTranscript 等风格指南格式化转录稿并评分|免费|低|字幕师、外包团队|[点击进入](https://videotext.io/guideline-format)|
+|Voice Recorder|浏览器语音转文字录音，无需上传视频，处理后删除文件|免费|低|播客、访谈内容制作者|[点击进入](https://videotext.io/voice-recorder)|
+|Compress Video|在线视频压缩（轻/中/重），缩小体积便于分享上传|免费|低|内容创作者|[点击进入](https://videotext.io/compress-video)|
 
 
 
