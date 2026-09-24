@@ -652,6 +652,7 @@
 | LangChain | 写作工作流、RAG、多工具协作、Agent | 开源免费 | 高 | 开发者、AI 应用开发 | [点击进入](https://github.com/langchain-ai/langchain) |
 | DeerFlow | 字节开源深度研究框架，AI+搜索+报告输出 | 开源免费 | 高 | 开发者、研究者 | [点击进入](https://github.com/bytedance/deer-flow) |
 | LlamaIndex | 文档检索、增强写作、知识库创作 | 开源免费 | 高 | 开发者、文档 AI | [点击进入](https://github.com/run-llama/llama_index) |
+| 简历通 ResumeForge | 本地优先的 AI 求职工作台：按每个岗位的 JD 单独生成简历，并用「事实台账」把结果与自己的资料逐条比对、拦截 AI 编造的量化成果；含岗位采集、投递追踪、模拟面试与复盘统计，数据只存在本机、不上传 | 完全免费开源（MIT），无会员无导出限制 | 中 | 求职者、职场人 | [点击进入](https://github.com/magicapple123/ResumeForge) |
 
 
 ##  编程开发类
