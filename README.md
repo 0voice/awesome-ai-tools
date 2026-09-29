@@ -224,6 +224,7 @@
 | 青梨AI | 覆盖文献获取、处理、创作、展示的全链条服务| 免费试用 | 中 | 学术研究者 | [点击进入](https://www.qingli.ai/) |
 | 万方数据AI平台 | 学术论文写作全流程辅助，论文标题推荐、大纲编写、内容合规性检查、参考文献生成 | 免费试用 | 中 | 硕博、期刊论文写作 | [点击进入](https://wanfangdata.com.cn/) |
 | 纸袋 | 具有语法和风格优化功能的学术写作增强工具| 免费版有限功能 | 低 | 学术写作者 | [点击进入](https://zhidai.ai/) |
+| Clarity | Base 主网 x402 研究 API：免费发现，研究报告 $2 USDC，对话 $0.001 USDC | 发现免费，调用付费 | 低 | 研究智能体与 API 调用方 | [点击进入](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) |
 
 
 ### **小说与故事创作** 
