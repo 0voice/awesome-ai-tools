@@ -413,6 +413,7 @@
 | AI Background | 输入关键词即可用 AI 生成背景图片 | 免费 | 低 | 设计师、内容创作者 | [点击进入](https://aibackground.com/) |
 | Flair.ai | 专为电商设计的场景图生成，上传白底图自动生成高级场景图 | 有限免费 | 低 | 跨境电商卖家 | [点击进入](https://flair.ai/) |
 | DesignLumo | AI 理解布局、排版和色彩结构，从提示词生成可调整的广告设计 | 有限免费 | 低 | 广告设计师、营销人员 | [点击进入](https://designlumo.com/) |
+| Tesla Wrap Generator | 一句话或一张照片生成特斯拉 Paint Shop 车衣，按车型年份匹配官方模板，3D 预览后下载 PNG | 注册送 1 张，之后按积分 | 低 | 特斯拉车主、改装爱好者 | [点击进入](https://teslawrapgenerator.com/) |
 
 ### **开源项目** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
