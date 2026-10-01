@@ -740,6 +740,7 @@
 ### **开发辅助与API工具** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
 |---|---|---|---|---|---|
+| Hyperconsciousness (hc) | Rust 加密追加式知识库，提供 CLI/MCP/HTTP 接口及范围受限、可过期的授权（开发者 alpha） | MIT 开源免费 | 高 | AI Agent 开发者、本地知识库开发者 | [点击进入](https://github.com/louis030195/hyperconsciousness) |
 | Exa Code | 亿级代码库上下文、降低错误率 | 免费试用 | 中 | AI Coding Agent 开发者 | [点击进入](https://exa.dev/code) |
 | Genkit | 开源 AI 应用开发框架、统一 API | 开源免费 | 中 | 多模型开发者 | [点击进入](https://github.com/google/genkit) |
 | Vercel AI Gateway | 一键调用数百种 AI 模型 | 免费 | 中 | AI 应用开发者 | [点击进入](https://vercel.com/ai-gateway) |
