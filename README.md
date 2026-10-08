@@ -652,6 +652,7 @@
 | LangChain | 写作工作流、RAG、多工具协作、Agent | 开源免费 | 高 | 开发者、AI 应用开发 | [点击进入](https://github.com/langchain-ai/langchain) |
 | DeerFlow | 字节开源深度研究框架，AI+搜索+报告输出 | 开源免费 | 高 | 开发者、研究者 | [点击进入](https://github.com/bytedance/deer-flow) |
 | LlamaIndex | 文档检索、增强写作、知识库创作 | 开源免费 | 高 | 开发者、文档 AI | [点击进入](https://github.com/run-llama/llama_index) |
+| LLM_in_Work | 将已登录的 Claude Code/Codex CLI 接入 Word、PPT、Excel、Overleaf 和 Chrome PDF，支持选区编辑、差异审阅及文档问答 | 插件 MIT 开源免费；模型调用消耗现有账号额度 | 高（需本地桥接及扩展/加载项侧载） | 科研人员、学生、Office 用户、已有 CLI 用户 | [点击进入](https://github.com/ZJU-OmniAI/LLM_in_Work) |
 
 
 ##  编程开发类
