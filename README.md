@@ -321,6 +321,7 @@
 | 天马 AI (开源) | 中文小说、故事、创意写作、可本地 | 开源免费 | 中 | 小说作者、创意写作爱好者 | [点击进入](https://github.com/TianMaAI/TianMa-Large-Language-Model) |
 | 易写作 (开源) | 轻量写作、大纲、文案、个人笔记 | 开源免费 | 低 | 个人、学生、轻量写作需求 | [点击进入](https://github.com/easy-write/easy-write) |
 |humanize-chinese|10 维度检测 + 120 条学术替换，7 种中文写作风格一键转换，可本地部署|开源免费|中|学术写作者、媒体工作者|[点击进入](https://github.com/voidborne-d/humanize-chinese)|
+| 简历通 ResumeForge (开源) | 本地优先 AI 简历工作台：简历生成、事实台账防虚构、岗位管理、模拟面试、自动投递 | 开源免费 (MIT) | 低 | 中文求职者、重视隐私的开发者 | [点击进入](https://github.com/magicapple123/ResumeForge) |
 
 
 
