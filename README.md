@@ -778,6 +778,7 @@
 | Homeworkify | 免费 AI 作业助手、多学科支持 | 免费 | 低 | 各学段学生 | [点击进入](https://homeworkify.app/) |
 | StudyMonkey.ai | 免费分步辅导、全学科支持 | 免费 | 低 | 学生 | [点击进入](https://studymonkey.ai/) |
 | Mindgrasp | 文档总结、笔记生成、学习组织 | 免费基础版 | 中 | 大学生、研究生 | [点击进入](https://mindgrasp.ai/) |
+| SummarizAI | YouTube 课堂摘要、章节、聊天与学习闪卡（Chrome 扩展） | 学生免费计划 | 低 | 学生、用 YouTube 听课复习 | [点击进入](https://summarizai.ink) |
 
 ### **语言学习** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
