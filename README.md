@@ -488,6 +488,7 @@
 | Pippit Audio Editor | 在线AI音频编辑、语音增强 | 基础免费 | 低 | 播客主、内容创作者 | [点击进入](https://www.pippit.ai/) |
 | Step-Audio-EditX | 开源AI音频编辑、自然语言指令 | 开源免费 | 中 | 开发者、音频编辑 | [点击进入](https://github.com/stepfun-ai/Step-Audio-EditX) |
 | Adobe Podcast AI | AI降噪、消除混响、电平调整 | 免费 | 低 | 播客主、音频创作者 | [点击进入](https://podcast.adobe.com/) |
+| QuietTake Noise Remover | 浏览器本地 RNNoise 语音降噪，处理前后试听，导出 WAV | 完全免费；每个文件≤50 MB且≤5分钟 | 选文件即可处理，无需安装或注册 | 播客、短配音、课程音频片段创作者 | [点击进入](https://noiseremover.site/) |
 |LocalAI|运行任何模型- llm，视觉，语音，图像，视频-在任何硬件上|免费|中|音频创作者|[点击进入](https://github.com/mudler/LocalAI)|
 |short-video-factory|一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具|开源免费|中|营销视频创作者|[点击进入](https://github.com/YILS-LIN/short-video-factory)|
 
