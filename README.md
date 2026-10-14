@@ -910,6 +910,7 @@
 | HeyGen | 高保真数字人视频生成，支持百种语言即时翻译与口型对齐 | 有限免费 | 中 | 跨国企业、品牌营销 | [点击进入](https://www.heygen.com/) |
 | Creatify AI | 商品链接转视频，操作门槛低，生成速度快，适合轻量级日常测款 | 有限免费 | 低 | 独立站新手卖家 | [点击进入](https://www.creatify.ai/) |
 | Arcads | UGC风格视频生成，社媒原生感强，契合短视频平台调性 | 有限免费 | 低 | 垂类社媒创作者 | [点击进入](https://www.arcads.ai/) |
+| RemakeThat | 粘贴爆款TikTok/Facebook视频链接，AI改写原创脚本并由你的AI创作者出演，批量产出素人风带货视频 | 订阅制 | 低 | 联盟营销卖家、短视频创作者 | [点击进入](https://remakethat.com/) |
 | EasyClaw | 为出海广告场景设计的AI素材员工，覆盖生成、分析、翻译到翻新全流程 | 有限免费 | 中 | 出海广告代理商 | [点击进入](https://www.easyclaw.ai/) |
 | Runway Gen-4 | AI视频生成，多模态笔刷精准控制动态区域，导演模式预设摄影机轨迹 | 免费版约125积分 | 中 | 专业广告创意团队 | [点击进入](https://runwayml.com/) |
 | OpenAI Sora (2026 Pro) | 影视级视频生成，深刻物理规律理解，生成长达数分钟的连贯叙事视频 | 需付费 | 中 | 高端品牌广告 | [点击进入](https://openai.com/sora) |
