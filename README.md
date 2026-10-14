@@ -715,6 +715,7 @@
 | Skyvern | AI 网页自动化测试与操作 | 开源免费 | 中 | RPA 团队、自动化测试 | [点击进入](https://github.com/skyvern-ai/skyvern) |
 | BrowserStack AI | AI 测试智能体、低代码自动化 | 免费试用 | 中 | QA 团队、跨浏览器测试 | [点击进入](https://www.browserstack.com/) |
 | KAT Dev | AI 驱动 CI/CD 自动化 | 开源免费 | 高 | DevOps 团队 | [点击进入](https://github.com/kat-dev/kat-dev) |
+| Latchkey | 自愈式 GitHub Actions 托管 Runner，CI 中途自动修复瞬时故障；提供 CLI 与 MCP Server，让编码智能体直接运行、读取并修复 CI | 30 天免费试用（无需信用卡）；开源项目免费 6,000 分钟/月 | 低 | 使用 GitHub Actions 的开发团队、AI 编码智能体 | [点击进入](https://latchkey.dev) |
 
 ### **数据库与SQL工具** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
