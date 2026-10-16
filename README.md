@@ -809,6 +809,7 @@
 | Eduaide.ai | AI 教学计划、教学资源生成 | 免费基础版 | 低 | 教师 | [点击进入](https://www.eduaide.ai/) |
 | Diffit | AI 差异化教学材料生成 | 免费 | 低 | 教师 | [点击进入](https://diffit.me/) |
 | Teacherbot | AI 教案生成、课堂活动设计 | 免费基础版 | 低 | 教师 | [点击进入](https://teacherbot.io/) |
+| WorkshopSkill | 46 个可打印工作坊活动资料夹（执行手册、道具卡、反思引导、前后测）；同时提供 AI Agent SKILL.md 安装包 | 完全免费（CC BY 4.0） | 低 | 培训师、引导师、企业教育者 | [点击进入](https://workshopskill.com/) |
 
 ### **写作辅导与论文辅助** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
