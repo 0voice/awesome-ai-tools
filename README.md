@@ -744,6 +744,7 @@
 | Genkit | 开源 AI 应用开发框架、统一 API | 开源免费 | 中 | 多模型开发者 | [点击进入](https://github.com/google/genkit) |
 | Vercel AI Gateway | 一键调用数百种 AI 模型 | 免费 | 中 | AI 应用开发者 | [点击进入](https://vercel.com/ai-gateway) |
 | MuleSoft Vibes | AI 生成 API 规范、语义验证 | 免费试用 | 中 | API 开发者 | [点击进入](https://www.mulesoft.com/) |
+| CurlShot | 网页截图 API + MCP 服务器，让 AI Agent 看到网页；URL/HTML/Markdown 转 PNG、PDF、视频 | 每月 100 张免费 | 低 | AI Agent 开发者、Web 开发者 | [点击进入](https://curlshot.com/) |
 
 ### **其他实用工具** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
