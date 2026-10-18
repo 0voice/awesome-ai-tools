@@ -444,6 +444,7 @@
 | Sora 2 | 电影级文生视频（60秒） | 无 | 中 | 影视级内容创作 | [点击进入](https://openai.com/sora) |
 | Midjourney Video | 图像生成扩展至视频动画 | 需付费订阅 | 中 | 艺术家、创意工作者 | [点击进入](https://www.midjourney.com/) |
 | Leonardo Motion | 游戏资产风格视频生成 | 每日约150积分 | 中 | 游戏设计师、概念艺术家 | [点击进入](https://leonardo.ai/) |
+| ShortSmash | 提示词生成病毒短视频：50种语言神经配音、CLIP+Gemini视觉验证、10平台一键发布。开源 | 免费（Veo/Kling需自备Key） | 低 | 短视频博主、出海创作者 | [点击进入](https://github.com/abicevoice1-sudo/shortsmash) |
 | Luma Dream Machine | 高质量视频生成、运动控制 | 有限免费 | 中 | 创意工作者、设计师 | [点击进入](https://lumalabs.ai/dream-machine) |
 | Haiper AI | 文本/图像转视频 | 免费 | 低 | 初学者、社交内容创作者 | [点击进入](https://haiper.ai/) |
 | Animato | 2D/3D动画生成 | 基础免费 | 低 | 动画创作者、教育者 | [点击进入](https://www.animato.ai/) |
