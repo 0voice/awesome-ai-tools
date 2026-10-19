@@ -485,6 +485,7 @@
 | Wondera | AI音乐生成、高质量输出 | 有限免费 | 中 | 音乐创作者 | [点击进入](https://www.wondera.ai/) |
 | Moises AI Studio | AI音乐干声分离、人声转换、母带处理 | 基础免费 | 中 | 音乐人、混音师 | [点击进入](https://moises.ai/) |
 | LyRuno | 视频/音频人声与背景音分离 | 免费 | 低 | 视频编辑、音乐制作人 | [点击进入](https://lyruno.com/) |
+| Vocal Separator | 人声/伴奏及四轨分离；循环、变速变调练习 | 匿名每天最多5次；每文件10分钟/100MB，受共享容量限制；可选付费包 | 低 | 歌手、乐手、音乐学习者 | [点击进入](https://vocalseparator.com/) |
 | Pippit Audio Editor | 在线AI音频编辑、语音增强 | 基础免费 | 低 | 播客主、内容创作者 | [点击进入](https://www.pippit.ai/) |
 | Step-Audio-EditX | 开源AI音频编辑、自然语言指令 | 开源免费 | 中 | 开发者、音频编辑 | [点击进入](https://github.com/stepfun-ai/Step-Audio-EditX) |
 | Adobe Podcast AI | AI降噪、消除混响、电平调整 | 免费 | 低 | 播客主、音频创作者 | [点击进入](https://podcast.adobe.com/) |
