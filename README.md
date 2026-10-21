@@ -470,6 +470,7 @@
 | Diffusion Studio Pro | 本地优先AI视频编辑、生成式AI | 免费 | 中 | 开发者、AI爱好者 | [点击进入](https://diffusion.studio/) |
 | AI Video Shortener | 长视频自动剪辑为短视频片段 | 免费 | 低 | 播客、访谈内容创作者 | [点击进入](https://sider.ai/) |
 |Text-To-Video-AI|文字转视频AI可本地部署|免费开源|中|社媒内容创作者|[点击进入](https://github.com/SamurAIGPT/Text-To-Video-AI)|
+| ShortSmash | 提示词生成竖屏短视频：AI剧本、50语种神经配音、AI验证素材、卡拉OK字幕、一键发布10个平台 | 免费开源 | 中 | 短视频创作者、开发者 | [点击进入](https://github.com/hydope/shortsmash) |
 
 
 ### **音频生成与编辑** 
