@@ -450,6 +450,7 @@
 | Colossyan | AI虚拟人视频生成 | 免费试用 | 低 | 企业培训、营销视频制作 | [点击进入](https://www.colossyan.com/) |
 | Elai.io | AI虚拟人播报视频 | 每月1分钟免费 | 低 | 企业培训、营销人员 | [点击进入](https://elai.io/) |
 | HeyGen | AI数字人视频生成 | 有限免费 | 低 | 营销人员、内容创作者 | [点击进入](https://www.heygen.com/) |
+| Window Peeper AI | 上传一张成年人肖像，生成 Window Peeper 窗户梗视频（14 秒 9:16 MP4，Wan 3.0） | 生成需积分（$6.90 起），指南与提示词免费 | 低 | 短视频/梗视频创作者 | [点击进入](https://windowpeeperai.pro/) |
 |waoowaoo|一款基于 AI 技术的短剧/漫画视频制作工具，支持从小说文本自动生成分镜、角色、场景，并制作成完整视频。|部分免费|中|ai短剧、漫剧创作者|[点击进入](https://github.com/saturndec/waoowaoo)|
 |huobao-drama| 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》 |目前开源免费|中|ai短剧、漫剧制作者|[点击进入](https://github.com/chatfire-AI/huobao-drama)|
 |Vision-Agents|专为实时视频 AI 而打造，低延迟|开发者每月可获得 333,000 分钟的参与时长，还可通过 Maker 计划获得额外积分|中|直播博主|[点击进入](https://github.com/GetStream/Vision-Agents)|
