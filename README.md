@@ -348,7 +348,7 @@
 | Stableboost | 基于 Stable Diffusion 的图像生成与优化 | 基础免费 | 中 | 设计师、AI 爱好者 | [点击进入](https://stableboost.io/) |
 | GPT-IMAGE-1 | OpenAI 新一代图像生成模型，通过文本生成高质量图片 | 有限免费 | 低 | 普通用户、设计师 | [点击进入](https://openai.com/gpt-image-1) |
 | Kling | 高质量图像与视频生成，可灵 AI 驱动 | 每日免费点数 | 低 | 短视频创作者、设计师 | [点击进入](https://kling.kuaishou.com/) |
-
+| PromptImage | 免费 AI 图片展馆与多模型绘图/视频生成，提示词一键带入生成器 | 注册送积分，无需绑卡 | 低 | 内容创作者、电商卖家、社媒运营 | [点击进入](https://promptimage.cloud) |
 
 ### **在线设计与图片编辑** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
@@ -371,6 +371,7 @@
 | Remover | ZMO.AI 出品，免费去除照片中不需要的物体、人物、文字和背景 | 免费无限次 | 低 | 电商、房地产、常规照片清理 | [点击进入](https://remover.zmo.ai/) |
 | Seamless Studio | AI 生成高质量原创模型图，无需昂贵摄影 | 免费基础版 | 低 | 设计师、电商卖家 | [点击进入](https://seamlessstudio.ai/) |
 | Magic Studio | AI 图像生成与编辑一体化平台 | 有限免费 | 低 | 内容创作者、设计师 | [点击进入](https://magicstudio.com/) |
+| TeslaWraps | 浏览器内特斯拉数字车衣设计，车型模板、3D 预览与 PNG 导出，核心编辑免费 | 核心编辑免费，AI 功能可选积分 | 低 | 特斯拉车主、车衣设计师 | [点击进入](https://teslawraps.design) |
 
 ### **UI/UX设计工具** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
@@ -453,6 +454,13 @@
 |waoowaoo|一款基于 AI 技术的短剧/漫画视频制作工具，支持从小说文本自动生成分镜、角色、场景，并制作成完整视频。|部分免费|中|ai短剧、漫剧创作者|[点击进入](https://github.com/saturndec/waoowaoo)|
 |huobao-drama| 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》 |目前开源免费|中|ai短剧、漫剧制作者|[点击进入](https://github.com/chatfire-AI/huobao-drama)|
 |Vision-Agents|专为实时视频 AI 而打造，低延迟|开发者每月可获得 333,000 分钟的参与时长，还可通过 Maker 计划获得额外积分|中|直播博主|[点击进入](https://github.com/GetStream/Vision-Agents)|
+| GrokVideo Studio | 独立运营的文生视频/图生视频工具（接入 Grok Imagine API，非官方） | 首次登录送试用积分 | 低 | 短视频创作者、社媒运营 | [点击进入](https://grokvideogenerator.dev) |
+| KDA Firestarter AI Dance | 独立非官方：一张照片生成 13 秒 480p 21:9 独舞视频；一次性付费起 $7.99，不隶属 Riot/KDA | 付费（$7.99 起） | 低 | 短视频创作者、社媒运营 | [点击进入](https://kdafirestarterai.dev) |
+| A2O LITE NEON AI Dance | 独立工具：两张照片生成 15 秒 480p 16:9 双人霓虹舞视频（含参考音轨）；一次性付费起 $7.99 | 付费（$7.99 起） | 低 | 短视频创作者、社媒运营 | [点击进入](https://a2oliteai.org) |
+| dime dime baby ai | 独立工具：一张照片生成约 5 秒 480p 9:16 舞蹈视频（Quince Classic / Party Groove）；一次性付费起 $7.99 | 付费（$7.99 起） | 低 | 短视频创作者、社媒运营 | [点击进入](https://dimedimebabyai.dev) |
+| Alors On Danse Video Maker | 独立 AI 视频工具：两张人像照生成 13 秒 480p 双人摄影棚舞蹈短片；纯付费，非官方 | 付费 | 低 | 短视频创作者、社媒运营 | [点击进入](https://alorsondansevideo.com) |
+| Bad Times AI | 独立 AI 工具：从照片合成跳舞特效视频；一次性付费起 $7.99，非官方 | 付费（$7.99 起） | 低 | 短视频创作者、社媒运营 | [点击进入](https://badtimesai.dev) |
+| I Found You in the Crowd AI | 独立 AI 工具：从照片合成人群中相遇特效视频；付费起 $7.99，非官方 | 付费（$7.99 起） | 低 | 短视频创作者、社媒运营 | [点击进入](https://ifoundyouinthecrowdai.com) |
 
 ### **视频剪辑与制作** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
