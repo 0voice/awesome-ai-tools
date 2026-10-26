@@ -343,6 +343,7 @@
 | Runway Gen-3 | 视频转设计、音频响应视觉效果、动态 Logo 和 AR 体验 | 免费版有限次数，订阅 $15-95/月 | 中 | 视频创作者、动态设计师 | [点击进入](https://runwayml.com/) |
 | Microsoft Designer | 集成 DALL-E，日常设计、品牌视觉内容生成 | 免费基础版 | 低 | 普通用户、职场人士 | [点击进入](https://designer.microsoft.com/) |
 | Craiyon | 轻量级免费图像生成 | 免费无限 | 低 | 尝鲜用户、创意爱好者 | [点击进入](https://www.craiyon.com/) |
+| Photoshoot | AI 商业摄影：上传产品图与时尚参考图，生成影棚级商品图与模特图，面向电商卖家与品牌 | 免费试用 30 积分，订阅 $15/月起 | 低 | 电商卖家、品牌方、内容创作者 | [点击进入](https://photoshoot.app) |
 | DreamStudio | Stability AI 官方 Web 界面，高度自定义图像生成 | 注册送免费点数 | 中 | Stable Diffusion 用户 | [点击进入](https://dreamstudio.ai/) |
 | NovelAI | 二次元/动漫风格图像生成，专攻插画和角色创作 | 有限免费 | 中 | 插画师、动漫爱好者 | [点击进入](https://novelai.net/) |
 | Stableboost | 基于 Stable Diffusion 的图像生成与优化 | 基础免费 | 中 | 设计师、AI 爱好者 | [点击进入](https://stableboost.io/) |
