@@ -1280,6 +1280,7 @@
 | Toolify.ai | 全球最大 AI 工具导航平台之一，收录 28,328 个 AI 工具、459 个分类、每日 AI 新闻 | 免费 | 低 | 深度用户、研究人员 | [点击进入](https://toolify.ai/) |
 | RankmyAI | 全球最大独立 AI 工具目录之一，覆盖超过 61,000 个 AI 解决方案，提供用例排名与数据驱动评估 | 免费 | 中 | 企业用户、技术决策者 | [点击进入](https://www.rankmyai.com/) |
 | Insidr.ai | 收录 500+ AI 工具、78+ 类目，提供对比评测与免费试用链接 | 免费 | 低 | 专业用户、任务驱动型找工具 | [点击进入](https://insidr.ai/) |
+| RespawnStack | 面向游戏开发者的精选 AI 工具目录 | 免费 | 低 | 游戏开发者、独立游戏工作室 | [点击进入](https://respawnstack.com/) |
 | AI Parabellum | 独立评审 4,500+ AI 工具，提供功能分类、用户评价、使用案例，深度工具评估与对比 | 免费 | 低 | 深度工具评估者 | [点击进入](https://aiparabellum.com/) |
 | What‘s The Big Data | AI 工具目录 + 大数据资讯，聚焦大数据、AI、ML，收录新兴初创与大厂产品 | 免费 | 中 | 数据科学家、ML 工程师 | [点击进入](https://whatsthebigdata.com/) |
 | Tool Finder | 生产力工具评测与指南，帮助用户优化工作流和技术选择 | 免费基础版 | 低 | 效率追求者、生产力爱好者 | [点击进入](https://toolfinder.co/) |
