@@ -942,6 +942,7 @@
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
 |---|---|---|---|---|---|
 | Surfer SEO | SERP感知的内容优化，NLP驱动的关键词分析与实时优化 | 需付费 | 中 | SEO团队、内容营销 | [点击进入](https://surferseo.com/) |
+| CrakSEO Search Console MCP | 通过远程 MCP 查询自有站点的 Google Search Console 和 Bing Webmaster Tools 数据 | 免费，受原平台配额限制 | 需配置 MCP 并授权站点 | SEO团队、AI助手用户 | [官方文档](https://docs.crakseo.com/mcp-servers/search-console) |
 | Semrush | 全栈式AI SEO与内容套件，AI关键词发现、内容助手、自动审计 | 免费基础版 | 中 | SEO团队、企业营销 | [点击进入](https://www.semrush.com/) |
 | Ahrefs | AI关键词智能分析，点击流数据驱动的搜索量建模，竞品反向链接分析 | 有限免费 | 中 | SEO专业人员 | [点击进入](https://ahrefs.com/) |
 | Frase.io | SERP分析、AI内容简报生成、SEO优化内容撰写 | 免费试用 | 中 | 内容营销团队 | [点击进入](https://www.frase.io/) |
