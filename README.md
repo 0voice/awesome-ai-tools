@@ -454,6 +454,33 @@
 |huobao-drama| 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》 |目前开源免费|中|ai短剧、漫剧制作者|[点击进入](https://github.com/chatfire-AI/huobao-drama)|
 |Vision-Agents|专为实时视频 AI 而打造，低延迟|开发者每月可获得 333,000 分钟的参与时长，还可通过 Maker 计划获得额外积分|中|直播博主|[点击进入](https://github.com/GetStream/Vision-Agents)|
 
+
+| airapvideo | 人声+照片生成 9:16 对口型说唱短视频（独立工具） | 一次性积分包 $8.88 起 | 低 | 短视频创作者、说唱爱好者 | [点击进入](https://ai-rap-video.asia/) |
+| Alors on Danse AI | 两张照片生成约15秒白棚双人舞短视频（独立粉丝工具） | 一次性积分包 $8.88 起 | 低 | 短视频创作者、双人舞爱好者 | [点击进入](https://tryalorsondanse.video/) |
+| Bad Times AI | 一张照片生成约15秒 9:16 争吵/对口型舞蹈短视频（独立粉丝工具） | 一次性积分包 $8.88 起 | 低 | 短视频创作者、对口型爱好者 | [点击进入](https://badtimesai.cc/) |
+| bbywowguy AI | 一张照片生成约10秒 9:16 quince/concha 梗短视频（独立粉丝工具） | 一次性积分包 $8.88 起 | 低 | 短视频创作者、西语梗爱好者 | [点击进入](https://bbywowguyai.cc/) |
+| Burning Bridges AI | 1–2张照片生成派对模板短视频（银杯 / Where she at，独立粉丝工具） | 一次性积分包 $8.88 起 | 低 | 短视频创作者、派对梗爱好者 | [点击进入](https://burningbridgesvideoai.com/) |
+| Cat in the Hat AI | 一张照片生成约10秒 9:16 门铃万圣节恶搞短视频（独立粉丝工具） | 一次性积分包 $8.88 起 | 低 | 短视频创作者、万圣节爱好者 | [点击进入](https://catinthehat.cc/) |
+| ChatGTT | 一张照片生成约10–13秒 9:16 信用卡拒付梗短视频（独立粉丝工具） | 一次性积分包 $8.88 起 | 低 | 短视频创作者、梗图爱好者 | [点击进入](https://chatgtt.cc/) |
+| Cheba Man AI | 一张全身照生成约15–17秒红色舞台 Tecktonik 短视频（独立粉丝工具） | 一次性积分包 $8.88 起 | 低 | 短视频创作者、舞蹈爱好者 | [点击进入](https://chebamanai.cc/) |
+| Choosin Texas AI | 一张照片生成约15秒 9:16 emo 屋顶翻唱短视频（独立粉丝工具） | 一次性积分包 $8.88 起 | 低 | 短视频创作者、翻唱爱好者 | [点击进入](https://choosintexas.run/) |
+| Chuttamalle Dance AI | 授权人像生成约15秒 9:16 生成式舞蹈短视频（独立粉丝工具） | 一次性积分包 $8.88 起 | 低 | 短视频创作者、舞蹈爱好者 | [点击进入](https://trychuttamalle.app/) |
+| coralineai | 一张自拍生成约10秒 9:16 纽扣眼人偶变身短视频（独立粉丝工具） | 一次性积分包 $8.88 起 | 低 | 短视频创作者、万圣节爱好者 | [点击进入](https://coralineai.run/) |
+| Devil Wears Prada AI | 一张照片生成约15秒 9:16 街头造型焕新短视频（独立粉丝工具） | 一次性积分包 $8.88 起 | 低 | 短视频创作者、造型焕新爱好者 | [点击进入](https://pradaai.cc/) |
+| Flying Roadster AI | 一张自拍生成约10–12秒夜坡垂直喷气翻转短视频（独立粉丝工具） | 一次性积分包 $8.88 起 | 低 | 短视频创作者、汽车梗爱好者 | [点击进入](https://flyingcarai.cc/) |
+| Hotel Lobby AI | 两张照片生成约15秒酒店大堂双人短视频（独立粉丝工具） | 一次性积分包 $8.88 起 | 低 | 短视频创作者、双人剧情爱好者 | [点击进入](https://tryhotellobby.app/) |
+| JeanPhilAI | 一张照片生成约12–15秒金发波波头+小胡子短视频（独立粉丝工具） | 一次性积分包 $8.88 起 | 低 | 短视频创作者、变装梗爱好者 | [点击进入](https://jeanphilai.cc/) |
+| Kiss Cam AI | 1–2张照片生成约10秒体育场 kiss-cam 短视频（独立粉丝工具） | 一次性积分包 $8.88 起 | 低 | 短视频创作者、体育场梗爱好者 | [点击进入](https://coldplayaffairai.cc/) |
+| Raindance AI | 两张照片生成约15秒码头多镜头短视频（独立粉丝工具） | 一次性积分包 $8.88 起 | 低 | 短视频创作者、双人剧情爱好者 | [点击进入](https://raindanceai.click/) |
+| RemixMeme | 用照片生成舞蹈/宠物/搞笑梗短视频（独立工具） | 付费模板 | 低 | 短视频创作者、梗图爱好者 | [点击进入](https://remixmeme.com/) |
+| Rumpelstiltskin Dance AI | 1–2张照片生成谷仓踮脚舞蹈短视频（独立粉丝工具） | 一次性积分包 $8.88 起 | 低 | 短视频创作者、舞蹈梗爱好者 | [点击进入](https://rumpelstiltskindance.video/) |
+| ShanShenBu AI | 一张照片生成约13–15秒 9:16 闪身步舞蹈短视频（独立粉丝工具） | 一次性积分包 $8.88 起 | 低 | 短视频创作者、舞蹈爱好者 | [点击进入](https://shanshenbuai.cc/) |
+| Unforgettable Car AI | 一张自拍生成约10秒 9:16 纸牌揭车短视频（独立粉丝工具） | 一次性积分包 $8.88 起 | 低 | 短视频创作者、汽车梗爱好者 | [点击进入](https://unforgettablecarai.cc/) |
+| Venom Car AI | 一张车照片生成约15秒黑液车库组装短视频（独立粉丝工具） | 一次性积分包 $8.88 起 | 低 | 短视频创作者、汽车梗爱好者 | [点击进入](https://venomcarai.cc/) |
+| venommakeup AI | 一张照片生成约10秒 9:16 万圣节半脸黑液短视频（独立粉丝工具） | 一次性积分包 $8.88 起 | 低 | 短视频创作者、万圣节爱好者 | [点击进入](https://venommakeup.cc/) |
+| Victoria Secret AI | 一张照片生成约10秒 9:16 天使翅膀走秀短视频（独立粉丝工具） | 一次性积分包 $8.88 起 | 低 | 短视频创作者、走秀爱好者 | [点击进入](https://victoriasecretai.cc/) |
+| wywmysweetie AI | 一张照片生成约13秒 9:16 jersey-club 舞蹈短视频（独立粉丝工具） | 一次性积分包 $8.88 起 | 低 | 短视频创作者、舞蹈爱好者 | [点击进入](https://wywmysweetie.run/) |
+
 ### **视频剪辑与制作** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
 |---|---|---|---|---|---|
