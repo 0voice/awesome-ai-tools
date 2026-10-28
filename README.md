@@ -480,6 +480,7 @@
 | Google Lyria 3 Pro | 最长3分钟AI音乐、图像引导生成 | 有限免费 | 中 | 音乐制作人、创意工作者 | [点击进入](https://deepmind.google/lyria) |
 | 昆仑万维 Mureka V8 | 中文AI音乐生成、人声表现力强 | 有限免费 | 低 | 国内音乐创作者 | [点击进入](https://mureka.ai/) |
 | Udio | AI音乐生成、社区分享 | 每日免费点数 | 低 | 音乐爱好者、创意者 | [点击进入](https://www.udio.com/) |
+| Cadence Music | 浏览器端免费AI歌曲生成（文本/歌词→完整歌曲含人声） | 每日4次免费 | 低 | 音乐爱好者、内容创作者 | [点击进入](https://music.rynn.me/) |
 | Soundful | 商用背景音乐生成 | 基础免费 | 低 | 视频创作者、播客主 | [点击进入](https://soundful.com/) |
 | beatoven.ai | 定制化背景音乐生成 | 有限免费 | 低 | 视频创作者、内容制作者 | [点击进入](https://beatoven.ai/) |
 | Wondera | AI音乐生成、高质量输出 | 有限免费 | 中 | 音乐创作者 | [点击进入](https://www.wondera.ai/) |
