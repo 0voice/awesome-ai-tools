@@ -343,6 +343,7 @@
 | Runway Gen-3 | 视频转设计、音频响应视觉效果、动态 Logo 和 AR 体验 | 免费版有限次数，订阅 $15-95/月 | 中 | 视频创作者、动态设计师 | [点击进入](https://runwayml.com/) |
 | Microsoft Designer | 集成 DALL-E，日常设计、品牌视觉内容生成 | 免费基础版 | 低 | 普通用户、职场人士 | [点击进入](https://designer.microsoft.com/) |
 | Craiyon | 轻量级免费图像生成 | 免费无限 | 低 | 尝鲜用户、创意爱好者 | [点击进入](https://www.craiyon.com/) |
+| Photoshoot | AI 商业摄影：上传产品图与时尚参考图，生成影棚级商品图与模特图，面向电商卖家与品牌 | 免费试用 30 积分，订阅 $15/月起 | 低 | 电商卖家、品牌方、内容创作者 | [点击进入](https://photoshoot.app) |
 | DreamStudio | Stability AI 官方 Web 界面，高度自定义图像生成 | 注册送免费点数 | 中 | Stable Diffusion 用户 | [点击进入](https://dreamstudio.ai/) |
 | NovelAI | 二次元/动漫风格图像生成，专攻插画和角色创作 | 有限免费 | 中 | 插画师、动漫爱好者 | [点击进入](https://novelai.net/) |
 | Stableboost | 基于 Stable Diffusion 的图像生成与优化 | 基础免费 | 中 | 设计师、AI 爱好者 | [点击进入](https://stableboost.io/) |
@@ -360,6 +361,7 @@
 | Fotor | 在线修图与 AI 设计，AI 生成、人像美化、旧照片修复 | 免费基础版 | 低 | 普通用户、摄影爱好者 | [点击进入](https://www.fotor.com/) |
 | PhotoDirector | AI 生成与专业修图工具结合，物体移除、人像增强 | 免费基础版 | 中 | 摄影爱好者、设计师 | [点击进入](https://www.cyberlink.com/products/photodirector/) |
 | PhotoRoom | 一键抠图、背景替换、产品图优化 | 免费基础版 | 低 | 电商卖家、摄影师 | [点击进入](https://www.photoroom.com/) |
+| Photoshoot | AI 商业摄影工作室,上传一张产品图即可批量生成电商级白底图、生活场景图、模特试穿图与广告素材 | 免费试用 | 低 | 电商卖家、DTC 品牌 | [点击进入](https://photoshoot.app/?utm_source=github_0voice&utm_medium=backlink&utm_campaign=202609_w7_backlinks) |
 | Picsart | 图像编辑与设计，AI 生成、背景移除、贴纸制作 | 免费基础版 | 低 | 社交媒体运营、设计师 | [点击进入](https://picsart.com/) |
 | 123RF | 图库与 AI 图像生成，商用素材快速生成 | 基础免费 | 低 | 电商、内容创作者 | [点击进入](https://www.123rf.com/) |
 | Freepik | 集成 Mystic、Flux、GPT-4o、Kling、Veo、Seedream 3.0 等 AI 模型，支持图像生成、视频制作、图像增强、背景去除、风格重塑 | 每日免费点数 | 低 | 设计师、内容创作者 | [点击进入](https://www.freepik.com/) |
