@@ -355,6 +355,7 @@
 |---|---|---|---|---|---|
 | MyEdit | 全能 AI 图片编辑网站，内置多款 AI 绘图模型（Nano Banana、FLUX、GPT-IMAGE-1.5 等），支持中文指令、人脸/姿势/构图参考、AI 抠图、画质修复 | 每日免费登入点数 | 低 | 设计新手、普通用户 | [点击进入](https://tw.cyberlink.com/) |
 | Canva | 集成 AI 设计功能，海量模板，文本转视频 | 免费基础版 | 低 | 营销人员、非专业设计师 | [点击进入](https://www.canva.com/) |
+| EasySociable | 在编程助手（Claude Code、Cursor、Codex）内把提示词变成品牌化多页轮播图，支持 TikTok/Instagram/LinkedIn | 免费版 $0（每月 3 次下载） | 低 | 内容创作者、独立开发者、社媒运营 | [点击进入](https://easysociable.com/?utm_source=0voice-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) |
 | CapCut | AI 海报设计、图像生成与编辑，集成 Seedream 5.0 模型，多智能体工作流 | 免费 | 低 | 短视频创作者、设计师 | [点击进入](https://www.capcut.com/) |
 | Pixlr | 浏览器图片编辑，AI 背景更换、物体移除、图像生成 | 免费基础版 | 低 | 摄影爱好者、设计师 | [点击进入](https://pixlr.com/) |
 | Fotor | 在线修图与 AI 设计，AI 生成、人像美化、旧照片修复 | 免费基础版 | 低 | 普通用户、摄影爱好者 | [点击进入](https://www.fotor.com/) |
