@@ -522,6 +522,7 @@
 |Pixelle-Video|AI 全自动短视频制作|免费|低|内容创作者|[点击进入](https://github.com/AIDC-AI/Pixelle-Video)|
 |AI-Video-Transcriber|AI视频转录器|免费|中|内容创作者|[点击进入](https://github.com/wendy7756/AI-Video-Transcriber?tab=readme-ov-file)|
 |KrillinAI|集成了视频翻译、配音和语音克隆，支持横屏和竖屏格式|开源免费|中|多语言内容创作者|[点击进入](https://github.com/krillinai/KrillinAI?tab=readme-ov-file)|
+| Karaoke Captions | 浏览器本地语音识别、逐词动态字幕，支持 MP4、SRT、VTT 导出 | Classic 与 Lyrics 样式免费、无水印；Pro 可选 | 低 | 短视频创作者、播客与教育工作者 | [点击进入](https://karaokecaptions.com/) |
 
 
 
