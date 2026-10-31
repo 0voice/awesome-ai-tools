@@ -736,6 +736,7 @@
 | LlamaIndex | 文档检索、RAG、知识库开发 | 开源免费 | 高 | 开发者、文档 AI | [点击进入](https://github.com/run-llama/llama_index) |
 | n8n | 开源工作流自动化、连接 280+ 应用 | 开源免费 | 中 | 开发者、企业 IT | [点击进入](https://github.com/n8n-io/n8n) |
 | DeerFlow | 字节开源深度研究框架、AI+搜索+报告 | 开源免费 | 高 | 研究者、开发者 | [点击进入](https://github.com/bytedance/deer-flow) |
+| SoloPup Memory（公测） | DSH 原生文字记忆；保留原话来源、项目范围、条件与修订历史；词法召回和模型审阅可能失败 | MIT 开源免费；配置的模型 API 可能收费 | 中（需兼容 DSH 与 Node 24.9+） | 已有 DSH 的开发者、创作者 | [点击进入](https://github.com/OakcoderX/solopup-memory) |
 
 ### **开发辅助与API工具** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
