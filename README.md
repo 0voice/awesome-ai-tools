@@ -946,6 +946,8 @@
 | Ahrefs | AI关键词智能分析，点击流数据驱动的搜索量建模，竞品反向链接分析 | 有限免费 | 中 | SEO专业人员 | [点击进入](https://ahrefs.com/) |
 | Frase.io | SERP分析、AI内容简报生成、SEO优化内容撰写 | 免费试用 | 中 | 内容营销团队 | [点击进入](https://www.frase.io/) |
 | 华浩AI数字营销智能体 | 整合创意生成、AI文案、短视频制作、数字人应用、多平台分发、智能直播六大功能 | 有限免费 | 低 | 国内企业营销团队 | [点击进入](https://www.huahao.ai/) |
+| SEOCheck-AI | 免费免注册技术 SEO、Core Web Vitals 及 AI 搜索引擎爬虫可访问性即时诊断分析引擎 | 免费 | 低 | 站长、独立开发者、技术 SEO 人员 | [点击进入](https://seocheck-ai.com/free-seo-check) |
+| SEOAudit | 企业级全站技术 SEO 审计与反向链接图谱分析平台，深度检测抓取与收录异常 | 免费 | 低 | 企业技术团队、SEO 专家、数字营销人员 | [点击进入](https://seoaudit.com.ua/) |
 
 ### **AI虚拟试穿** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
@@ -1290,6 +1292,7 @@
 | itirupati | 面向创作者、企业家的一站式 AI 资源中心，收录顶级 AI 工具 + ChatGPT 提示词 + Notion 模板 | 免费 | 低 | 创作者、企业家 | [点击进入](https://itirupati.com/) |
 | aivyx | 综合性 AI 中枢，提供免费 AI 工具目录 + 高级提示词生成器 + 教育博客 | 免费 | 低 | AI 学习者、内容创作者 | [点击进入](https://aivyx.com/) |
 | drt.fm | AI 工具目录平台 | 免费 | 低 | 普通用户 | [点击进入](https://drt.fm/) |
+| ListAIHub | 精选自主 AI 智能体、开发者 API 与 Model Context Protocol (MCP) 聚合目录，提供 OpenAPI 3.0 规范 | 免费 | 低 | AI 开发者、智能体架构师、研究人员 | [点击进入](https://listaihub.com/) |
 | AIXploria | 社区贡献驱动的 AI 工具目录，用户可提交 AI 工具，保持目录更新 | 免费 | 低 | 社区贡献者、AI 爱好者 | [点击进入](https://aixploria.com/) |
 | AI Top Tools | 提供 AI 工具发现目录，包含用户评论与洞察 | 免费 | 低 | 企业、开发者 | [点击进入](https://aitoptools.com/) |
 | Toolai.io | AI 工具聚合平台，策划 3,771 个高质量 AI 工具，支持按文本、音频、图像、视频、代码分类筛选 | 免费 | 低 | 专业人士、产品经理 | [点击进入](https://toolai.io/) |
