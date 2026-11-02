@@ -1275,6 +1275,7 @@
 | There‘s An AI For That (TAAFT) | 全球最大的 AI 工具目录之一，收录约 12,800 款工具，支持功能对比与价格分析，社区驱动 | 免费 | 低 | 内容创作者、营销人员、普通用户 | [点击进入](https://theresanaiforthat.com/) |
 | Futurepedia / Future Tools | 收录 3,000+ AI 工具，按文本、图像、视频、生产力等分类，提供实用教学与案例分析 | 免费 | 低 | 工具探索、快速上手用户 | [点击进入](https://www.futurepedia.io/) |
 | FutureTools.io | 国际版“AI 工具搜索引擎”，收录约 12,800 款工具，每日更新新上线工具，支持智能语义搜索 | 免费 | 低 | 英文用户、内容创作者、营销人员 | [点击进入](https://www.futuretools.io/) |
+| AIToolNotes | Free AI tools directory with detailed comparisons and guides for students, marketers, developers, and businesses | 免费 | 低 | AI 学习者、内容创作者、开发者 | [点击进入](https://aitoolnotes.blogspot.com) |
 | Product Hunt | 全球新品发布社区，AI 工具新品首发地，社区投票与评论机制，适合发现前沿工具 | 免费 | 低 | 早期采用者、科技爱好者 | [点击进入](https://www.producthunt.com/) |
 | TopAI.tools | 可搜索的 AI 工具目录，收录 19,000+ AI 工具，支持收藏夹与个性化推荐 | 免费 | 低 | 重度 AI 爱好者、工具管理者 | [点击进入](https://topai.tools/) |
 | Toolify.ai | 全球最大 AI 工具导航平台之一，收录 28,328 个 AI 工具、459 个分类、每日 AI 新闻 | 免费 | 低 | 深度用户、研究人员 | [点击进入](https://toolify.ai/) |
