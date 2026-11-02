@@ -652,6 +652,7 @@
 | LangChain | 写作工作流、RAG、多工具协作、Agent | 开源免费 | 高 | 开发者、AI 应用开发 | [点击进入](https://github.com/langchain-ai/langchain) |
 | DeerFlow | 字节开源深度研究框架，AI+搜索+报告输出 | 开源免费 | 高 | 开发者、研究者 | [点击进入](https://github.com/bytedance/deer-flow) |
 | LlamaIndex | 文档检索、增强写作、知识库创作 | 开源免费 | 高 | 开发者、文档 AI | [点击进入](https://github.com/run-llama/llama_index) |
+| AnyModelBot | 首个开箱即用的 DeepSeek Super Agent：开源桌面 AI 助手，后台任务、定时规则，可在微信、飞书中使用 70+ 模型 | 开源免费（模型按量付费） | 低 | 个人用户、开发者、微信/飞书团队 | [点击进入](https://anymodel.bot/) |
 
 
 ##  编程开发类
