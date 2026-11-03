@@ -629,7 +629,7 @@
 ### **综合协作平台** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
 |---|---|---|---|---|---|
-| Breatic | 共享文档、AI画布和项目Agent；多人实时协作，文档改写由人审阅 | 源码可获取；存储/模型另配，遵守自定义许可 | 中 | 创作团队、内部部署开发者 | [GitHub仓库](https://github.com/orime-org/breatic) |
+| Breatic | 共享文档、AI画布和项目Agent；多人实时协作，文档改写由人审阅 | 源码可获取；存储/模型另配，遵守Elastic-2.0 许可 | 中 | 创作团队、内部部署开发者 | [GitHub仓库](https://github.com/orime-org/breatic) |
 | 飞书 Lark | 聊天、文件、会议、数据库一体化 AI 协作 | 免费（最多20位用户） | 中 | 团队、企业 | [点击进入](https://www.larksuite.com/) |
 | Notion | 结构化数据库 + AI 写作与摘要 | 免费基础版 | 中 | 团队、个人知识管理 | [点击进入](https://www.notion.so/) |
 | ClickUp | AI 摘要、工作量洞察、预测规划 | 永久免费 | 中 | 项目管理团队 | [点击进入](https://clickup.com/) |
