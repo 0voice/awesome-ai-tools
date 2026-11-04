@@ -334,6 +334,9 @@
 | [PromptImage](https://promptimage.cloud) | Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium | Freemium | [Visit](https://promptimage.cloud) |
 | [TeslaWraps](https://teslawraps.design) | Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit… | Freemium | [Visit](https://teslawraps.design) |
 | [GrokVideo Studio](https://grokvideogenerator.dev) | Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official … | Freemium | [Visit](https://grokvideogenerator.dev) |
+| [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://alorsondansevideo.com) |
+| [Bad Times AI](https://badtimesai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://badtimesai.dev) |
+| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://ifoundyouinthecrowdai.com) |
 | DALL·E 4 | 叙事驱动图像生成，集成 ChatGPT，多模态输入，构图能力强 | 有限免费（ChatGPT 订阅包含） | 低 | ChatGPT 用户、内容创作者 | [点击进入](https://openai.com/dall-e-4) |
 | Adobe Firefly 3.0 | Photoshop 原生集成，商用安全，支持矢量缩放和生成填充 | 免费试用，Creative Cloud 订阅 $20-80/月 | 中 | 企业设计、Adobe 用户 | [点击进入](https://www.adobe.com/products/firefly.html) |
 | Stable Diffusion 3.5 | 开源本地部署，完全可控，支持 LoRA 微调、ControlNet 姿态控制 | 开源免费（仅电费） | 高 | 开发者、技术爱好者、私有部署 | [点击进入](https://stability.ai/) |
