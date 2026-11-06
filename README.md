@@ -165,6 +165,7 @@
 
 ##  文本创作类
 涵盖综合写作、营销文案、学术论文、小说创作、内容改写、办公文档、浏览器插件、垂直领域、聚合工具以及开源项目等类别
+| [OneMira C1](https://onemira.com/products/c1) | 免订阅 AI 语音记录器与本地 AI 会议纪要系统（支持 ✨ Local AI、Works Standalone 独立录音、🗣️ Speaker ID 说话人识别、Zero Cloud 零月租，并提供开源 [MCP Server](https://github.com/onemira-space/onemira-mcp) 接入 Claude/Cursor） | 硬件买断 $99（$0/月订阅） |
 
 ### **综合型写作助手全能型** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
