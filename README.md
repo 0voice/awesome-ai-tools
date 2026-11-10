@@ -531,6 +531,7 @@
 | WaveSpeedAI | 聚合50+音视频AI模型 | 注册送免费点数 | 中 | AI模型测试、开发者 | [点击进入](https://wavespeed.ai/) |
 |video-starter-kit|AI视频入门工具包|不完全免费|中|全球内容传播者|[点击进入](https://github.com/fal-ai-community/video-starter-kit)|
 |awesome-artificial-intelligence|ai学习以及工具|免费|中|ai初学者、ai爱好者|[点击进入](https://github.com/owainlewis/awesome-artificial-intelligence)|
+|创作者AI工具榜|短视频创作者AI工具对比导航：数字人/配音/剪辑/文案四类横向对比与选购指南，价格按各工具官网核对|免费|低|短视频创作者、自媒体人|[点击进入](https://xwdeshenghuo.github.io/creator-ai-tools/)|
 
 ### **开源项目** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
