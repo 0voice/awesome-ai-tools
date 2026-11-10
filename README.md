@@ -568,6 +568,7 @@
 | Claude | 长文本、文档分析、写作、总结 | 免费版有限次数 | 中 | 法律、学术、长文创作者 | [点击进入](https://www.anthropic.com/) |
 | 智谱清言 | 中文写作、对话、知识问答、润色 | 每日免费额度 | 低 | 学生、职场、内容创作者 | [点击进入](https://chat.zhipuai.cn/) |
 | 秘塔 AI | 无广告纯净搜索、生成微型研报 | 免费 | 低 | 研究人员、市场分析 | [点击进入](https://metaso.cn/) |
+| Prompt Generator | 按所选 AI 工具的语法生成提示词，支持 ChatGPT、Claude、Gemini、Midjourney、Nano Banana、Veo、Sora 等，也可上传图片反推提示词 | 免费，无需注册，每天 10 次 | 低 | AI 绘画与视频创作者、日常 AI 用户 | [点击进入](https://trypromptgenerator.com) |
 
 ### **AIPPT/演示文稿** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
