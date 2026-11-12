@@ -470,6 +470,7 @@
 | Diffusion Studio Pro | 本地优先AI视频编辑、生成式AI | 免费 | 中 | 开发者、AI爱好者 | [点击进入](https://diffusion.studio/) |
 | AI Video Shortener | 长视频自动剪辑为短视频片段 | 免费 | 低 | 播客、访谈内容创作者 | [点击进入](https://sider.ai/) |
 |Text-To-Video-AI|文字转视频AI可本地部署|免费开源|中|社媒内容创作者|[点击进入](https://github.com/SamurAIGPT/Text-To-Video-AI)|
+| Vidmoat | 通过对话或 MCP 导入素材、编辑时间线并导出 MP4 的 AI 视频编辑器 | 免费 Hobby 方案；测试密钥免费且不消耗额度 | 中 | 创作者、开发者 | [点击进入](https://vidmoat.com) |
 
 
 ### **音频生成与编辑** 
