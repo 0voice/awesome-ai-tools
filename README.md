@@ -643,6 +643,7 @@
 | Open WebUI | 零代码构建本地 AI 交互界面 | 开源免费 | 中 | 开发者、企业私有部署 | [点击进入](https://github.com/open-webui/open-webui) |
 | FastGPT | 高速内容生成专家，5秒内响应复杂查询 | 开源免费 | 中 | 开发者、企业 | [点击进入](https://github.com/labring/FastGPT) |
 | Presentation-AI | 一句话生成专业 PPT，本地部署 | 开源免费 | 中 | 开发者、企业、教师 | [点击进入](https://github.com/allweonedev/presentation-ai) |
+| 构图AI | 一句话生成可编辑架构图/时序图/流程图，Excalidraw 画布 | 免费额度 | 低 | 开发者、产品经理 | [点击进入](https://draw.lzkz.top/) |
 | ChatPDF | PDF 文件对话式交互，快速定位信息 | 开源免费 | 中 | 学生、研究员 | [点击进入](https://github.com/heyPooPy/ChatPDF) |
 | Skyvern | AI 智能驱动网页自动化，像人类一样操作网页 | 开源免费 | 高 | 开发者、RPA 团队 | [点击进入](https://github.com/skyvern-ai/skyvern) |
 | AutoGPT | 自主 AI 智能代理，任务自动拆解与执行 | 开源免费 | 高 | 开发者、AI 研究者 | [点击进入](https://github.com/Significant-Gravitas/AutoGPT) |
