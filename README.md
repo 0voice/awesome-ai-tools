@@ -1338,6 +1338,7 @@
 | n.myliang.cn | 一站式模型体验与工具聚合平台，支持 ChatGPT、Claude、Gemini、DeepSeek、通义千问等主流大模型，内置 AI 创作、AI 生图、AI 视频、AI Agent 等全链路工具 | 免费 | 低 | 开发者、普通用户 | [点击进入](https://n.myliang.cn) |
 | n.kulaai.cn | 一站式 AI 模型与工具聚合体验平台，整合多模型对话、AI 生图、AI 视频、AI 代码、AI Agent 等全场景能力 | 免费 | 低 | 个人用户、开发者 | [点击进入](https://n.kulaai.cn) |
 | Use AI | 统一界面访问 GPT-5、Claude、Grok 等 25+ 种前沿大语言模型，支持语音指令与跨语言交流 | 免费基础版 | 中 | 深度研究者、创意写作者、开发者 | [点击进入](https://use.ai) |
+| MoeRouter | 多模型 API 网关，支持按可用线路和价格选路 | 按量付费，符合条件的 Doc2X 付费会员可领取一次体验额度 | 中 | 需要通过 SDK 调用模型的开发者 | [点击进入](https://moerouter.com/) |
 
 ### **导航类开源项目** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
