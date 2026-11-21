@@ -469,6 +469,7 @@
 | Vmaker AI | 浏览器AI视频编辑器 | 基础免费 | 低 | 远程团队、教学内容创作者 | [点击进入](https://www.vmaker.com/) |
 | Diffusion Studio Pro | 本地优先AI视频编辑、生成式AI | 免费 | 中 | 开发者、AI爱好者 | [点击进入](https://diffusion.studio/) |
 | AI Video Shortener | 长视频自动剪辑为短视频片段 | 免费 | 低 | 播客、访谈内容创作者 | [点击进入](https://sider.ai/) |
+| OpenShorts.io | AI 提取长视频片段、竖屏重构图与字幕，提供 MCP API | 每月最多 15 分钟、480p 带水印；额度可能暂不可用 | 低（在线注册） | 播客、访谈及短视频创作者 | [点击进入](https://openshorts.io/) |
 |Text-To-Video-AI|文字转视频AI可本地部署|免费开源|中|社媒内容创作者|[点击进入](https://github.com/SamurAIGPT/Text-To-Video-AI)|
 
 
