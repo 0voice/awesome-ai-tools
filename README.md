@@ -453,6 +453,7 @@
 |waoowaoo|一款基于 AI 技术的短剧/漫画视频制作工具，支持从小说文本自动生成分镜、角色、场景，并制作成完整视频。|部分免费|中|ai短剧、漫剧创作者|[点击进入](https://github.com/saturndec/waoowaoo)|
 |huobao-drama| 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》 |目前开源免费|中|ai短剧、漫剧制作者|[点击进入](https://github.com/chatfire-AI/huobao-drama)|
 |Vision-Agents|专为实时视频 AI 而打造，低延迟|开发者每月可获得 333,000 分钟的参与时长，还可通过 Maker 计划获得额外积分|中|直播博主|[点击进入](https://github.com/GetStream/Vision-Agents)|
+| Angry Dance | 单张照片生成 AI 舞蹈、宠物跳舞与 9:16 竖屏短视频，内置 40+ 一键特效，浏览器直接使用且无水印下载 | 免费创作小工具，视频按透明积分计费 | 低 | 短视频创作者、社媒运营、普通用户 | [点击进入](https://angrydance.com/) |
 
 ### **视频剪辑与制作** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
