@@ -435,6 +435,7 @@
 ### **AI视频生成** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
 |---|---|---|---|---|---|
+| Free Image to Video | Free image to video AI with no daily cap: start with no sign-up, keep going on a free account. Every video comes with sound and no watermark. | 免登录试玩，免费账号无日上限 | 低 | 创作者、营销人员、开发者 | [点击进入](https://freeimagetovideo.ai/) |
 | Runway Gen-4 | 专业级视频生成、运动笔刷、相机预设 | 免费版约125积分 | 中 | 影视创作者、专业视频制作 | [点击进入](https://runwayml.com/) |
 | Pika 2.5 | 文本/图像生视频、动画效果 | 有限免费 | 低 | 短视频创作者、创意人员 | [点击进入](https://pika.art/) |
 | Kling 2.6 | 最长120秒视频生成、动态动作 | 每日免费点数 | 低 | 短视频博主、创意创作者 | [点击进入](https://kling.kuaishou.com/) |
