@@ -744,6 +744,7 @@
 | Genkit | 开源 AI 应用开发框架、统一 API | 开源免费 | 中 | 多模型开发者 | [点击进入](https://github.com/google/genkit) |
 | Vercel AI Gateway | 一键调用数百种 AI 模型 | 免费 | 中 | AI 应用开发者 | [点击进入](https://vercel.com/ai-gateway) |
 | MuleSoft Vibes | AI 生成 API 规范、语义验证 | 免费试用 | 中 | API 开发者 | [点击进入](https://www.mulesoft.com/) |
+| [Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp/blob/main/README.zh-CN.md) | 18 个托管在 Apify 上的公共数据 MCP 服务器：美国联邦合同与资助（SAM.gov、Grants.gov、USAspending）、欧盟 TED 与英国招标、市议会会议、Ashby/Greenhouse/Lever/SmartRecruiters 职位、公司社交账号、Google 广告透明度、Etsy 销量、体育赔率、Spotify 播放量 |  |  |  |  |
 
 ### **其他实用工具** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
