@@ -796,6 +796,7 @@
 | Mathful | 免费数学 AI 求解、精准易用 | 免费 | 低 | 数学学习者 | [点击进入](https://mathful.com/) |
 | Thetawise | 数学 AI 辅导、即时帮助、详细解答 | 免费基础版 | 低 | 高中生、大学生 | [点击进入](https://thetawise.ai/) |
 | MathGen | 数理化解题、分步答案 | 免费 | 低 | 初高中生 | [点击进入](https://mathgen.ai/) |
+| ModuMath（모두의수학） | 从卡住的步骤开始看解题说明，再做一道条件有所变化的同类题 | 注册后提供有限体验点数 | 低 | 自学数学的初高中生 | [点击进入](https://math.hjinlabs.com/?lang=zh) |
 | CodeGeeX 校园版 | AI 编程助教、代码补全与解释 | 开源免费 | 中 | 编程学生、教师 | [点击进入](https://github.com/THUDM/CodeGeeX) |
 | Cursor | AI 编程学习工具、代码生成与解释 | 免费基础版 | 中 | 编程初学者 | [点击进入](https://cursor.com/) |
 
