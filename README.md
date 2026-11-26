@@ -946,6 +946,7 @@
 | Ahrefs | AI关键词智能分析，点击流数据驱动的搜索量建模，竞品反向链接分析 | 有限免费 | 中 | SEO专业人员 | [点击进入](https://ahrefs.com/) |
 | Frase.io | SERP分析、AI内容简报生成、SEO优化内容撰写 | 免费试用 | 中 | 内容营销团队 | [点击进入](https://www.frase.io/) |
 | 华浩AI数字营销智能体 | 整合创意生成、AI文案、短视频制作、数字人应用、多平台分发、智能直播六大功能 | 有限免费 | 低 | 国内企业营销团队 | [点击进入](https://www.huahao.ai/) |
+| CiteReady | AI 搜索就绪度（GEO）审计，检测 10 大 AI 爬虫放行状态、Schema.org JSON-LD 实体图谱与 `/llms.txt` 实时生成（支持中英文） | 免费不限次单站审计 | 低 | SEO团队、独立开发者、SaaS站点 | [点击进入](https://cite.shipbastion.com/) |
 
 ### **AI虚拟试穿** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
