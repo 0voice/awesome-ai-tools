@@ -1326,7 +1326,7 @@
 |---|---|---|---|---|---|
 | GitHub AI Nav | 专注于挖掘和展示高质量 AI 开源项目的导航站，实时筛选 GitHub Star 数超过 1000 的 AI 仓库 | 免费 | 低 | 开发者、AI 研究者 | [点击进入](https://91wink.com/) |
 | FindAi导航站 | 免费 AI 工具集合网站，收录 AI 对话、写作、办公、论文、图生视频、文生视频等各类免费工具 | 免费 | 低 | 免费工具使用者 | [点击进入](https://www.2345ai.com/) |
-| AI Tool Hunt | 主打“免费/付费”价格过滤与“今日上新”栏目，让用户按预算快速比对同类工具 | 免费 | 低 | 预算敏感用户 | [点击进入](https://aitoolhunt.com/) |
+| SaaSCity | 交互式 3D SaaS 与 AI 产品发布目录，支持免费提交并提供可筛选的免费外链目录数据库（[free-dofollow-directories](https://saascity.io/free-dofollow-directories)） | 免费 | 低 | 独立开发者、AI/SaaS 创始人 | [点击进入](https://saascity.io/) |
 | AI Tools Directory | 严选策略，只收录评分靠前的 AI 工具，并附带使用教程 | 免费 | 低 | 新手用户 | [点击进入](https://aitoolsdirectory.com/) |
 | AIHubs.ai | 社区投稿 + 编辑精选双通道，支持收藏夹与周报订阅 | 免费 | 低 | 轻量化浏览者 | [点击进入](https://aihubs.ai/) |
 | FlowGPT Directory | 结合提示词社区与 AI 工具榜单，兼顾工具发现与提示工程探索 | 免费 | 低 | 提示工程师 | [点击进入](https://flowgpt.com/) |
