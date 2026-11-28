@@ -457,6 +457,7 @@
 ### **视频剪辑与制作** 
 | 工具名称 | 核心功能 | 免费额度 | 上手难度 | 适用人群 | 官方链接 |
 |---|---|---|---|---|---|
+| ViralForge | 本地视频结构分析、可编辑 VFML 与变体脚本 | 开源；模型调用另计 | 中 | 开发者、视频创作者 | [GitHub](https://github.com/fendouai/ViralForge) |
 | CapCut | AI视频剪辑、模板、字幕、特效 | 功能强大的免费版 | 低 | 短视频创作者、普通用户 | [点击进入](https://www.capcut.com/) |
 | DaVinci Resolve | 专业级剪辑、调色、音频、AI特效 | 功能强大的免费版 | 高 | 专业剪辑师、调色师 | [点击进入](https://www.blackmagicdesign.com/products/davinciresolve) |
 | Canva Video | AI视频设计、模板丰富 | 功能强大的免费版 | 低 | 营销人员、非专业设计师 | [点击进入](https://www.canva.com/) |
